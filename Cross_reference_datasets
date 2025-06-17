@@ -1,0 +1,34 @@
+import pandas as pd
+
+# Load the two datasets
+df_3rd = pd.read_csv("Comeback(3)_Master_Data.csv")
+df_6th = pd.read_csv("TiedThrough6th.csv")
+
+# Convert Date columns to datetime
+df_3rd['Date'] = pd.to_datetime(df_3rd['Date'])
+df_6th['Date'] = pd.to_datetime(df_6th['Date'])
+
+# Strip whitespace from team names to prevent merge issues
+df_3rd['Team'] = df_3rd['Team'].str.strip()
+df_6th['Team'] = df_6th['Team'].str.strip()
+
+# Create a join key: team + date
+df_3rd['Key'] = df_3rd['Date'].astype(str) + "_" + df_3rd['Team']
+df_6th['Key'] = df_6th['Date'].astype(str) + "_" + df_6th['Team']
+
+# Merge datasets on Key
+merged = pd.merge(df_3rd, df_6th, on="Key", suffixes=('_3rd', '_6th'))
+
+# Filter for the exact criteria:
+# - scoring diff was -3 through the 3rd (already true for this dataset)
+# - scoring diff was 0 through the 6th
+# - and result column says W (this should be true but still double-check)
+final = merged[
+    (merged['Diff_3rd'] == -3) &
+    (merged['Diff_6th'] == 0) &
+    (merged['Result_6th'].str.startswith('W'))
+]
+
+# Save or view the final filtered dataset
+final.to_csv("Filtered_Comebacks_TiedThrough6th.csv", index=False)
+print("Filtered games:", len(final))
