@@ -1,0 +1,6161 @@
+TBR 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 13.5
+  b_games: 60
+  b_pa: 2261
+  b_ab: 1975
+  b_r: 289
+  b_h: 470
+  b_doubles: 105
+  b_triples: 12
+  b_hr: 80
+  b_rbi: 274
+  b_sb: 48
+  b_cs: 9
+  b_bb: 243
+  b_so: 608
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.328
+  b_slugging_perc: 0.425
+  b_onbase_plus_slugging: 0.753
+  b_onbase_plus_slugging_plus: 111
+  b_roba: 0.334
+  b_rbat_plus: 111
+  b_tb: 839
+  b_gidp: 38
+  b_hbp: 28
+  b_sh: 0
+  b_sf: 14
+  b_ibb: 9
+  pos: 
+  awards: 
+
+TBR 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 36.5
+  b_games: 162
+  b_pa: 6213
+  b_ab: 5507
+  b_r: 857
+  b_h: 1336
+  b_doubles: 288
+  b_triples: 36
+  b_hr: 222
+  b_rbi: 810
+  b_sb: 88
+  b_cs: 42
+  b_bb: 585
+  b_so: 1542
+  b_batting_avg: 0.243
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.429
+  b_onbase_plus_slugging: 0.75
+  b_onbase_plus_slugging_plus: 110
+  b_roba: 0.328
+  b_rbat_plus: 112
+  b_tb: 2362
+  b_gidp: 75
+  b_hbp: 72
+  b_sh: 6
+  b_sf: 41
+  b_ibb: 27
+  pos: 
+  awards: 
+
+TBR 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 20.7
+  b_games: 162
+  b_pa: 6008
+  b_ab: 5412
+  b_r: 666
+  b_h: 1294
+  b_doubles: 296
+  b_triples: 17
+  b_hr: 139
+  b_rbi: 634
+  b_sb: 95
+  b_cs: 37
+  b_bb: 500
+  b_so: 1395
+  b_batting_avg: 0.239
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.377
+  b_onbase_plus_slugging: 0.686
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.307
+  b_rbat_plus: 99
+  b_tb: 2041
+  b_gidp: 93
+  b_hbp: 57
+  b_sh: 7
+  b_sf: 31
+  b_ibb: 13
+  pos: 
+  awards: 
+
+TBR 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 34.9
+  b_games: 162
+  b_pa: 6164
+  b_ab: 5511
+  b_r: 860
+  b_h: 1432
+  b_doubles: 282
+  b_triples: 24
+  b_hr: 230
+  b_rbi: 827
+  b_sb: 160
+  b_cs: 41
+  b_bb: 514
+  b_so: 1420
+  b_batting_avg: 0.26
+  b_onbase_perc: 0.331
+  b_slugging_perc: 0.445
+  b_onbase_plus_slugging: 0.776
+  b_onbase_plus_slugging_plus: 114
+  b_roba: 0.342
+  b_rbat_plus: 115
+  b_tb: 2452
+  b_gidp: 109
+  b_hbp: 95
+  b_sh: 6
+  b_sf: 38
+  b_ibb: 7
+  pos: 
+  awards: 
+
+TBR 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.0
+  b_games: 162
+  b_pa: 6006
+  b_ab: 5389
+  b_r: 604
+  b_h: 1241
+  b_doubles: 245
+  b_triples: 23
+  b_hr: 147
+  b_rbi: 564
+  b_sb: 178
+  b_cs: 53
+  b_bb: 493
+  b_so: 1485
+  b_batting_avg: 0.23
+  b_onbase_perc: 0.302
+  b_slugging_perc: 0.366
+  b_onbase_plus_slugging: 0.669
+  b_onbase_plus_slugging_plus: 92
+  b_roba: 0.301
+  b_rbat_plus: 92
+  b_tb: 1973
+  b_gidp: 87
+  b_hbp: 78
+  b_sh: 10
+  b_sf: 32
+  b_ibb: 15
+  pos: 
+  awards: 
+
+TBR 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 17.0
+  b_games: 84
+  b_pa: 3153
+  b_ab: 2836
+  b_r: 403
+  b_h: 734
+  b_doubles: 130
+  b_triples: 9
+  b_hr: 93
+  b_rbi: 382
+  b_sb: 108
+  b_cs: 25
+  b_bb: 256
+  b_so: 700
+  b_batting_avg: 0.259
+  b_onbase_perc: 0.324
+  b_slugging_perc: 0.409
+  b_onbase_plus_slugging: 0.733
+  b_onbase_plus_slugging_plus: 108
+  b_roba: 0.329
+  b_rbat_plus: 109
+  b_tb: 1161
+  b_gidp: 58
+  b_hbp: 28
+  b_sh: 8
+  b_sf: 23
+  b_ibb: 3
+  pos: 
+  awards: 
+
+LAA 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.6
+  b_games: 60
+  b_pa: 2308
+  b_ab: 2020
+  b_r: 294
+  b_h: 501
+  b_doubles: 97
+  b_triples: 8
+  b_hr: 85
+  b_rbi: 285
+  b_sb: 21
+  b_cs: 8
+  b_bb: 239
+  b_so: 490
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.332
+  b_slugging_perc: 0.43
+  b_onbase_plus_slugging: 0.763
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.335
+  b_rbat_plus: 106
+  b_tb: 869
+  b_gidp: 49
+  b_hbp: 25
+  b_sh: 6
+  b_sf: 18
+  b_ibb: 8
+  pos: 
+  awards: 
+
+LAA 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.7
+  b_games: 162
+  b_pa: 6019
+  b_ab: 5437
+  b_r: 723
+  b_h: 1331
+  b_doubles: 265
+  b_triples: 23
+  b_hr: 190
+  b_rbi: 691
+  b_sb: 79
+  b_cs: 26
+  b_bb: 464
+  b_so: 1394
+  b_batting_avg: 0.245
+  b_onbase_perc: 0.31
+  b_slugging_perc: 0.407
+  b_onbase_plus_slugging: 0.717
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.312
+  b_rbat_plus: 90
+  b_tb: 2212
+  b_gidp: 107
+  b_hbp: 59
+  b_sh: 30
+  b_sf: 25
+  b_ibb: 35
+  pos: 
+  awards: 
+
+LAA 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.7
+  b_games: 162
+  b_pa: 5977
+  b_ab: 5423
+  b_r: 623
+  b_h: 1265
+  b_doubles: 219
+  b_triples: 31
+  b_hr: 190
+  b_rbi: 600
+  b_sb: 77
+  b_cs: 27
+  b_bb: 449
+  b_so: 1539
+  b_batting_avg: 0.233
+  b_onbase_perc: 0.297
+  b_slugging_perc: 0.39
+  b_onbase_plus_slugging: 0.687
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.305
+  b_rbat_plus: 91
+  b_tb: 2116
+  b_gidp: 95
+  b_hbp: 54
+  b_sh: 25
+  b_sf: 25
+  b_ibb: 28
+  pos: 
+  awards: 
+
+LAA 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.6
+  b_games: 162
+  b_pa: 6145
+  b_ab: 5489
+  b_r: 739
+  b_h: 1346
+  b_doubles: 248
+  b_triples: 26
+  b_hr: 231
+  b_rbi: 708
+  b_sb: 72
+  b_cs: 31
+  b_bb: 518
+  b_so: 1524
+  b_batting_avg: 0.245
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.426
+  b_onbase_plus_slugging: 0.743
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.323
+  b_rbat_plus: 100
+  b_tb: 2339
+  b_gidp: 117
+  b_hbp: 79
+  b_sh: 8
+  b_sf: 46
+  b_ibb: 27
+  pos: 
+  awards: 
+
+LAA 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.6
+  b_games: 162
+  b_pa: 5975
+  b_ab: 5357
+  b_r: 635
+  b_h: 1227
+  b_doubles: 227
+  b_triples: 15
+  b_hr: 165
+  b_rbi: 596
+  b_sb: 133
+  b_cs: 50
+  b_bb: 482
+  b_so: 1416
+  b_batting_avg: 0.229
+  b_onbase_perc: 0.301
+  b_slugging_perc: 0.369
+  b_onbase_plus_slugging: 0.671
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.301
+  b_rbat_plus: 90
+  b_tb: 1979
+  b_gidp: 116
+  b_hbp: 86
+  b_sh: 12
+  b_sf: 35
+  b_ibb: 4
+  pos: 
+  awards: 
+
+LAA 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.3
+  b_games: 83
+  b_pa: 3069
+  b_ab: 2770
+  b_r: 359
+  b_h: 633
+  b_doubles: 112
+  b_triples: 9
+  b_hr: 124
+  b_rbi: 345
+  b_sb: 37
+  b_cs: 18
+  b_bb: 227
+  b_so: 808
+  b_batting_avg: 0.229
+  b_onbase_perc: 0.296
+  b_slugging_perc: 0.41
+  b_onbase_plus_slugging: 0.705
+  b_onbase_plus_slugging_plus: 97
+  b_roba: 0.311
+  b_rbat_plus: 96
+  b_tb: 1135
+  b_gidp: 50
+  b_hbp: 44
+  b_sh: 7
+  b_sf: 18
+  b_ibb: 11
+  pos: 
+  awards: 
+
+STL 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.6
+  b_games: 58
+  b_pa: 2011
+  b_ab: 1752
+  b_r: 240
+  b_h: 410
+  b_doubles: 73
+  b_triples: 7
+  b_hr: 51
+  b_rbi: 231
+  b_sb: 18
+  b_cs: 10
+  b_bb: 205
+  b_so: 477
+  b_batting_avg: 0.234
+  b_onbase_perc: 0.323
+  b_slugging_perc: 0.371
+  b_onbase_plus_slugging: 0.694
+  b_onbase_plus_slugging_plus: 92
+  b_roba: 0.31
+  b_rbat_plus: 93
+  b_tb: 650
+  b_gidp: 38
+  b_hbp: 33
+  b_sh: 4
+  b_sf: 16
+  b_ibb: 3
+  pos: 
+  awards: 
+
+STL 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 32.5
+  b_games: 162
+  b_pa: 6001
+  b_ab: 5351
+  b_r: 706
+  b_h: 1303
+  b_doubles: 261
+  b_triples: 22
+  b_hr: 198
+  b_rbi: 678
+  b_sb: 89
+  b_cs: 22
+  b_bb: 478
+  b_so: 1341
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.313
+  b_slugging_perc: 0.412
+  b_onbase_plus_slugging: 0.725
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.322
+  b_rbat_plus: 99
+  b_tb: 2202
+  b_gidp: 99
+  b_hbp: 86
+  b_sh: 40
+  b_sf: 44
+  b_ibb: 32
+  pos: 
+  awards: 
+
+STL 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 36.1
+  b_games: 162
+  b_pa: 6165
+  b_ab: 5496
+  b_r: 772
+  b_h: 1386
+  b_doubles: 290
+  b_triples: 21
+  b_hr: 197
+  b_rbi: 739
+  b_sb: 95
+  b_cs: 25
+  b_bb: 537
+  b_so: 1226
+  b_batting_avg: 0.252
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.42
+  b_onbase_plus_slugging: 0.745
+  b_onbase_plus_slugging_plus: 112
+  b_roba: 0.332
+  b_rbat_plus: 113
+  b_tb: 2309
+  b_gidp: 112
+  b_hbp: 80
+  b_sh: 5
+  b_sf: 45
+  b_ibb: 11
+  pos: 
+  awards: 
+
+STL 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 17.5
+  b_games: 162
+  b_pa: 6204
+  b_ab: 5510
+  b_r: 719
+  b_h: 1376
+  b_doubles: 264
+  b_triples: 12
+  b_hr: 209
+  b_rbi: 697
+  b_sb: 101
+  b_cs: 29
+  b_bb: 570
+  b_so: 1326
+  b_batting_avg: 0.25
+  b_onbase_perc: 0.326
+  b_slugging_perc: 0.416
+  b_onbase_plus_slugging: 0.742
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.328
+  b_rbat_plus: 101
+  b_tb: 2291
+  b_gidp: 122
+  b_hbp: 70
+  b_sh: 13
+  b_sf: 37
+  b_ibb: 17
+  pos: 
+  awards: 
+
+STL 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.4
+  b_games: 162
+  b_pa: 6114
+  b_ab: 5507
+  b_r: 672
+  b_h: 1363
+  b_doubles: 257
+  b_triples: 21
+  b_hr: 165
+  b_rbi: 639
+  b_sb: 91
+  b_cs: 29
+  b_bb: 478
+  b_so: 1318
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.392
+  b_onbase_plus_slugging: 0.703
+  b_onbase_plus_slugging_plus: 96
+  b_roba: 0.311
+  b_rbat_plus: 95
+  b_tb: 2157
+  b_gidp: 91
+  b_hbp: 56
+  b_sh: 17
+  b_sf: 47
+  b_ibb: 10
+  pos: 
+  awards: 
+
+STL 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.3
+  b_games: 85
+  b_pa: 3238
+  b_ab: 2891
+  b_r: 403
+  b_h: 737
+  b_doubles: 145
+  b_triples: 4
+  b_hr: 87
+  b_rbi: 383
+  b_sb: 47
+  b_cs: 15
+  b_bb: 268
+  b_so: 658
+  b_batting_avg: 0.255
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.398
+  b_onbase_plus_slugging: 0.723
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.322
+  b_rbat_plus: 100
+  b_tb: 1151
+  b_gidp: 59
+  b_hbp: 44
+  b_sh: 9
+  b_sf: 25
+  b_ibb: 12
+  pos: 
+  awards: 
+
+OAK 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.3
+  b_games: 60
+  b_pa: 2201
+  b_ab: 1908
+  b_r: 274
+  b_h: 430
+  b_doubles: 91
+  b_triples: 11
+  b_hr: 71
+  b_rbi: 264
+  b_sb: 26
+  b_cs: 3
+  b_bb: 238
+  b_so: 524
+  b_batting_avg: 0.225
+  b_onbase_perc: 0.322
+  b_slugging_perc: 0.396
+  b_onbase_plus_slugging: 0.718
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.321
+  b_rbat_plus: 101
+  b_tb: 756
+  b_gidp: 44
+  b_hbp: 39
+  b_sh: 2
+  b_sf: 14
+  b_ibb: 5
+  pos: 
+  awards: 
+
+OAK 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.1
+  b_games: 162
+  b_pa: 6104
+  b_ab: 5395
+  b_r: 743
+  b_h: 1284
+  b_doubles: 271
+  b_triples: 19
+  b_hr: 199
+  b_rbi: 698
+  b_sb: 88
+  b_cs: 20
+  b_bb: 545
+  b_so: 1349
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.406
+  b_onbase_plus_slugging: 0.723
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.32
+  b_rbat_plus: 104
+  b_tb: 2190
+  b_gidp: 99
+  b_hbp: 98
+  b_sh: 17
+  b_sf: 49
+  b_ibb: 17
+  pos: 
+  awards: 
+
+OAK 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 4.3
+  b_games: 162
+  b_pa: 5863
+  b_ab: 5314
+  b_r: 568
+  b_h: 1147
+  b_doubles: 249
+  b_triples: 15
+  b_hr: 137
+  b_rbi: 537
+  b_sb: 78
+  b_cs: 23
+  b_bb: 433
+  b_so: 1389
+  b_batting_avg: 0.216
+  b_onbase_perc: 0.281
+  b_slugging_perc: 0.346
+  b_onbase_plus_slugging: 0.626
+  b_onbase_plus_slugging_plus: 84
+  b_roba: 0.283
+  b_rbat_plus: 83
+  b_tb: 1837
+  b_gidp: 109
+  b_hbp: 59
+  b_sh: 22
+  b_sf: 33
+  b_ibb: 7
+  pos: 
+  awards: 
+
+OAK 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 2.7
+  b_games: 162
+  b_pa: 5966
+  b_ab: 5311
+  b_r: 585
+  b_h: 1187
+  b_doubles: 225
+  b_triples: 21
+  b_hr: 171
+  b_rbi: 563
+  b_sb: 149
+  b_cs: 31
+  b_bb: 498
+  b_so: 1496
+  b_batting_avg: 0.223
+  b_onbase_perc: 0.298
+  b_slugging_perc: 0.37
+  b_onbase_plus_slugging: 0.669
+  b_onbase_plus_slugging_plus: 88
+  b_roba: 0.297
+  b_rbat_plus: 87
+  b_tb: 1967
+  b_gidp: 125
+  b_hbp: 85
+  b_sh: 28
+  b_sf: 36
+  b_ibb: 12
+  pos: 
+  awards: 
+
+OAK 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 13.1
+  b_games: 162
+  b_pa: 6034
+  b_ab: 5432
+  b_r: 643
+  b_h: 1267
+  b_doubles: 240
+  b_triples: 19
+  b_hr: 196
+  b_rbi: 619
+  b_sb: 98
+  b_cs: 26
+  b_bb: 493
+  b_so: 1502
+  b_batting_avg: 0.233
+  b_onbase_perc: 0.301
+  b_slugging_perc: 0.393
+  b_onbase_plus_slugging: 0.694
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.308
+  b_rbat_plus: 101
+  b_tb: 2133
+  b_gidp: 105
+  b_hbp: 53
+  b_sh: 19
+  b_sf: 37
+  b_ibb: 11
+  pos: 
+  awards: 
+
+OAK 2025 Totals:
+  ERROR: Timeout loading page after retries
+
+CHC 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.8
+  b_games: 60
+  b_pa: 2214
+  b_ab: 1918
+  b_r: 265
+  b_h: 422
+  b_doubles: 82
+  b_triples: 8
+  b_hr: 74
+  b_rbi: 248
+  b_sb: 24
+  b_cs: 10
+  b_bb: 229
+  b_so: 568
+  b_batting_avg: 0.22
+  b_onbase_perc: 0.318
+  b_slugging_perc: 0.387
+  b_onbase_plus_slugging: 0.705
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.319
+  b_rbat_plus: 93
+  b_tb: 742
+  b_gidp: 42
+  b_hbp: 52
+  b_sh: 1
+  b_sf: 13
+  b_ibb: 9
+  pos: 
+  awards: 
+
+CHC 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 18.3
+  b_games: 162
+  b_pa: 5972
+  b_ab: 5306
+  b_r: 705
+  b_h: 1255
+  b_doubles: 225
+  b_triples: 26
+  b_hr: 210
+  b_rbi: 672
+  b_sb: 86
+  b_cs: 37
+  b_bb: 502
+  b_so: 1596
+  b_batting_avg: 0.237
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.407
+  b_onbase_plus_slugging: 0.719
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.32
+  b_rbat_plus: 93
+  b_tb: 2162
+  b_gidp: 133
+  b_hbp: 92
+  b_sh: 40
+  b_sf: 30
+  b_ibb: 17
+  pos: 
+  awards: 
+
+CHC 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.0
+  b_games: 162
+  b_pa: 6072
+  b_ab: 5425
+  b_r: 657
+  b_h: 1293
+  b_doubles: 265
+  b_triples: 31
+  b_hr: 159
+  b_rbi: 620
+  b_sb: 111
+  b_cs: 37
+  b_bb: 507
+  b_so: 1448
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.311
+  b_slugging_perc: 0.387
+  b_onbase_plus_slugging: 0.698
+  b_onbase_plus_slugging_plus: 94
+  b_roba: 0.314
+  b_rbat_plus: 94
+  b_tb: 2097
+  b_gidp: 130
+  b_hbp: 84
+  b_sh: 19
+  b_sf: 36
+  b_ibb: 16
+  pos: 
+  awards: 
+
+CHC 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 28.1
+  b_games: 162
+  b_pa: 6220
+  b_ab: 5504
+  b_r: 819
+  b_h: 1399
+  b_doubles: 269
+  b_triples: 30
+  b_hr: 196
+  b_rbi: 786
+  b_sb: 140
+  b_cs: 34
+  b_bb: 570
+  b_so: 1391
+  b_batting_avg: 0.254
+  b_onbase_perc: 0.33
+  b_slugging_perc: 0.421
+  b_onbase_plus_slugging: 0.751
+  b_onbase_plus_slugging_plus: 106
+  b_roba: 0.332
+  b_rbat_plus: 106
+  b_tb: 2316
+  b_gidp: 95
+  b_hbp: 77
+  b_sh: 15
+  b_sf: 52
+  b_ibb: 11
+  pos: 
+  awards: 
+
+CHC 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 24.0
+  b_games: 162
+  b_pa: 6116
+  b_ab: 5441
+  b_r: 736
+  b_h: 1318
+  b_doubles: 253
+  b_triples: 29
+  b_hr: 170
+  b_rbi: 696
+  b_sb: 143
+  b_cs: 30
+  b_bb: 546
+  b_so: 1362
+  b_batting_avg: 0.242
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.393
+  b_onbase_plus_slugging: 0.71
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.316
+  b_rbat_plus: 100
+  b_tb: 2139
+  b_gidp: 89
+  b_hbp: 70
+  b_sh: 17
+  b_sf: 41
+  b_ibb: 19
+  pos: 
+  awards: 
+
+CHC 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.6
+  b_games: 84
+  b_pa: 3256
+  b_ab: 2914
+  b_r: 453
+  b_h: 745
+  b_doubles: 148
+  b_triples: 17
+  b_hr: 124
+  b_rbi: 444
+  b_sb: 100
+  b_cs: 17
+  b_bb: 288
+  b_so: 659
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.446
+  b_onbase_plus_slugging: 0.77
+  b_onbase_plus_slugging_plus: 120
+  b_roba: 0.345
+  b_rbat_plus: 122
+  b_tb: 1299
+  b_gidp: 36
+  b_hbp: 22
+  b_sh: 7
+  b_sf: 25
+  b_ibb: 9
+  pos: 
+  awards: 
+
+SDP 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 13.6
+  b_games: 60
+  b_pa: 2231
+  b_ab: 1972
+  b_r: 325
+  b_h: 506
+  b_doubles: 103
+  b_triples: 12
+  b_hr: 95
+  b_rbi: 312
+  b_sb: 55
+  b_cs: 13
+  b_bb: 204
+  b_so: 479
+  b_batting_avg: 0.257
+  b_onbase_perc: 0.333
+  b_slugging_perc: 0.466
+  b_onbase_plus_slugging: 0.798
+  b_onbase_plus_slugging_plus: 120
+  b_roba: 0.348
+  b_rbat_plus: 118
+  b_tb: 918
+  b_gidp: 37
+  b_hbp: 28
+  b_sh: 12
+  b_sf: 14
+  b_ibb: 6
+  pos: 
+  awards: 
+
+SDP 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.8
+  b_games: 162
+  b_pa: 6119
+  b_ab: 5384
+  b_r: 729
+  b_h: 1305
+  b_doubles: 273
+  b_triples: 21
+  b_hr: 180
+  b_rbi: 695
+  b_sb: 110
+  b_cs: 39
+  b_bb: 586
+  b_so: 1324
+  b_batting_avg: 0.242
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.401
+  b_onbase_plus_slugging: 0.722
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.32
+  b_rbat_plus: 101
+  b_tb: 2160
+  b_gidp: 121
+  b_hbp: 61
+  b_sh: 36
+  b_sf: 46
+  b_ibb: 42
+  pos: 
+  awards: 
+
+SDP 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 25.7
+  b_games: 162
+  b_pa: 6175
+  b_ab: 5468
+  b_r: 705
+  b_h: 1317
+  b_doubles: 275
+  b_triples: 18
+  b_hr: 153
+  b_rbi: 682
+  b_sb: 49
+  b_cs: 22
+  b_bb: 574
+  b_so: 1327
+  b_batting_avg: 0.241
+  b_onbase_perc: 0.318
+  b_slugging_perc: 0.382
+  b_onbase_plus_slugging: 0.7
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.314
+  b_rbat_plus: 104
+  b_tb: 2087
+  b_gidp: 95
+  b_hbp: 65
+  b_sh: 17
+  b_sf: 46
+  b_ibb: 24
+  pos: 
+  awards: 
+
+SDP 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.7
+  b_games: 162
+  b_pa: 6180
+  b_ab: 5401
+  b_r: 752
+  b_h: 1316
+  b_doubles: 273
+  b_triples: 14
+  b_hr: 205
+  b_rbi: 719
+  b_sb: 137
+  b_cs: 32
+  b_bb: 653
+  b_so: 1311
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.329
+  b_slugging_perc: 0.413
+  b_onbase_plus_slugging: 0.742
+  b_onbase_plus_slugging_plus: 104
+  b_roba: 0.33
+  b_rbat_plus: 105
+  b_tb: 2232
+  b_gidp: 134
+  b_hbp: 57
+  b_sh: 22
+  b_sf: 44
+  b_ibb: 16
+  pos: 
+  awards: 
+
+SDP 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 21.3
+  b_games: 162
+  b_pa: 6103
+  b_ab: 5526
+  b_r: 760
+  b_h: 1456
+  b_doubles: 259
+  b_triples: 18
+  b_hr: 190
+  b_rbi: 726
+  b_sb: 120
+  b_cs: 28
+  b_bb: 458
+  b_so: 1077
+  b_batting_avg: 0.263
+  b_onbase_perc: 0.324
+  b_slugging_perc: 0.42
+  b_onbase_plus_slugging: 0.745
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.329
+  b_rbat_plus: 107
+  b_tb: 2321
+  b_gidp: 133
+  b_hbp: 56
+  b_sh: 28
+  b_sf: 31
+  b_ibb: 18
+  pos: 
+  awards: 
+
+SDP 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.5
+  b_games: 83
+  b_pa: 3094
+  b_ab: 2762
+  b_r: 345
+  b_h: 682
+  b_doubles: 125
+  b_triples: 11
+  b_hr: 73
+  b_rbi: 321
+  b_sb: 57
+  b_cs: 16
+  b_bb: 265
+  b_so: 579
+  b_batting_avg: 0.247
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.379
+  b_onbase_plus_slugging: 0.695
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.313
+  b_rbat_plus: 92
+  b_tb: 1048
+  b_gidp: 54
+  b_hbp: 22
+  b_sh: 19
+  b_sf: 25
+  b_ibb: 9
+  pos: 
+  awards: 
+
+BAL 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.9
+  b_games: 60
+  b_pa: 2242
+  b_ab: 2026
+  b_r: 274
+  b_h: 523
+  b_doubles: 102
+  b_triples: 7
+  b_hr: 77
+  b_rbi: 264
+  b_sb: 19
+  b_cs: 14
+  b_bb: 164
+  b_so: 514
+  b_batting_avg: 0.258
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.429
+  b_onbase_plus_slugging: 0.75
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.33
+  b_rbat_plus: 102
+  b_tb: 870
+  b_gidp: 32
+  b_hbp: 27
+  b_sh: 15
+  b_sf: 10
+  b_ibb: 5
+  pos: 
+  awards: 
+
+BAL 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.8
+  b_games: 162
+  b_pa: 5983
+  b_ab: 5420
+  b_r: 659
+  b_h: 1296
+  b_doubles: 266
+  b_triples: 15
+  b_hr: 195
+  b_rbi: 632
+  b_sb: 54
+  b_cs: 23
+  b_bb: 451
+  b_so: 1454
+  b_batting_avg: 0.239
+  b_onbase_perc: 0.304
+  b_slugging_perc: 0.402
+  b_onbase_plus_slugging: 0.705
+  b_onbase_plus_slugging_plus: 92
+  b_roba: 0.308
+  b_rbat_plus: 90
+  b_tb: 2177
+  b_gidp: 105
+  b_hbp: 65
+  b_sh: 14
+  b_sf: 31
+  b_ibb: 12
+  pos: 
+  awards: 
+
+BAL 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 24.3
+  b_games: 162
+  b_pa: 6049
+  b_ab: 5429
+  b_r: 674
+  b_h: 1281
+  b_doubles: 275
+  b_triples: 25
+  b_hr: 171
+  b_rbi: 639
+  b_sb: 95
+  b_cs: 31
+  b_bb: 476
+  b_so: 1390
+  b_batting_avg: 0.236
+  b_onbase_perc: 0.305
+  b_slugging_perc: 0.39
+  b_onbase_plus_slugging: 0.695
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.313
+  b_rbat_plus: 100
+  b_tb: 2119
+  b_gidp: 95
+  b_hbp: 83
+  b_sh: 12
+  b_sf: 43
+  b_ibb: 10
+  pos: 
+  awards: 
+
+BAL 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 28.0
+  b_games: 162
+  b_pa: 6123
+  b_ab: 5495
+  b_r: 807
+  b_h: 1399
+  b_doubles: 309
+  b_triples: 28
+  b_hr: 183
+  b_rbi: 780
+  b_sb: 114
+  b_cs: 24
+  b_bb: 512
+  b_so: 1370
+  b_batting_avg: 0.255
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.421
+  b_onbase_plus_slugging: 0.742
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.324
+  b_rbat_plus: 106
+  b_tb: 2313
+  b_gidp: 114
+  b_hbp: 45
+  b_sh: 21
+  b_sf: 47
+  b_ibb: 14
+  pos: 
+  awards: 
+
+BAL 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 31.8
+  b_games: 162
+  b_pa: 6176
+  b_ab: 5567
+  b_r: 786
+  b_h: 1391
+  b_doubles: 262
+  b_triples: 33
+  b_hr: 235
+  b_rbi: 759
+  b_sb: 98
+  b_cs: 25
+  b_bb: 489
+  b_so: 1359
+  b_batting_avg: 0.25
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.435
+  b_onbase_plus_slugging: 0.751
+  b_onbase_plus_slugging_plus: 116
+  b_roba: 0.329
+  b_rbat_plus: 118
+  b_tb: 2424
+  b_gidp: 71
+  b_hbp: 64
+  b_sh: 6
+  b_sf: 45
+  b_ibb: 14
+  pos: 
+  awards: 
+
+BAL 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.7
+  b_games: 83
+  b_pa: 3069
+  b_ab: 2767
+  b_r: 345
+  b_h: 665
+  b_doubles: 125
+  b_triples: 10
+  b_hr: 98
+  b_rbi: 324
+  b_sb: 58
+  b_cs: 17
+  b_bb: 236
+  b_so: 728
+  b_batting_avg: 0.24
+  b_onbase_perc: 0.307
+  b_slugging_perc: 0.399
+  b_onbase_plus_slugging: 0.706
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.316
+  b_rbat_plus: 102
+  b_tb: 1104
+  b_gidp: 61
+  b_hbp: 39
+  b_sh: 3
+  b_sf: 24
+  b_ibb: 7
+  pos: 
+  awards: 
+
+CIN 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 1.6
+  b_games: 60
+  b_pa: 2123
+  b_ab: 1842
+  b_r: 243
+  b_h: 390
+  b_doubles: 76
+  b_triples: 3
+  b_hr: 90
+  b_rbi: 237
+  b_sb: 29
+  b_cs: 9
+  b_bb: 239
+  b_so: 534
+  b_batting_avg: 0.212
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.403
+  b_onbase_plus_slugging: 0.715
+  b_onbase_plus_slugging_plus: 85
+  b_roba: 0.319
+  b_rbat_plus: 83
+  b_tb: 742
+  b_gidp: 44
+  b_hbp: 33
+  b_sh: 0
+  b_sf: 7
+  b_ibb: 4
+  pos: 
+  awards: 
+
+CIN 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.0
+  b_games: 162
+  b_pa: 6162
+  b_ab: 5423
+  b_r: 786
+  b_h: 1352
+  b_doubles: 295
+  b_triples: 13
+  b_hr: 222
+  b_rbi: 756
+  b_sb: 36
+  b_cs: 24
+  b_bb: 553
+  b_so: 1425
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.328
+  b_slugging_perc: 0.431
+  b_onbase_plus_slugging: 0.759
+  b_onbase_plus_slugging_plus: 95
+  b_roba: 0.334
+  b_rbat_plus: 94
+  b_tb: 2339
+  b_gidp: 129
+  b_hbp: 105
+  b_sh: 35
+  b_sf: 45
+  b_ibb: 22
+  pos: 
+  awards: 
+
+CIN 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 3.8
+  b_games: 162
+  b_pa: 5978
+  b_ab: 5380
+  b_r: 648
+  b_h: 1264
+  b_doubles: 235
+  b_triples: 18
+  b_hr: 156
+  b_rbi: 618
+  b_sb: 58
+  b_cs: 33
+  b_bb: 452
+  b_so: 1430
+  b_batting_avg: 0.235
+  b_onbase_perc: 0.304
+  b_slugging_perc: 0.372
+  b_onbase_plus_slugging: 0.676
+  b_onbase_plus_slugging_plus: 85
+  b_roba: 0.302
+  b_rbat_plus: 83
+  b_tb: 2003
+  b_gidp: 127
+  b_hbp: 92
+  b_sh: 12
+  b_sf: 33
+  b_ibb: 6
+  pos: 
+  awards: 
+
+CIN 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 14.7
+  b_games: 162
+  b_pa: 6195
+  b_ab: 5499
+  b_r: 783
+  b_h: 1371
+  b_doubles: 268
+  b_triples: 37
+  b_hr: 198
+  b_rbi: 747
+  b_sb: 190
+  b_cs: 48
+  b_bb: 556
+  b_so: 1500
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.327
+  b_slugging_perc: 0.42
+  b_onbase_plus_slugging: 0.746
+  b_onbase_plus_slugging_plus: 98
+  b_roba: 0.334
+  b_rbat_plus: 99
+  b_tb: 2307
+  b_gidp: 101
+  b_hbp: 92
+  b_sh: 19
+  b_sf: 29
+  b_ibb: 8
+  pos: 
+  awards: 
+
+CIN 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 4.5
+  b_games: 162
+  b_pa: 5970
+  b_ab: 5325
+  b_r: 699
+  b_h: 1230
+  b_doubles: 257
+  b_triples: 29
+  b_hr: 174
+  b_rbi: 663
+  b_sb: 207
+  b_cs: 45
+  b_bb: 496
+  b_so: 1459
+  b_batting_avg: 0.231
+  b_onbase_perc: 0.305
+  b_slugging_perc: 0.388
+  b_onbase_plus_slugging: 0.693
+  b_onbase_plus_slugging_plus: 87
+  b_roba: 0.313
+  b_rbat_plus: 88
+  b_tb: 2067
+  b_gidp: 86
+  b_hbp: 87
+  b_sh: 18
+  b_sf: 43
+  b_ibb: 7
+  pos: 
+  awards: 
+
+CIN 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.6
+  b_games: 84
+  b_pa: 3153
+  b_ab: 2816
+  b_r: 387
+  b_h: 697
+  b_doubles: 138
+  b_triples: 10
+  b_hr: 91
+  b_rbi: 369
+  b_sb: 65
+  b_cs: 23
+  b_bb: 283
+  b_so: 733
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.32
+  b_slugging_perc: 0.401
+  b_onbase_plus_slugging: 0.72
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.321
+  b_rbat_plus: 91
+  b_tb: 1128
+  b_gidp: 53
+  b_hbp: 26
+  b_sh: 6
+  b_sf: 22
+  b_ibb: 7
+  pos: 
+  awards: 
+
+LAD 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.3
+  b_games: 60
+  b_pa: 2316
+  b_ab: 2042
+  b_r: 349
+  b_h: 523
+  b_doubles: 97
+  b_triples: 6
+  b_hr: 118
+  b_rbi: 327
+  b_sb: 29
+  b_cs: 8
+  b_bb: 228
+  b_so: 471
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.338
+  b_slugging_perc: 0.483
+  b_onbase_plus_slugging: 0.821
+  b_onbase_plus_slugging_plus: 119
+  b_roba: 0.358
+  b_rbat_plus: 120
+  b_tb: 986
+  b_gidp: 46
+  b_hbp: 30
+  b_sh: 3
+  b_sf: 12
+  b_ibb: 7
+  pos: 
+  awards: 
+
+LAD 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.8
+  b_games: 162
+  b_pa: 6239
+  b_ab: 5445
+  b_r: 830
+  b_h: 1330
+  b_doubles: 247
+  b_triples: 24
+  b_hr: 237
+  b_rbi: 799
+  b_sb: 65
+  b_cs: 17
+  b_bb: 613
+  b_so: 1408
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.33
+  b_slugging_perc: 0.429
+  b_onbase_plus_slugging: 0.759
+  b_onbase_plus_slugging_plus: 101
+  b_roba: 0.335
+  b_rbat_plus: 100
+  b_tb: 2336
+  b_gidp: 96
+  b_hbp: 104
+  b_sh: 32
+  b_sf: 45
+  b_ibb: 36
+  pos: 
+  awards: 
+
+LAD 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 35.7
+  b_games: 162
+  b_pa: 6247
+  b_ab: 5526
+  b_r: 847
+  b_h: 1418
+  b_doubles: 325
+  b_triples: 31
+  b_hr: 212
+  b_rbi: 812
+  b_sb: 98
+  b_cs: 18
+  b_bb: 607
+  b_so: 1374
+  b_batting_avg: 0.257
+  b_onbase_perc: 0.333
+  b_slugging_perc: 0.442
+  b_onbase_plus_slugging: 0.775
+  b_onbase_plus_slugging_plus: 115
+  b_roba: 0.344
+  b_rbat_plus: 115
+  b_tb: 2441
+  b_gidp: 85
+  b_hbp: 56
+  b_sh: 3
+  b_sf: 53
+  b_ibb: 22
+  pos: 
+  awards: 
+
+LAD 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 33.6
+  b_games: 162
+  b_pa: 6333
+  b_ab: 5524
+  b_r: 906
+  b_h: 1422
+  b_doubles: 303
+  b_triples: 20
+  b_hr: 249
+  b_rbi: 877
+  b_sb: 105
+  b_cs: 25
+  b_bb: 644
+  b_so: 1359
+  b_batting_avg: 0.257
+  b_onbase_perc: 0.34
+  b_slugging_perc: 0.455
+  b_onbase_plus_slugging: 0.795
+  b_onbase_plus_slugging_plus: 114
+  b_roba: 0.348
+  b_rbat_plus: 115
+  b_tb: 2512
+  b_gidp: 98
+  b_hbp: 85
+  b_sh: 5
+  b_sf: 69
+  b_ibb: 29
+  pos: 
+  awards: 
+
+LAD 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 39.6
+  b_games: 162
+  b_pa: 6255
+  b_ab: 5522
+  b_r: 842
+  b_h: 1423
+  b_doubles: 291
+  b_triples: 26
+  b_hr: 233
+  b_rbi: 815
+  b_sb: 136
+  b_cs: 23
+  b_bb: 602
+  b_so: 1336
+  b_batting_avg: 0.258
+  b_onbase_perc: 0.335
+  b_slugging_perc: 0.446
+  b_onbase_plus_slugging: 0.781
+  b_onbase_plus_slugging_plus: 120
+  b_roba: 0.343
+  b_rbat_plus: 122
+  b_tb: 2465
+  b_gidp: 99
+  b_hbp: 64
+  b_sh: 10
+  b_sf: 51
+  b_ibb: 33
+  pos: 
+  awards: 
+
+LAD 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 21.0
+  b_games: 85
+  b_pa: 3291
+  b_ab: 2910
+  b_r: 477
+  b_h: 764
+  b_doubles: 146
+  b_triples: 15
+  b_hr: 133
+  b_rbi: 459
+  b_sb: 45
+  b_cs: 14
+  b_bb: 317
+  b_so: 694
+  b_batting_avg: 0.263
+  b_onbase_perc: 0.338
+  b_slugging_perc: 0.46
+  b_onbase_plus_slugging: 0.798
+  b_onbase_plus_slugging_plus: 123
+  b_roba: 0.35
+  b_rbat_plus: 123
+  b_tb: 1339
+  b_gidp: 61
+  b_hbp: 30
+  b_sh: 3
+  b_sf: 29
+  b_ibb: 18
+  pos: 
+  awards: 
+
+MIA 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 4.9
+  b_games: 60
+  b_pa: 2167
+  b_ab: 1935
+  b_r: 263
+  b_h: 472
+  b_doubles: 82
+  b_triples: 5
+  b_hr: 60
+  b_rbi: 247
+  b_sb: 51
+  b_cs: 14
+  b_bb: 191
+  b_so: 537
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.319
+  b_slugging_perc: 0.384
+  b_onbase_plus_slugging: 0.703
+  b_onbase_plus_slugging_plus: 89
+  b_roba: 0.32
+  b_rbat_plus: 92
+  b_tb: 744
+  b_gidp: 37
+  b_hbp: 25
+  b_sh: 6
+  b_sf: 9
+  b_ibb: 6
+  pos: 
+  awards: 
+
+MIA 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 10.3
+  b_games: 162
+  b_pa: 5929
+  b_ab: 5348
+  b_r: 623
+  b_h: 1244
+  b_doubles: 226
+  b_triples: 23
+  b_hr: 158
+  b_rbi: 594
+  b_sb: 106
+  b_cs: 29
+  b_bb: 450
+  b_so: 1553
+  b_batting_avg: 0.233
+  b_onbase_perc: 0.298
+  b_slugging_perc: 0.372
+  b_onbase_plus_slugging: 0.671
+  b_onbase_plus_slugging_plus: 81
+  b_roba: 0.3
+  b_rbat_plus: 78
+  b_tb: 1990
+  b_gidp: 95
+  b_hbp: 65
+  b_sh: 30
+  b_sf: 30
+  b_ibb: 25
+  pos: 
+  awards: 
+
+MIA 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.7
+  b_games: 162
+  b_pa: 5949
+  b_ab: 5395
+  b_r: 586
+  b_h: 1241
+  b_doubles: 248
+  b_triples: 20
+  b_hr: 144
+  b_rbi: 554
+  b_sb: 122
+  b_cs: 29
+  b_bb: 436
+  b_so: 1429
+  b_batting_avg: 0.23
+  b_onbase_perc: 0.294
+  b_slugging_perc: 0.363
+  b_onbase_plus_slugging: 0.658
+  b_onbase_plus_slugging_plus: 85
+  b_roba: 0.299
+  b_rbat_plus: 85
+  b_tb: 1961
+  b_gidp: 120
+  b_hbp: 70
+  b_sh: 4
+  b_sf: 36
+  b_ibb: 6
+  pos: 
+  awards: 
+
+MIA 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.0
+  b_games: 162
+  b_pa: 6043
+  b_ab: 5497
+  b_r: 666
+  b_h: 1423
+  b_doubles: 258
+  b_triples: 23
+  b_hr: 166
+  b_rbi: 633
+  b_sb: 86
+  b_cs: 21
+  b_bb: 430
+  b_so: 1287
+  b_batting_avg: 0.259
+  b_onbase_perc: 0.316
+  b_slugging_perc: 0.405
+  b_onbase_plus_slugging: 0.721
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.319
+  b_rbat_plus: 88
+  b_tb: 2225
+  b_gidp: 159
+  b_hbp: 50
+  b_sh: 22
+  b_sf: 38
+  b_ibb: 23
+  pos: 
+  awards: 
+
+MIA 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 2.0
+  b_games: 162
+  b_pa: 6048
+  b_ab: 5522
+  b_r: 637
+  b_h: 1347
+  b_doubles: 243
+  b_triples: 23
+  b_hr: 150
+  b_rbi: 611
+  b_sb: 125
+  b_cs: 43
+  b_bb: 403
+  b_so: 1410
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.3
+  b_slugging_perc: 0.378
+  b_onbase_plus_slugging: 0.678
+  b_onbase_plus_slugging_plus: 86
+  b_roba: 0.301
+  b_rbat_plus: 80
+  b_tb: 2086
+  b_gidp: 119
+  b_hbp: 55
+  b_sh: 24
+  b_sf: 41
+  b_ibb: 16
+  pos: 
+  awards: 
+
+MIA 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.4
+  b_games: 82
+  b_pa: 3131
+  b_ab: 2821
+  b_r: 353
+  b_h: 717
+  b_doubles: 142
+  b_triples: 13
+  b_hr: 72
+  b_rbi: 340
+  b_sb: 67
+  b_cs: 26
+  b_bb: 253
+  b_so: 671
+  b_batting_avg: 0.254
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.39
+  b_onbase_plus_slugging: 0.708
+  b_onbase_plus_slugging_plus: 95
+  b_roba: 0.318
+  b_rbat_plus: 95
+  b_tb: 1101
+  b_gidp: 47
+  b_hbp: 19
+  b_sh: 16
+  b_sf: 22
+  b_ibb: 6
+  pos: 
+  awards: 
+
+CLE 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.3
+  b_games: 60
+  b_pa: 2247
+  b_ab: 1959
+  b_r: 248
+  b_h: 446
+  b_doubles: 96
+  b_triples: 5
+  b_hr: 59
+  b_rbi: 234
+  b_sb: 25
+  b_cs: 10
+  b_bb: 239
+  b_so: 517
+  b_batting_avg: 0.228
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.372
+  b_onbase_plus_slugging: 0.689
+  b_onbase_plus_slugging_plus: 88
+  b_roba: 0.308
+  b_rbat_plus: 87
+  b_tb: 729
+  b_gidp: 40
+  b_hbp: 24
+  b_sh: 7
+  b_sf: 16
+  b_ibb: 4
+  pos: 
+  awards: 
+
+CLE 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.2
+  b_games: 162
+  b_pa: 5907
+  b_ab: 5332
+  b_r: 717
+  b_h: 1269
+  b_doubles: 248
+  b_triples: 22
+  b_hr: 203
+  b_rbi: 686
+  b_sb: 109
+  b_cs: 17
+  b_bb: 453
+  b_so: 1387
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.303
+  b_slugging_perc: 0.407
+  b_onbase_plus_slugging: 0.71
+  b_onbase_plus_slugging_plus: 94
+  b_roba: 0.314
+  b_rbat_plus: 94
+  b_tb: 2170
+  b_gidp: 105
+  b_hbp: 64
+  b_sh: 20
+  b_sf: 36
+  b_ibb: 18
+  pos: 
+  awards: 
+
+CLE 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 28.3
+  b_games: 162
+  b_pa: 6163
+  b_ab: 5558
+  b_r: 698
+  b_h: 1410
+  b_doubles: 273
+  b_triples: 31
+  b_hr: 127
+  b_rbi: 662
+  b_sb: 119
+  b_cs: 27
+  b_bb: 450
+  b_so: 1122
+  b_batting_avg: 0.254
+  b_onbase_perc: 0.316
+  b_slugging_perc: 0.383
+  b_onbase_plus_slugging: 0.699
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.313
+  b_rbat_plus: 100
+  b_tb: 2126
+  b_gidp: 119
+  b_hbp: 81
+  b_sh: 22
+  b_sf: 52
+  b_ibb: 36
+  pos: 
+  awards: 
+
+CLE 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 14.6
+  b_games: 162
+  b_pa: 6096
+  b_ab: 5513
+  b_r: 662
+  b_h: 1379
+  b_doubles: 294
+  b_triples: 29
+  b_hr: 124
+  b_rbi: 622
+  b_sb: 151
+  b_cs: 36
+  b_bb: 471
+  b_so: 1142
+  b_batting_avg: 0.25
+  b_onbase_perc: 0.313
+  b_slugging_perc: 0.381
+  b_onbase_plus_slugging: 0.695
+  b_onbase_plus_slugging_plus: 91
+  b_roba: 0.307
+  b_rbat_plus: 89
+  b_tb: 2103
+  b_gidp: 108
+  b_hbp: 55
+  b_sh: 13
+  b_sf: 44
+  b_ibb: 40
+  pos: 
+  awards: 
+
+CLE 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 20.9
+  b_games: 161
+  b_pa: 5927
+  b_ab: 5310
+  b_r: 708
+  b_h: 1263
+  b_doubles: 245
+  b_triples: 18
+  b_hr: 185
+  b_rbi: 670
+  b_sb: 148
+  b_cs: 46
+  b_bb: 466
+  b_so: 1196
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.307
+  b_slugging_perc: 0.395
+  b_onbase_plus_slugging: 0.703
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.312
+  b_rbat_plus: 98
+  b_tb: 2099
+  b_gidp: 111
+  b_hbp: 87
+  b_sh: 17
+  b_sf: 43
+  b_ibb: 30
+  pos: 
+  awards: 
+
+CLE 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.2
+  b_games: 82
+  b_pa: 2989
+  b_ab: 2667
+  b_r: 303
+  b_h: 603
+  b_doubles: 114
+  b_triples: 8
+  b_hr: 81
+  b_rbi: 288
+  b_sb: 65
+  b_cs: 19
+  b_bb: 257
+  b_so: 679
+  b_batting_avg: 0.226
+  b_onbase_perc: 0.298
+  b_slugging_perc: 0.366
+  b_onbase_plus_slugging: 0.664
+  b_onbase_plus_slugging_plus: 86
+  b_roba: 0.297
+  b_rbat_plus: 83
+  b_tb: 976
+  b_gidp: 51
+  b_hbp: 28
+  b_sh: 11
+  b_sf: 26
+  b_ibb: 12
+  pos: 
+  awards: 
+
+BOS 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 8.8
+  b_games: 60
+  b_pa: 2304
+  b_ab: 2083
+  b_r: 292
+  b_h: 552
+  b_doubles: 118
+  b_triples: 7
+  b_hr: 81
+  b_rbi: 278
+  b_sb: 31
+  b_cs: 9
+  b_bb: 187
+  b_so: 545
+  b_batting_avg: 0.265
+  b_onbase_perc: 0.33
+  b_slugging_perc: 0.445
+  b_onbase_plus_slugging: 0.775
+  b_onbase_plus_slugging_plus: 104
+  b_roba: 0.34
+  b_rbat_plus: 103
+  b_tb: 927
+  b_gidp: 51
+  b_hbp: 21
+  b_sh: 4
+  b_sf: 9
+  b_ibb: 8
+  pos: 
+  awards: 
+
+BOS 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 24.4
+  b_games: 162
+  b_pa: 6122
+  b_ab: 5495
+  b_r: 829
+  b_h: 1434
+  b_doubles: 330
+  b_triples: 23
+  b_hr: 219
+  b_rbi: 783
+  b_sb: 40
+  b_cs: 21
+  b_bb: 512
+  b_so: 1386
+  b_batting_avg: 0.261
+  b_onbase_perc: 0.328
+  b_slugging_perc: 0.449
+  b_onbase_plus_slugging: 0.777
+  b_onbase_plus_slugging_plus: 106
+  b_roba: 0.337
+  b_rbat_plus: 105
+  b_tb: 2467
+  b_gidp: 100
+  b_hbp: 61
+  b_sh: 10
+  b_sf: 42
+  b_ibb: 22
+  pos: 
+  awards: 
+
+BOS 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.7
+  b_games: 162
+  b_pa: 6144
+  b_ab: 5539
+  b_r: 735
+  b_h: 1427
+  b_doubles: 352
+  b_triples: 12
+  b_hr: 155
+  b_rbi: 704
+  b_sb: 52
+  b_cs: 20
+  b_bb: 478
+  b_so: 1373
+  b_batting_avg: 0.258
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.409
+  b_onbase_plus_slugging: 0.731
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.325
+  b_rbat_plus: 101
+  b_tb: 2268
+  b_gidp: 131
+  b_hbp: 63
+  b_sh: 12
+  b_sf: 50
+  b_ibb: 23
+  pos: 
+  awards: 
+
+BOS 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 19.1
+  b_games: 162
+  b_pa: 6174
+  b_ab: 5562
+  b_r: 772
+  b_h: 1437
+  b_doubles: 339
+  b_triples: 19
+  b_hr: 182
+  b_rbi: 734
+  b_sb: 112
+  b_cs: 26
+  b_bb: 486
+  b_so: 1372
+  b_batting_avg: 0.258
+  b_onbase_perc: 0.324
+  b_slugging_perc: 0.424
+  b_onbase_plus_slugging: 0.748
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.329
+  b_rbat_plus: 100
+  b_tb: 2360
+  b_gidp: 118
+  b_hbp: 71
+  b_sh: 11
+  b_sf: 35
+  b_ibb: 15
+  pos: 
+  awards: 
+
+BOS 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.8
+  b_games: 162
+  b_pa: 6192
+  b_ab: 5577
+  b_r: 751
+  b_h: 1404
+  b_doubles: 311
+  b_triples: 30
+  b_hr: 194
+  b_rbi: 724
+  b_sb: 144
+  b_cs: 44
+  b_bb: 493
+  b_so: 1570
+  b_batting_avg: 0.252
+  b_onbase_perc: 0.319
+  b_slugging_perc: 0.423
+  b_onbase_plus_slugging: 0.741
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.328
+  b_rbat_plus: 104
+  b_tb: 2357
+  b_gidp: 110
+  b_hbp: 73
+  b_sh: 7
+  b_sf: 40
+  b_ibb: 30
+  pos: 
+  awards: 
+
+BOS 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.6
+  b_games: 85
+  b_pa: 3278
+  b_ab: 2928
+  b_r: 399
+  b_h: 727
+  b_doubles: 159
+  b_triples: 13
+  b_hr: 102
+  b_rbi: 380
+  b_sb: 70
+  b_cs: 17
+  b_bb: 284
+  b_so: 790
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.416
+  b_onbase_plus_slugging: 0.737
+  b_onbase_plus_slugging_plus: 105
+  b_roba: 0.329
+  b_rbat_plus: 106
+  b_tb: 1218
+  b_gidp: 47
+  b_hbp: 40
+  b_sh: 7
+  b_sf: 19
+  b_ibb: 16
+  pos: 
+  awards: 
+
+DET 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 3.0
+  b_games: 58
+  b_pa: 2076
+  b_ab: 1893
+  b_r: 249
+  b_h: 463
+  b_doubles: 78
+  b_triples: 12
+  b_hr: 62
+  b_rbi: 242
+  b_sb: 19
+  b_cs: 6
+  b_bb: 147
+  b_so: 567
+  b_batting_avg: 0.245
+  b_onbase_perc: 0.303
+  b_slugging_perc: 0.397
+  b_onbase_plus_slugging: 0.7
+  b_onbase_plus_slugging_plus: 91
+  b_roba: 0.31
+  b_rbat_plus: 89
+  b_tb: 751
+  b_gidp: 42
+  b_hbp: 19
+  b_sh: 1
+  b_sf: 14
+  b_ibb: 1
+  pos: 
+  awards: 
+
+DET 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.5
+  b_games: 162
+  b_pa: 5979
+  b_ab: 5376
+  b_r: 697
+  b_h: 1299
+  b_doubles: 236
+  b_triples: 37
+  b_hr: 179
+  b_rbi: 675
+  b_sb: 88
+  b_cs: 25
+  b_bb: 490
+  b_so: 1514
+  b_batting_avg: 0.242
+  b_onbase_perc: 0.308
+  b_slugging_perc: 0.399
+  b_onbase_plus_slugging: 0.707
+  b_onbase_plus_slugging_plus: 96
+  b_roba: 0.311
+  b_rbat_plus: 96
+  b_tb: 2146
+  b_gidp: 113
+  b_hbp: 44
+  b_sh: 17
+  b_sf: 50
+  b_ibb: 8
+  pos: 
+  awards: 
+
+DET 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.4
+  b_games: 162
+  b_pa: 5870
+  b_ab: 5378
+  b_r: 557
+  b_h: 1240
+  b_doubles: 235
+  b_triples: 27
+  b_hr: 110
+  b_rbi: 530
+  b_sb: 47
+  b_cs: 24
+  b_bb: 380
+  b_so: 1413
+  b_batting_avg: 0.231
+  b_onbase_perc: 0.286
+  b_slugging_perc: 0.346
+  b_onbase_plus_slugging: 0.632
+  b_onbase_plus_slugging_plus: 82
+  b_roba: 0.285
+  b_rbat_plus: 81
+  b_tb: 1859
+  b_gidp: 108
+  b_hbp: 58
+  b_sh: 10
+  b_sf: 44
+  b_ibb: 8
+  pos: 
+  awards: 
+
+DET 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.8
+  b_games: 162
+  b_pa: 6080
+  b_ab: 5478
+  b_r: 661
+  b_h: 1292
+  b_doubles: 245
+  b_triples: 29
+  b_hr: 165
+  b_rbi: 635
+  b_sb: 85
+  b_cs: 23
+  b_bb: 508
+  b_so: 1473
+  b_batting_avg: 0.236
+  b_onbase_perc: 0.305
+  b_slugging_perc: 0.382
+  b_onbase_plus_slugging: 0.686
+  b_onbase_plus_slugging_plus: 89
+  b_roba: 0.305
+  b_rbat_plus: 89
+  b_tb: 2090
+  b_gidp: 107
+  b_hbp: 49
+  b_sh: 13
+  b_sf: 31
+  b_ibb: 10
+  pos: 
+  awards: 
+
+DET 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.2
+  b_games: 162
+  b_pa: 6021
+  b_ab: 5442
+  b_r: 682
+  b_h: 1273
+  b_doubles: 244
+  b_triples: 47
+  b_hr: 162
+  b_rbi: 656
+  b_sb: 76
+  b_cs: 24
+  b_bb: 476
+  b_so: 1461
+  b_batting_avg: 0.234
+  b_onbase_perc: 0.3
+  b_slugging_perc: 0.385
+  b_onbase_plus_slugging: 0.685
+  b_onbase_plus_slugging_plus: 94
+  b_roba: 0.304
+  b_rbat_plus: 93
+  b_tb: 2097
+  b_gidp: 90
+  b_hbp: 52
+  b_sh: 4
+  b_sf: 41
+  b_ibb: 12
+  pos: 
+  awards: 
+
+DET 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.0
+  b_games: 85
+  b_pa: 3219
+  b_ab: 2874
+  b_r: 424
+  b_h: 735
+  b_doubles: 138
+  b_triples: 19
+  b_hr: 106
+  b_rbi: 408
+  b_sb: 30
+  b_cs: 7
+  b_bb: 270
+  b_so: 736
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.428
+  b_onbase_plus_slugging: 0.752
+  b_onbase_plus_slugging_plus: 112
+  b_roba: 0.331
+  b_rbat_plus: 112
+  b_tb: 1229
+  b_gidp: 47
+  b_hbp: 38
+  b_sh: 5
+  b_sf: 29
+  b_ibb: 7
+  pos: 
+  awards: 
+
+SFG 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.1
+  b_games: 60
+  b_pa: 2259
+  b_ab: 2019
+  b_r: 299
+  b_h: 532
+  b_doubles: 107
+  b_triples: 14
+  b_hr: 81
+  b_rbi: 290
+  b_sb: 19
+  b_cs: 8
+  b_bb: 195
+  b_so: 499
+  b_batting_avg: 0.263
+  b_onbase_perc: 0.335
+  b_slugging_perc: 0.451
+  b_onbase_plus_slugging: 0.785
+  b_onbase_plus_slugging_plus: 115
+  b_roba: 0.344
+  b_rbat_plus: 115
+  b_tb: 910
+  b_gidp: 51
+  b_hbp: 27
+  b_sh: 4
+  b_sf: 13
+  b_ibb: 8
+  pos: 
+  awards: 
+
+SFG 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 28.7
+  b_games: 162
+  b_pa: 6196
+  b_ab: 5462
+  b_r: 804
+  b_h: 1360
+  b_doubles: 271
+  b_triples: 25
+  b_hr: 241
+  b_rbi: 768
+  b_sb: 66
+  b_cs: 14
+  b_bb: 602
+  b_so: 1461
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.329
+  b_slugging_perc: 0.44
+  b_onbase_plus_slugging: 0.769
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.339
+  b_rbat_plus: 108
+  b_tb: 2404
+  b_gidp: 117
+  b_hbp: 64
+  b_sh: 36
+  b_sf: 30
+  b_ibb: 45
+  pos: 
+  awards: 
+
+SFG 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.2
+  b_games: 162
+  b_pa: 6117
+  b_ab: 5392
+  b_r: 716
+  b_h: 1261
+  b_doubles: 255
+  b_triples: 18
+  b_hr: 183
+  b_rbi: 683
+  b_sb: 64
+  b_cs: 16
+  b_bb: 571
+  b_so: 1462
+  b_batting_avg: 0.234
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.39
+  b_onbase_plus_slugging: 0.705
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.316
+  b_rbat_plus: 100
+  b_tb: 2101
+  b_gidp: 109
+  b_hbp: 95
+  b_sh: 6
+  b_sf: 53
+  b_ibb: 14
+  pos: 
+  awards: 
+
+SFG 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.7
+  b_games: 162
+  b_pa: 6095
+  b_ab: 5412
+  b_r: 674
+  b_h: 1271
+  b_doubles: 256
+  b_triples: 13
+  b_hr: 174
+  b_rbi: 651
+  b_sb: 57
+  b_cs: 16
+  b_bb: 544
+  b_so: 1492
+  b_batting_avg: 0.235
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.383
+  b_onbase_plus_slugging: 0.695
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.309
+  b_rbat_plus: 93
+  b_tb: 2075
+  b_gidp: 116
+  b_hbp: 81
+  b_sh: 17
+  b_sf: 39
+  b_ibb: 19
+  pos: 
+  awards: 
+
+SFG 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 19.0
+  b_games: 162
+  b_pa: 6062
+  b_ab: 5460
+  b_r: 693
+  b_h: 1303
+  b_doubles: 266
+  b_triples: 30
+  b_hr: 177
+  b_rbi: 661
+  b_sb: 68
+  b_cs: 22
+  b_bb: 492
+  b_so: 1452
+  b_batting_avg: 0.239
+  b_onbase_perc: 0.305
+  b_slugging_perc: 0.396
+  b_onbase_plus_slugging: 0.701
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.311
+  b_rbat_plus: 103
+  b_tb: 2160
+  b_gidp: 115
+  b_hbp: 52
+  b_sh: 10
+  b_sf: 47
+  b_ibb: 15
+  pos: 
+  awards: 
+
+SFG 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 10.0
+  b_games: 84
+  b_pa: 3126
+  b_ab: 2744
+  b_r: 349
+  b_h: 632
+  b_doubles: 121
+  b_triples: 14
+  b_hr: 79
+  b_rbi: 330
+  b_sb: 44
+  b_cs: 17
+  b_bb: 305
+  b_so: 703
+  b_batting_avg: 0.23
+  b_onbase_perc: 0.313
+  b_slugging_perc: 0.371
+  b_onbase_plus_slugging: 0.684
+  b_onbase_plus_slugging_plus: 97
+  b_roba: 0.31
+  b_rbat_plus: 99
+  b_tb: 1018
+  b_gidp: 58
+  b_hbp: 34
+  b_sh: 18
+  b_sf: 24
+  b_ibb: 6
+  pos: 
+  awards: 
+
+TEX 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 2.9
+  b_games: 60
+  b_pa: 2147
+  b_ab: 1936
+  b_r: 224
+  b_h: 420
+  b_doubles: 80
+  b_triples: 9
+  b_hr: 62
+  b_rbi: 204
+  b_sb: 49
+  b_cs: 14
+  b_bb: 167
+  b_so: 548
+  b_batting_avg: 0.217
+  b_onbase_perc: 0.285
+  b_slugging_perc: 0.364
+  b_onbase_plus_slugging: 0.648
+  b_onbase_plus_slugging_plus: 78
+  b_roba: 0.291
+  b_rbat_plus: 77
+  b_tb: 704
+  b_gidp: 33
+  b_hbp: 24
+  b_sh: 2
+  b_sf: 18
+  b_ibb: 3
+  pos: 
+  awards: 
+
+TEX 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.7
+  b_games: 162
+  b_pa: 5943
+  b_ab: 5405
+  b_r: 625
+  b_h: 1254
+  b_doubles: 225
+  b_triples: 24
+  b_hr: 167
+  b_rbi: 598
+  b_sb: 106
+  b_cs: 29
+  b_bb: 433
+  b_so: 1381
+  b_batting_avg: 0.232
+  b_onbase_perc: 0.294
+  b_slugging_perc: 0.375
+  b_onbase_plus_slugging: 0.67
+  b_onbase_plus_slugging_plus: 83
+  b_roba: 0.297
+  b_rbat_plus: 82
+  b_tb: 2028
+  b_gidp: 113
+  b_hbp: 58
+  b_sh: 16
+  b_sf: 31
+  b_ibb: 10
+  pos: 
+  awards: 
+
+TEX 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 17.1
+  b_games: 162
+  b_pa: 6029
+  b_ab: 5478
+  b_r: 707
+  b_h: 1308
+  b_doubles: 224
+  b_triples: 20
+  b_hr: 198
+  b_rbi: 670
+  b_sb: 128
+  b_cs: 41
+  b_bb: 456
+  b_so: 1446
+  b_batting_avg: 0.239
+  b_onbase_perc: 0.301
+  b_slugging_perc: 0.395
+  b_onbase_plus_slugging: 0.696
+  b_onbase_plus_slugging_plus: 96
+  b_roba: 0.311
+  b_rbat_plus: 96
+  b_tb: 2166
+  b_gidp: 82
+  b_hbp: 47
+  b_sh: 10
+  b_sf: 38
+  b_ibb: 12
+  pos: 
+  awards: 
+
+TEX 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 37.7
+  b_games: 162
+  b_pa: 6306
+  b_ab: 5595
+  b_r: 881
+  b_h: 1470
+  b_doubles: 326
+  b_triples: 18
+  b_hr: 233
+  b_rbi: 845
+  b_sb: 79
+  b_cs: 19
+  b_bb: 599
+  b_so: 1416
+  b_batting_avg: 0.263
+  b_onbase_perc: 0.337
+  b_slugging_perc: 0.452
+  b_onbase_plus_slugging: 0.79
+  b_onbase_plus_slugging_plus: 116
+  b_roba: 0.345
+  b_rbat_plus: 118
+  b_tb: 2531
+  b_gidp: 103
+  b_hbp: 53
+  b_sh: 10
+  b_sf: 47
+  b_ibb: 17
+  pos: 
+  awards: 
+
+TEX 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 20.7
+  b_games: 162
+  b_pa: 6053
+  b_ab: 5472
+  b_r: 683
+  b_h: 1302
+  b_doubles: 220
+  b_triples: 15
+  b_hr: 176
+  b_rbi: 652
+  b_sb: 97
+  b_cs: 25
+  b_bb: 490
+  b_so: 1284
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.305
+  b_slugging_perc: 0.38
+  b_onbase_plus_slugging: 0.686
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.306
+  b_rbat_plus: 96
+  b_tb: 2080
+  b_gidp: 96
+  b_hbp: 55
+  b_sh: 6
+  b_sf: 30
+  b_ibb: 20
+  pos: 
+  awards: 
+
+TEX 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.2
+  b_games: 84
+  b_pa: 3080
+  b_ab: 2776
+  b_r: 308
+  b_h: 629
+  b_doubles: 115
+  b_triples: 8
+  b_hr: 83
+  b_rbi: 296
+  b_sb: 72
+  b_cs: 19
+  b_bb: 240
+  b_so: 684
+  b_batting_avg: 0.227
+  b_onbase_perc: 0.293
+  b_slugging_perc: 0.363
+  b_onbase_plus_slugging: 0.657
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.296
+  b_rbat_plus: 91
+  b_tb: 1009
+  b_gidp: 44
+  b_hbp: 33
+  b_sh: 5
+  b_sf: 25
+  b_ibb: 10
+  pos: 
+  awards: 
+
+MIN 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.0
+  b_games: 60
+  b_pa: 2168
+  b_ab: 1937
+  b_r: 269
+  b_h: 468
+  b_doubles: 81
+  b_triples: 3
+  b_hr: 91
+  b_rbi: 258
+  b_sb: 14
+  b_cs: 7
+  b_bb: 186
+  b_so: 528
+  b_batting_avg: 0.242
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.427
+  b_onbase_plus_slugging: 0.743
+  b_onbase_plus_slugging_plus: 104
+  b_roba: 0.324
+  b_rbat_plus: 102
+  b_tb: 828
+  b_gidp: 38
+  b_hbp: 29
+  b_sh: 2
+  b_sf: 14
+  b_ibb: 9
+  pos: 
+  awards: 
+
+MIN 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.3
+  b_games: 162
+  b_pa: 6078
+  b_ab: 5431
+  b_r: 729
+  b_h: 1311
+  b_doubles: 271
+  b_triples: 17
+  b_hr: 228
+  b_rbi: 690
+  b_sb: 54
+  b_cs: 15
+  b_bb: 525
+  b_so: 1405
+  b_batting_avg: 0.241
+  b_onbase_perc: 0.314
+  b_slugging_perc: 0.423
+  b_onbase_plus_slugging: 0.738
+  b_onbase_plus_slugging_plus: 103
+  b_roba: 0.322
+  b_rbat_plus: 102
+  b_tb: 2300
+  b_gidp: 122
+  b_hbp: 70
+  b_sh: 7
+  b_sf: 42
+  b_ibb: 17
+  pos: 
+  awards: 
+
+MIN 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 24.0
+  b_games: 162
+  b_pa: 6113
+  b_ab: 5476
+  b_r: 696
+  b_h: 1356
+  b_doubles: 269
+  b_triples: 18
+  b_hr: 178
+  b_rbi: 668
+  b_sb: 38
+  b_cs: 17
+  b_bb: 518
+  b_so: 1353
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.401
+  b_onbase_plus_slugging: 0.718
+  b_onbase_plus_slugging_plus: 105
+  b_roba: 0.321
+  b_rbat_plus: 106
+  b_tb: 2195
+  b_gidp: 133
+  b_hbp: 62
+  b_sh: 10
+  b_sf: 46
+  b_ibb: 11
+  pos: 
+  awards: 
+
+MIN 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 25.0
+  b_games: 162
+  b_pa: 6219
+  b_ab: 5489
+  b_r: 778
+  b_h: 1336
+  b_doubles: 264
+  b_triples: 24
+  b_hr: 233
+  b_rbi: 745
+  b_sb: 86
+  b_cs: 18
+  b_bb: 594
+  b_so: 1654
+  b_batting_avg: 0.243
+  b_onbase_perc: 0.326
+  b_slugging_perc: 0.428
+  b_onbase_plus_slugging: 0.753
+  b_onbase_plus_slugging_plus: 105
+  b_roba: 0.331
+  b_rbat_plus: 105
+  b_tb: 2347
+  b_gidp: 119
+  b_hbp: 92
+  b_sh: 12
+  b_sf: 32
+  b_ibb: 13
+  pos: 
+  awards: 
+
+MIN 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 17.0
+  b_games: 162
+  b_pa: 6123
+  b_ab: 5490
+  b_r: 742
+  b_h: 1352
+  b_doubles: 309
+  b_triples: 23
+  b_hr: 183
+  b_rbi: 702
+  b_sb: 65
+  b_cs: 23
+  b_bb: 473
+  b_so: 1306
+  b_batting_avg: 0.246
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.411
+  b_onbase_plus_slugging: 0.726
+  b_onbase_plus_slugging_plus: 103
+  b_roba: 0.321
+  b_rbat_plus: 103
+  b_tb: 2256
+  b_gidp: 115
+  b_hbp: 101
+  b_sh: 10
+  b_sf: 47
+  b_ibb: 15
+  pos: 
+  awards: 
+
+MIN 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.2
+  b_games: 84
+  b_pa: 3137
+  b_ab: 2818
+  b_r: 356
+  b_h: 678
+  b_doubles: 132
+  b_triples: 8
+  b_hr: 96
+  b_rbi: 343
+  b_sb: 40
+  b_cs: 14
+  b_bb: 248
+  b_so: 694
+  b_batting_avg: 0.241
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.395
+  b_onbase_plus_slugging: 0.707
+  b_onbase_plus_slugging_plus: 96
+  b_roba: 0.317
+  b_rbat_plus: 97
+  b_tb: 1114
+  b_gidp: 54
+  b_hbp: 51
+  b_sh: 2
+  b_sf: 17
+  b_ibb: 5
+  pos: 
+  awards: 
+
+COL 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.1
+  b_games: 60
+  b_pa: 2257
+  b_ab: 2057
+  b_r: 275
+  b_h: 528
+  b_doubles: 84
+  b_triples: 16
+  b_hr: 63
+  b_rbi: 264
+  b_sb: 42
+  b_cs: 9
+  b_bb: 161
+  b_so: 543
+  b_batting_avg: 0.257
+  b_onbase_perc: 0.311
+  b_slugging_perc: 0.405
+  b_onbase_plus_slugging: 0.716
+  b_onbase_plus_slugging_plus: 81
+  b_roba: 0.317
+  b_rbat_plus: 77
+  b_tb: 833
+  b_gidp: 41
+  b_hbp: 10
+  b_sh: 7
+  b_sf: 19
+  b_ibb: 12
+  pos: 
+  awards: 
+
+COL 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 20.3
+  b_games: 161
+  b_pa: 6007
+  b_ab: 5374
+  b_r: 739
+  b_h: 1338
+  b_doubles: 275
+  b_triples: 34
+  b_hr: 182
+  b_rbi: 709
+  b_sb: 76
+  b_cs: 23
+  b_bb: 491
+  b_so: 1356
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.414
+  b_onbase_plus_slugging: 0.731
+  b_onbase_plus_slugging_plus: 86
+  b_roba: 0.323
+  b_rbat_plus: 82
+  b_tb: 2227
+  b_gidp: 98
+  b_hbp: 58
+  b_sh: 48
+  b_sf: 36
+  b_ibb: 24
+  pos: 
+  awards: 
+
+COL 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.2
+  b_games: 162
+  b_pa: 6105
+  b_ab: 5540
+  b_r: 698
+  b_h: 1408
+  b_doubles: 280
+  b_triples: 34
+  b_hr: 149
+  b_rbi: 669
+  b_sb: 45
+  b_cs: 20
+  b_bb: 453
+  b_so: 1330
+  b_batting_avg: 0.254
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.398
+  b_onbase_plus_slugging: 0.713
+  b_onbase_plus_slugging_plus: 91
+  b_roba: 0.318
+  b_rbat_plus: 90
+  b_tb: 2203
+  b_gidp: 139
+  b_hbp: 61
+  b_sh: 10
+  b_sf: 40
+  b_ibb: 10
+  pos: 
+  awards: 
+
+COL 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.9
+  b_games: 162
+  b_pa: 6055
+  b_ab: 5496
+  b_r: 721
+  b_h: 1368
+  b_doubles: 305
+  b_triples: 31
+  b_hr: 163
+  b_rbi: 685
+  b_sb: 76
+  b_cs: 25
+  b_bb: 447
+  b_so: 1543
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.31
+  b_slugging_perc: 0.405
+  b_onbase_plus_slugging: 0.715
+  b_onbase_plus_slugging_plus: 85
+  b_roba: 0.316
+  b_rbat_plus: 83
+  b_tb: 2224
+  b_gidp: 124
+  b_hbp: 59
+  b_sh: 11
+  b_sf: 41
+  b_ibb: 8
+  pos: 
+  awards: 
+
+COL 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 10.7
+  b_games: 162
+  b_pa: 6026
+  b_ab: 5454
+  b_r: 682
+  b_h: 1319
+  b_doubles: 277
+  b_triples: 25
+  b_hr: 179
+  b_rbi: 655
+  b_sb: 85
+  b_cs: 31
+  b_bb: 453
+  b_so: 1617
+  b_batting_avg: 0.242
+  b_onbase_perc: 0.304
+  b_slugging_perc: 0.4
+  b_onbase_plus_slugging: 0.704
+  b_onbase_plus_slugging_plus: 88
+  b_roba: 0.31
+  b_rbat_plus: 86
+  b_tb: 2183
+  b_gidp: 126
+  b_hbp: 51
+  b_sh: 19
+  b_sf: 45
+  b_ibb: 20
+  pos: 
+  awards: 
+
+COL 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: -5.0
+  b_games: 84
+  b_pa: 3091
+  b_ab: 2812
+  b_r: 295
+  b_h: 638
+  b_doubles: 135
+  b_triples: 25
+  b_hr: 79
+  b_rbi: 289
+  b_sb: 45
+  b_cs: 21
+  b_bb: 225
+  b_so: 832
+  b_batting_avg: 0.227
+  b_onbase_perc: 0.289
+  b_slugging_perc: 0.377
+  b_onbase_plus_slugging: 0.666
+  b_onbase_plus_slugging_plus: 78
+  b_roba: 0.298
+  b_rbat_plus: 75
+  b_tb: 1060
+  b_gidp: 62
+  b_hbp: 29
+  b_sh: 8
+  b_sf: 17
+  b_ibb: 5
+  pos: 
+  awards: 
+
+WSN 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.5
+  b_games: 60
+  b_pa: 2218
+  b_ab: 1968
+  b_r: 293
+  b_h: 519
+  b_doubles: 112
+  b_triples: 12
+  b_hr: 66
+  b_rbi: 279
+  b_sb: 33
+  b_cs: 12
+  b_bb: 192
+  b_so: 451
+  b_batting_avg: 0.264
+  b_onbase_perc: 0.336
+  b_slugging_perc: 0.433
+  b_onbase_plus_slugging: 0.769
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.336
+  b_rbat_plus: 106
+  b_tb: 853
+  b_gidp: 42
+  b_hbp: 32
+  b_sh: 5
+  b_sf: 21
+  b_ibb: 16
+  pos: 
+  awards: 
+
+WSN 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 27.4
+  b_games: 162
+  b_pa: 6113
+  b_ab: 5385
+  b_r: 724
+  b_h: 1388
+  b_doubles: 272
+  b_triples: 20
+  b_hr: 182
+  b_rbi: 686
+  b_sb: 56
+  b_cs: 26
+  b_bb: 573
+  b_so: 1303
+  b_batting_avg: 0.258
+  b_onbase_perc: 0.337
+  b_slugging_perc: 0.417
+  b_onbase_plus_slugging: 0.754
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.335
+  b_rbat_plus: 109
+  b_tb: 2246
+  b_gidp: 158
+  b_hbp: 84
+  b_sh: 38
+  b_sf: 31
+  b_ibb: 43
+  pos: 
+  awards: 
+
+WSN 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.3
+  b_games: 162
+  b_pa: 5998
+  b_ab: 5434
+  b_r: 603
+  b_h: 1351
+  b_doubles: 252
+  b_triples: 20
+  b_hr: 136
+  b_rbi: 579
+  b_sb: 75
+  b_cs: 31
+  b_bb: 442
+  b_so: 1221
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.31
+  b_slugging_perc: 0.377
+  b_onbase_plus_slugging: 0.688
+  b_onbase_plus_slugging_plus: 98
+  b_roba: 0.308
+  b_rbat_plus: 98
+  b_tb: 2051
+  b_gidp: 141
+  b_hbp: 60
+  b_sh: 20
+  b_sf: 37
+  b_ibb: 12
+  pos: 
+  awards: 
+
+WSN 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 18.1
+  b_games: 162
+  b_pa: 6085
+  b_ab: 5522
+  b_r: 700
+  b_h: 1401
+  b_doubles: 279
+  b_triples: 26
+  b_hr: 151
+  b_rbi: 665
+  b_sb: 127
+  b_cs: 29
+  b_bb: 423
+  b_so: 1149
+  b_batting_avg: 0.254
+  b_onbase_perc: 0.314
+  b_slugging_perc: 0.396
+  b_onbase_plus_slugging: 0.709
+  b_onbase_plus_slugging_plus: 96
+  b_roba: 0.317
+  b_rbat_plus: 98
+  b_tb: 2185
+  b_gidp: 112
+  b_hbp: 78
+  b_sh: 20
+  b_sf: 38
+  b_ibb: 6
+  pos: 
+  awards: 
+
+WSN 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 13.7
+  b_games: 162
+  b_pa: 5971
+  b_ab: 5374
+  b_r: 660
+  b_h: 1306
+  b_doubles: 267
+  b_triples: 18
+  b_hr: 135
+  b_rbi: 621
+  b_sb: 223
+  b_cs: 73
+  b_bb: 456
+  b_so: 1220
+  b_batting_avg: 0.243
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.375
+  b_onbase_plus_slugging: 0.684
+  b_onbase_plus_slugging_plus: 94
+  b_roba: 0.308
+  b_rbat_plus: 95
+  b_tb: 2014
+  b_gidp: 115
+  b_hbp: 73
+  b_sh: 26
+  b_sf: 40
+  b_ibb: 11
+  pos: 
+  awards: 
+
+WSN 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.0
+  b_games: 84
+  b_pa: 3136
+  b_ab: 2818
+  b_r: 366
+  b_h: 689
+  b_doubles: 142
+  b_triples: 11
+  b_hr: 85
+  b_rbi: 350
+  b_sb: 74
+  b_cs: 30
+  b_bb: 243
+  b_so: 634
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.311
+  b_slugging_perc: 0.393
+  b_onbase_plus_slugging: 0.704
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.315
+  b_rbat_plus: 101
+  b_tb: 1108
+  b_gidp: 51
+  b_hbp: 38
+  b_sh: 16
+  b_sf: 20
+  b_ibb: 10
+  pos: 
+  awards: 
+
+TOR 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.0
+  b_games: 60
+  b_pa: 2263
+  b_ab: 2023
+  b_r: 302
+  b_h: 516
+  b_doubles: 104
+  b_triples: 4
+  b_hr: 88
+  b_rbi: 288
+  b_sb: 33
+  b_cs: 6
+  b_bb: 203
+  b_so: 508
+  b_batting_avg: 0.255
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.441
+  b_onbase_plus_slugging: 0.766
+  b_onbase_plus_slugging_plus: 108
+  b_roba: 0.341
+  b_rbat_plus: 110
+  b_tb: 892
+  b_gidp: 39
+  b_hbp: 12
+  b_sh: 8
+  b_sf: 14
+  b_ibb: 4
+  pos: 
+  awards: 
+
+TOR 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 31.1
+  b_games: 162
+  b_pa: 6070
+  b_ab: 5476
+  b_r: 846
+  b_h: 1455
+  b_doubles: 285
+  b_triples: 13
+  b_hr: 262
+  b_rbi: 816
+  b_sb: 81
+  b_cs: 20
+  b_bb: 496
+  b_so: 1218
+  b_batting_avg: 0.266
+  b_onbase_perc: 0.33
+  b_slugging_perc: 0.466
+  b_onbase_plus_slugging: 0.797
+  b_onbase_plus_slugging_plus: 113
+  b_roba: 0.345
+  b_rbat_plus: 113
+  b_tb: 2552
+  b_gidp: 112
+  b_hbp: 51
+  b_sh: 10
+  b_sf: 35
+  b_ibb: 14
+  pos: 
+  awards: 
+
+TOR 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 32.2
+  b_games: 162
+  b_pa: 6158
+  b_ab: 5555
+  b_r: 775
+  b_h: 1464
+  b_doubles: 307
+  b_triples: 12
+  b_hr: 200
+  b_rbi: 756
+  b_sb: 67
+  b_cs: 35
+  b_bb: 500
+  b_so: 1242
+  b_batting_avg: 0.264
+  b_onbase_perc: 0.329
+  b_slugging_perc: 0.431
+  b_onbase_plus_slugging: 0.76
+  b_onbase_plus_slugging_plus: 117
+  b_roba: 0.336
+  b_rbat_plus: 118
+  b_tb: 2395
+  b_gidp: 136
+  b_hbp: 55
+  b_sh: 8
+  b_sf: 33
+  b_ibb: 13
+  pos: 
+  awards: 
+
+TOR 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 29.7
+  b_games: 162
+  b_pa: 6220
+  b_ab: 5562
+  b_r: 746
+  b_h: 1423
+  b_doubles: 292
+  b_triples: 19
+  b_hr: 188
+  b_rbi: 705
+  b_sb: 99
+  b_cs: 34
+  b_bb: 550
+  b_so: 1303
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.329
+  b_slugging_perc: 0.417
+  b_onbase_plus_slugging: 0.745
+  b_onbase_plus_slugging_plus: 105
+  b_roba: 0.329
+  b_rbat_plus: 106
+  b_tb: 2317
+  b_gidp: 129
+  b_hbp: 69
+  b_sh: 4
+  b_sf: 32
+  b_ibb: 14
+  pos: 
+  awards: 
+
+TOR 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 27.7
+  b_games: 162
+  b_pa: 6060
+  b_ab: 5410
+  b_r: 671
+  b_h: 1306
+  b_doubles: 280
+  b_triples: 26
+  b_hr: 156
+  b_rbi: 640
+  b_sb: 72
+  b_cs: 16
+  b_bb: 510
+  b_so: 1233
+  b_batting_avg: 0.241
+  b_onbase_perc: 0.313
+  b_slugging_perc: 0.389
+  b_onbase_plus_slugging: 0.703
+  b_onbase_plus_slugging_plus: 98
+  b_roba: 0.314
+  b_rbat_plus: 101
+  b_tb: 2106
+  b_gidp: 126
+  b_hbp: 78
+  b_sh: 14
+  b_sf: 45
+  b_ibb: 18
+  pos: 
+  awards: 
+
+TOR 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 14.0
+  b_games: 83
+  b_pa: 3164
+  b_ab: 2809
+  b_r: 365
+  b_h: 719
+  b_doubles: 139
+  b_triples: 4
+  b_hr: 83
+  b_rbi: 349
+  b_sb: 44
+  b_cs: 14
+  b_bb: 274
+  b_so: 559
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.327
+  b_slugging_perc: 0.397
+  b_onbase_plus_slugging: 0.723
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.321
+  b_rbat_plus: 100
+  b_tb: 1115
+  b_gidp: 62
+  b_hbp: 33
+  b_sh: 17
+  b_sf: 26
+  b_ibb: 15
+  pos: 
+  awards: 
+
+ARI 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.1
+  b_games: 60
+  b_pa: 2238
+  b_ab: 1997
+  b_r: 269
+  b_h: 482
+  b_doubles: 101
+  b_triples: 12
+  b_hr: 58
+  b_rbi: 255
+  b_sb: 23
+  b_cs: 7
+  b_bb: 181
+  b_so: 461
+  b_batting_avg: 0.241
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.391
+  b_onbase_plus_slugging: 0.704
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.313
+  b_rbat_plus: 89
+  b_tb: 781
+  b_gidp: 37
+  b_hbp: 36
+  b_sh: 1
+  b_sf: 23
+  b_ibb: 5
+  pos: 
+  awards: 
+
+ARI 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.4
+  b_games: 162
+  b_pa: 6144
+  b_ab: 5489
+  b_r: 679
+  b_h: 1297
+  b_doubles: 308
+  b_triples: 31
+  b_hr: 144
+  b_rbi: 644
+  b_sb: 43
+  b_cs: 16
+  b_bb: 537
+  b_so: 1465
+  b_batting_avg: 0.236
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.382
+  b_onbase_plus_slugging: 0.692
+  b_onbase_plus_slugging_plus: 87
+  b_roba: 0.308
+  b_rbat_plus: 85
+  b_tb: 2099
+  b_gidp: 99
+  b_hbp: 54
+  b_sh: 32
+  b_sf: 28
+  b_ibb: 24
+  pos: 
+  awards: 
+
+ARI 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 21.4
+  b_games: 162
+  b_pa: 6027
+  b_ab: 5351
+  b_r: 702
+  b_h: 1232
+  b_doubles: 262
+  b_triples: 24
+  b_hr: 173
+  b_rbi: 658
+  b_sb: 104
+  b_cs: 29
+  b_bb: 531
+  b_so: 1341
+  b_batting_avg: 0.23
+  b_onbase_perc: 0.304
+  b_slugging_perc: 0.385
+  b_onbase_plus_slugging: 0.689
+  b_onbase_plus_slugging_plus: 95
+  b_roba: 0.309
+  b_rbat_plus: 94
+  b_tb: 2061
+  b_gidp: 97
+  b_hbp: 60
+  b_sh: 31
+  b_sf: 50
+  b_ibb: 14
+  pos: 
+  awards: 
+
+ARI 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.0
+  b_games: 162
+  b_pa: 6124
+  b_ab: 5436
+  b_r: 746
+  b_h: 1359
+  b_doubles: 274
+  b_triples: 44
+  b_hr: 166
+  b_rbi: 706
+  b_sb: 166
+  b_cs: 26
+  b_bb: 540
+  b_so: 1247
+  b_batting_avg: 0.25
+  b_onbase_perc: 0.322
+  b_slugging_perc: 0.408
+  b_onbase_plus_slugging: 0.73
+  b_onbase_plus_slugging_plus: 98
+  b_roba: 0.324
+  b_rbat_plus: 96
+  b_tb: 2219
+  b_gidp: 121
+  b_hbp: 58
+  b_sh: 36
+  b_sf: 50
+  b_ibb: 11
+  pos: 
+  awards: 
+
+ARI 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 34.0
+  b_games: 162
+  b_pa: 6284
+  b_ab: 5522
+  b_r: 886
+  b_h: 1452
+  b_doubles: 271
+  b_triples: 37
+  b_hr: 211
+  b_rbi: 845
+  b_sb: 119
+  b_cs: 30
+  b_bb: 569
+  b_so: 1265
+  b_batting_avg: 0.263
+  b_onbase_perc: 0.337
+  b_slugging_perc: 0.44
+  b_onbase_plus_slugging: 0.777
+  b_onbase_plus_slugging_plus: 115
+  b_roba: 0.341
+  b_rbat_plus: 115
+  b_tb: 2430
+  b_gidp: 112
+  b_hbp: 84
+  b_sh: 34
+  b_sf: 66
+  b_ibb: 17
+  pos: 
+  awards: 
+
+ARI 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.7
+  b_games: 83
+  b_pa: 3208
+  b_ab: 2826
+  b_r: 432
+  b_h: 719
+  b_doubles: 148
+  b_triples: 18
+  b_hr: 120
+  b_rbi: 423
+  b_sb: 62
+  b_cs: 19
+  b_bb: 294
+  b_so: 644
+  b_batting_avg: 0.254
+  b_onbase_perc: 0.329
+  b_slugging_perc: 0.447
+  b_onbase_plus_slugging: 0.776
+  b_onbase_plus_slugging_plus: 113
+  b_roba: 0.343
+  b_rbat_plus: 113
+  b_tb: 1263
+  b_gidp: 55
+  b_hbp: 39
+  b_sh: 13
+  b_sf: 35
+  b_ibb: 9
+  pos: 
+  awards: 
+
+NYY 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.8
+  b_games: 60
+  b_pa: 2210
+  b_ab: 1915
+  b_r: 315
+  b_h: 473
+  b_doubles: 87
+  b_triples: 7
+  b_hr: 94
+  b_rbi: 301
+  b_sb: 27
+  b_cs: 7
+  b_bb: 251
+  b_so: 480
+  b_batting_avg: 0.247
+  b_onbase_perc: 0.342
+  b_slugging_perc: 0.447
+  b_onbase_plus_slugging: 0.789
+  b_onbase_plus_slugging_plus: 118
+  b_roba: 0.349
+  b_rbat_plus: 120
+  b_tb: 856
+  b_gidp: 51
+  b_hbp: 30
+  b_sh: 1
+  b_sf: 11
+  b_ibb: 5
+  pos: 
+  awards: 
+
+NYY 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 13.7
+  b_games: 162
+  b_pa: 6060
+  b_ab: 5331
+  b_r: 711
+  b_h: 1266
+  b_doubles: 213
+  b_triples: 12
+  b_hr: 222
+  b_rbi: 666
+  b_sb: 63
+  b_cs: 18
+  b_bb: 621
+  b_so: 1482
+  b_batting_avg: 0.237
+  b_onbase_perc: 0.322
+  b_slugging_perc: 0.407
+  b_onbase_plus_slugging: 0.729
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.321
+  b_rbat_plus: 100
+  b_tb: 2169
+  b_gidp: 154
+  b_hbp: 63
+  b_sh: 10
+  b_sf: 34
+  b_ibb: 14
+  pos: 
+  awards: 
+
+NYY 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 35.6
+  b_games: 162
+  b_pa: 6172
+  b_ab: 5422
+  b_r: 807
+  b_h: 1308
+  b_doubles: 225
+  b_triples: 8
+  b_hr: 254
+  b_rbi: 764
+  b_sb: 102
+  b_cs: 33
+  b_bb: 620
+  b_so: 1391
+  b_batting_avg: 0.241
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.426
+  b_onbase_plus_slugging: 0.751
+  b_onbase_plus_slugging_plus: 112
+  b_roba: 0.335
+  b_rbat_plus: 113
+  b_tb: 2311
+  b_gidp: 121
+  b_hbp: 70
+  b_sh: 14
+  b_sf: 41
+  b_ibb: 36
+  pos: 
+  awards: 
+
+NYY 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 8.8
+  b_games: 162
+  b_pa: 5973
+  b_ab: 5323
+  b_r: 673
+  b_h: 1207
+  b_doubles: 221
+  b_triples: 15
+  b_hr: 219
+  b_rbi: 650
+  b_sb: 100
+  b_cs: 30
+  b_bb: 557
+  b_so: 1427
+  b_batting_avg: 0.227
+  b_onbase_perc: 0.304
+  b_slugging_perc: 0.397
+  b_onbase_plus_slugging: 0.701
+  b_onbase_plus_slugging_plus: 91
+  b_roba: 0.307
+  b_rbat_plus: 89
+  b_tb: 2115
+  b_gidp: 119
+  b_hbp: 47
+  b_sh: 9
+  b_sf: 36
+  b_ibb: 18
+  pos: 
+  awards: 
+
+NYY 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 30.4
+  b_games: 162
+  b_pa: 6245
+  b_ab: 5450
+  b_r: 815
+  b_h: 1352
+  b_doubles: 243
+  b_triples: 15
+  b_hr: 237
+  b_rbi: 782
+  b_sb: 88
+  b_cs: 26
+  b_bb: 672
+  b_so: 1326
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.333
+  b_slugging_perc: 0.429
+  b_onbase_plus_slugging: 0.761
+  b_onbase_plus_slugging_plus: 115
+  b_roba: 0.338
+  b_rbat_plus: 116
+  b_tb: 2336
+  b_gidp: 138
+  b_hbp: 49
+  b_sh: 14
+  b_sf: 57
+  b_ibb: 26
+  pos: 
+  awards: 
+
+NYY 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.9
+  b_games: 83
+  b_pa: 3214
+  b_ab: 2811
+  b_r: 422
+  b_h: 710
+  b_doubles: 142
+  b_triples: 14
+  b_hr: 126
+  b_rbi: 405
+  b_sb: 59
+  b_cs: 20
+  b_bb: 331
+  b_so: 740
+  b_batting_avg: 0.253
+  b_onbase_perc: 0.336
+  b_slugging_perc: 0.448
+  b_onbase_plus_slugging: 0.783
+  b_onbase_plus_slugging_plus: 118
+  b_roba: 0.345
+  b_rbat_plus: 120
+  b_tb: 1258
+  b_gidp: 55
+  b_hbp: 35
+  b_sh: 3
+  b_sf: 29
+  b_ibb: 23
+  pos: 
+  awards: 
+
+PHI 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.2
+  b_games: 60
+  b_pa: 2223
+  b_ab: 1948
+  b_r: 306
+  b_h: 500
+  b_doubles: 90
+  b_triples: 10
+  b_hr: 82
+  b_rbi: 289
+  b_sb: 35
+  b_cs: 8
+  b_bb: 229
+  b_so: 480
+  b_batting_avg: 0.257
+  b_onbase_perc: 0.342
+  b_slugging_perc: 0.439
+  b_onbase_plus_slugging: 0.781
+  b_onbase_plus_slugging_plus: 109
+  b_roba: 0.347
+  b_rbat_plus: 111
+  b_tb: 856
+  b_gidp: 40
+  b_hbp: 28
+  b_sh: 8
+  b_sf: 10
+  b_ibb: 16
+  pos: 
+  awards: 
+
+PHI 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 14.9
+  b_games: 162
+  b_pa: 6089
+  b_ab: 5366
+  b_r: 734
+  b_h: 1288
+  b_doubles: 262
+  b_triples: 24
+  b_hr: 198
+  b_rbi: 700
+  b_sb: 77
+  b_cs: 19
+  b_bb: 564
+  b_so: 1402
+  b_batting_avg: 0.24
+  b_onbase_perc: 0.318
+  b_slugging_perc: 0.408
+  b_onbase_plus_slugging: 0.726
+  b_onbase_plus_slugging_plus: 95
+  b_roba: 0.323
+  b_rbat_plus: 95
+  b_tb: 2192
+  b_gidp: 103
+  b_hbp: 67
+  b_sh: 47
+  b_sf: 43
+  b_ibb: 37
+  pos: 
+  awards: 
+
+PHI 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 21.3
+  b_games: 162
+  b_pa: 6077
+  b_ab: 5496
+  b_r: 747
+  b_h: 1392
+  b_doubles: 255
+  b_triples: 29
+  b_hr: 205
+  b_rbi: 719
+  b_sb: 105
+  b_cs: 28
+  b_bb: 478
+  b_so: 1363
+  b_batting_avg: 0.253
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.422
+  b_onbase_plus_slugging: 0.739
+  b_onbase_plus_slugging_plus: 108
+  b_roba: 0.329
+  b_rbat_plus: 108
+  b_tb: 2320
+  b_gidp: 116
+  b_hbp: 52
+  b_sh: 6
+  b_sf: 44
+  b_ibb: 15
+  pos: 
+  awards: 
+
+PHI 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.3
+  b_games: 162
+  b_pa: 6207
+  b_ab: 5541
+  b_r: 796
+  b_h: 1417
+  b_doubles: 291
+  b_triples: 29
+  b_hr: 220
+  b_rbi: 771
+  b_sb: 141
+  b_cs: 26
+  b_bb: 539
+  b_so: 1481
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.327
+  b_slugging_perc: 0.438
+  b_onbase_plus_slugging: 0.765
+  b_onbase_plus_slugging_plus: 107
+  b_roba: 0.337
+  b_rbat_plus: 107
+  b_tb: 2426
+  b_gidp: 110
+  b_hbp: 69
+  b_sh: 13
+  b_sf: 42
+  b_ibb: 22
+  pos: 
+  awards: 
+
+PHI 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 28.8
+  b_games: 162
+  b_pa: 6166
+  b_ab: 5534
+  b_r: 784
+  b_h: 1423
+  b_doubles: 285
+  b_triples: 24
+  b_hr: 198
+  b_rbi: 750
+  b_sb: 148
+  b_cs: 30
+  b_bb: 515
+  b_so: 1370
+  b_batting_avg: 0.257
+  b_onbase_perc: 0.325
+  b_slugging_perc: 0.425
+  b_onbase_plus_slugging: 0.75
+  b_onbase_plus_slugging_plus: 106
+  b_roba: 0.333
+  b_rbat_plus: 110
+  b_tb: 2350
+  b_gidp: 107
+  b_hbp: 62
+  b_sh: 13
+  b_sf: 40
+  b_ibb: 21
+  pos: 
+  awards: 
+
+PHI 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.3
+  b_games: 84
+  b_pa: 3203
+  b_ab: 2854
+  b_r: 386
+  b_h: 727
+  b_doubles: 134
+  b_triples: 11
+  b_hr: 88
+  b_rbi: 368
+  b_sb: 71
+  b_cs: 15
+  b_bb: 290
+  b_so: 666
+  b_batting_avg: 0.255
+  b_onbase_perc: 0.328
+  b_slugging_perc: 0.402
+  b_onbase_plus_slugging: 0.73
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.328
+  b_rbat_plus: 99
+  b_tb: 1147
+  b_gidp: 52
+  b_hbp: 32
+  b_sh: 8
+  b_sf: 19
+  b_ibb: 9
+  pos: 
+  awards: 
+
+MIL 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 1.2
+  b_games: 60
+  b_pa: 2188
+  b_ab: 1920
+  b_r: 247
+  b_h: 429
+  b_doubles: 83
+  b_triples: 5
+  b_hr: 75
+  b_rbi: 238
+  b_sb: 15
+  b_cs: 11
+  b_bb: 221
+  b_so: 582
+  b_batting_avg: 0.223
+  b_onbase_perc: 0.313
+  b_slugging_perc: 0.389
+  b_onbase_plus_slugging: 0.702
+  b_onbase_plus_slugging_plus: 87
+  b_roba: 0.312
+  b_rbat_plus: 86
+  b_tb: 747
+  b_gidp: 53
+  b_hbp: 35
+  b_sh: 0
+  b_sf: 10
+  b_ibb: 8
+  pos: 
+  awards: 
+
+MIL 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 20.6
+  b_games: 162
+  b_pa: 6099
+  b_ab: 5362
+  b_r: 738
+  b_h: 1251
+  b_doubles: 255
+  b_triples: 18
+  b_hr: 194
+  b_rbi: 700
+  b_sb: 82
+  b_cs: 21
+  b_bb: 586
+  b_so: 1465
+  b_batting_avg: 0.233
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.396
+  b_onbase_plus_slugging: 0.713
+  b_onbase_plus_slugging_plus: 92
+  b_roba: 0.319
+  b_rbat_plus: 92
+  b_tb: 2124
+  b_gidp: 102
+  b_hbp: 88
+  b_sh: 25
+  b_sf: 35
+  b_ibb: 26
+  pos: 
+  awards: 
+
+MIL 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.9
+  b_games: 162
+  b_pa: 6122
+  b_ab: 5417
+  b_r: 725
+  b_h: 1271
+  b_doubles: 251
+  b_triples: 17
+  b_hr: 219
+  b_rbi: 703
+  b_sb: 96
+  b_cs: 30
+  b_bb: 577
+  b_so: 1464
+  b_batting_avg: 0.235
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.409
+  b_onbase_plus_slugging: 0.724
+  b_onbase_plus_slugging_plus: 103
+  b_roba: 0.322
+  b_rbat_plus: 102
+  b_tb: 2213
+  b_gidp: 117
+  b_hbp: 80
+  b_sh: 11
+  b_sf: 37
+  b_ibb: 25
+  pos: 
+  awards: 
+
+MIL 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 17.6
+  b_games: 162
+  b_pa: 6084
+  b_ab: 5386
+  b_r: 728
+  b_h: 1290
+  b_doubles: 257
+  b_triples: 16
+  b_hr: 165
+  b_rbi: 696
+  b_sb: 129
+  b_cs: 28
+  b_bb: 591
+  b_so: 1412
+  b_batting_avg: 0.24
+  b_onbase_perc: 0.319
+  b_slugging_perc: 0.385
+  b_onbase_plus_slugging: 0.704
+  b_onbase_plus_slugging_plus: 92
+  b_roba: 0.315
+  b_rbat_plus: 92
+  b_tb: 2074
+  b_gidp: 144
+  b_hbp: 58
+  b_sh: 7
+  b_sf: 39
+  b_ibb: 15
+  pos: 
+  awards: 
+
+MIL 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.0
+  b_games: 162
+  b_pa: 6170
+  b_ab: 5472
+  b_r: 777
+  b_h: 1359
+  b_doubles: 249
+  b_triples: 33
+  b_hr: 177
+  b_rbi: 742
+  b_sb: 217
+  b_cs: 42
+  b_bb: 597
+  b_so: 1459
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.326
+  b_slugging_perc: 0.403
+  b_onbase_plus_slugging: 0.729
+  b_onbase_plus_slugging_plus: 104
+  b_roba: 0.325
+  b_rbat_plus: 100
+  b_tb: 2205
+  b_gidp: 97
+  b_hbp: 46
+  b_sh: 15
+  b_sf: 34
+  b_ibb: 19
+  pos: 
+  awards: 
+
+MIL 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.4
+  b_games: 84
+  b_pa: 3182
+  b_ab: 2811
+  b_r: 397
+  b_h: 695
+  b_doubles: 121
+  b_triples: 8
+  b_hr: 79
+  b_rbi: 368
+  b_sb: 99
+  b_cs: 29
+  b_bb: 291
+  b_so: 674
+  b_batting_avg: 0.247
+  b_onbase_perc: 0.322
+  b_slugging_perc: 0.38
+  b_onbase_plus_slugging: 0.703
+  b_onbase_plus_slugging_plus: 98
+  b_roba: 0.319
+  b_rbat_plus: 99
+  b_tb: 1069
+  b_gidp: 43
+  b_hbp: 33
+  b_sh: 18
+  b_sf: 26
+  b_ibb: 10
+  pos: 
+  awards: 
+
+CHW 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.5
+  b_games: 60
+  b_pa: 2267
+  b_ab: 2047
+  b_r: 306
+  b_h: 534
+  b_doubles: 94
+  b_triples: 6
+  b_hr: 96
+  b_rbi: 294
+  b_sb: 20
+  b_cs: 8
+  b_bb: 179
+  b_so: 571
+  b_batting_avg: 0.261
+  b_onbase_perc: 0.326
+  b_slugging_perc: 0.453
+  b_onbase_plus_slugging: 0.779
+  b_onbase_plus_slugging_plus: 112
+  b_roba: 0.342
+  b_rbat_plus: 112
+  b_tb: 928
+  b_gidp: 44
+  b_hbp: 24
+  b_sh: 1
+  b_sf: 13
+  b_ibb: 1
+  pos: 
+  awards: 
+
+CHW 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 23.5
+  b_games: 162
+  b_pa: 6084
+  b_ab: 5357
+  b_r: 796
+  b_h: 1373
+  b_doubles: 275
+  b_triples: 22
+  b_hr: 190
+  b_rbi: 757
+  b_sb: 57
+  b_cs: 20
+  b_bb: 586
+  b_so: 1389
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.336
+  b_slugging_perc: 0.422
+  b_onbase_plus_slugging: 0.758
+  b_onbase_plus_slugging_plus: 106
+  b_roba: 0.336
+  b_rbat_plus: 108
+  b_tb: 2262
+  b_gidp: 139
+  b_hbp: 78
+  b_sh: 24
+  b_sf: 39
+  b_ibb: 10
+  pos: 
+  awards: 
+
+CHW 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.6
+  b_games: 162
+  b_pa: 6123
+  b_ab: 5611
+  b_r: 686
+  b_h: 1435
+  b_doubles: 272
+  b_triples: 9
+  b_hr: 149
+  b_rbi: 654
+  b_sb: 58
+  b_cs: 10
+  b_bb: 388
+  b_so: 1269
+  b_batting_avg: 0.256
+  b_onbase_perc: 0.31
+  b_slugging_perc: 0.387
+  b_onbase_plus_slugging: 0.698
+  b_onbase_plus_slugging_plus: 97
+  b_roba: 0.313
+  b_rbat_plus: 97
+  b_tb: 2172
+  b_gidp: 127
+  b_hbp: 73
+  b_sh: 16
+  b_sf: 35
+  b_ibb: 9
+  pos: 
+  awards: 
+
+CHW 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 2.0
+  b_games: 162
+  b_pa: 5980
+  b_ab: 5501
+  b_r: 641
+  b_h: 1308
+  b_doubles: 264
+  b_triples: 13
+  b_hr: 171
+  b_rbi: 617
+  b_sb: 86
+  b_cs: 22
+  b_bb: 377
+  b_so: 1424
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.291
+  b_slugging_perc: 0.384
+  b_onbase_plus_slugging: 0.675
+  b_onbase_plus_slugging_plus: 84
+  b_roba: 0.298
+  b_rbat_plus: 83
+  b_tb: 2111
+  b_gidp: 122
+  b_hbp: 52
+  b_sh: 16
+  b_sf: 29
+  b_ibb: 19
+  pos: 
+  awards: 
+
+CHW 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: -6.7
+  b_games: 162
+  b_pa: 5869
+  b_ab: 5383
+  b_r: 507
+  b_h: 1187
+  b_doubles: 226
+  b_triples: 9
+  b_hr: 133
+  b_rbi: 485
+  b_sb: 90
+  b_cs: 33
+  b_bb: 395
+  b_so: 1403
+  b_batting_avg: 0.221
+  b_onbase_perc: 0.278
+  b_slugging_perc: 0.34
+  b_onbase_plus_slugging: 0.618
+  b_onbase_plus_slugging_plus: 75
+  b_roba: 0.278
+  b_rbat_plus: 76
+  b_tb: 1830
+  b_gidp: 116
+  b_hbp: 43
+  b_sh: 18
+  b_sf: 27
+  b_ibb: 8
+  pos: 
+  awards: 
+
+CHW 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 0.8
+  b_games: 84
+  b_pa: 3072
+  b_ab: 2742
+  b_r: 287
+  b_h: 608
+  b_doubles: 126
+  b_triples: 7
+  b_hr: 65
+  b_rbi: 272
+  b_sb: 57
+  b_cs: 17
+  b_bb: 274
+  b_so: 724
+  b_batting_avg: 0.222
+  b_onbase_perc: 0.295
+  b_slugging_perc: 0.344
+  b_onbase_plus_slugging: 0.638
+  b_onbase_plus_slugging_plus: 81
+  b_roba: 0.291
+  b_rbat_plus: 81
+  b_tb: 943
+  b_gidp: 50
+  b_hbp: 18
+  b_sh: 12
+  b_sf: 22
+  b_ibb: 4
+  pos: 
+  awards: 
+
+HOU 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 6.3
+  b_games: 60
+  b_pa: 2229
+  b_ab: 1992
+  b_r: 279
+  b_h: 478
+  b_doubles: 103
+  b_triples: 12
+  b_hr: 69
+  b_rbi: 268
+  b_sb: 22
+  b_cs: 11
+  b_bb: 192
+  b_so: 440
+  b_batting_avg: 0.24
+  b_onbase_perc: 0.312
+  b_slugging_perc: 0.408
+  b_onbase_plus_slugging: 0.72
+  b_onbase_plus_slugging_plus: 95
+  b_roba: 0.32
+  b_rbat_plus: 95
+  b_tb: 812
+  b_gidp: 39
+  b_hbp: 23
+  b_sh: 6
+  b_sf: 13
+  b_ibb: 5
+  pos: 
+  awards: 
+
+HOU 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 35.5
+  b_games: 162
+  b_pa: 6291
+  b_ab: 5593
+  b_r: 863
+  b_h: 1496
+  b_doubles: 299
+  b_triples: 14
+  b_hr: 221
+  b_rbi: 834
+  b_sb: 53
+  b_cs: 16
+  b_bb: 569
+  b_so: 1222
+  b_batting_avg: 0.267
+  b_onbase_perc: 0.339
+  b_slugging_perc: 0.444
+  b_onbase_plus_slugging: 0.783
+  b_onbase_plus_slugging_plus: 113
+  b_roba: 0.341
+  b_rbat_plus: 113
+  b_tb: 2486
+  b_gidp: 136
+  b_hbp: 64
+  b_sh: 9
+  b_sf: 54
+  b_ibb: 25
+  pos: 
+  awards: 
+
+HOU 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 30.8
+  b_games: 162
+  b_pa: 6054
+  b_ab: 5409
+  b_r: 737
+  b_h: 1341
+  b_doubles: 284
+  b_triples: 13
+  b_hr: 214
+  b_rbi: 715
+  b_sb: 83
+  b_cs: 22
+  b_bb: 528
+  b_so: 1179
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.319
+  b_slugging_perc: 0.424
+  b_onbase_plus_slugging: 0.743
+  b_onbase_plus_slugging_plus: 111
+  b_roba: 0.329
+  b_rbat_plus: 110
+  b_tb: 2293
+  b_gidp: 118
+  b_hbp: 60
+  b_sh: 9
+  b_sf: 42
+  b_ibb: 18
+  pos: 
+  awards: 
+
+HOU 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 31.5
+  b_games: 162
+  b_pa: 6253
+  b_ab: 5567
+  b_r: 827
+  b_h: 1441
+  b_doubles: 280
+  b_triples: 22
+  b_hr: 222
+  b_rbi: 799
+  b_sb: 107
+  b_cs: 32
+  b_bb: 550
+  b_so: 1241
+  b_batting_avg: 0.259
+  b_onbase_perc: 0.331
+  b_slugging_perc: 0.437
+  b_onbase_plus_slugging: 0.768
+  b_onbase_plus_slugging_plus: 111
+  b_roba: 0.338
+  b_rbat_plus: 112
+  b_tb: 2431
+  b_gidp: 124
+  b_hbp: 72
+  b_sh: 14
+  b_sf: 40
+  b_ibb: 17
+  pos: 
+  awards: 
+
+HOU 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.3
+  b_games: 161
+  b_pa: 6107
+  b_ab: 5530
+  b_r: 740
+  b_h: 1448
+  b_doubles: 264
+  b_triples: 16
+  b_hr: 190
+  b_rbi: 701
+  b_sb: 93
+  b_cs: 24
+  b_bb: 448
+  b_so: 1176
+  b_batting_avg: 0.262
+  b_onbase_perc: 0.322
+  b_slugging_perc: 0.418
+  b_onbase_plus_slugging: 0.741
+  b_onbase_plus_slugging_plus: 110
+  b_roba: 0.326
+  b_rbat_plus: 111
+  b_tb: 2314
+  b_gidp: 132
+  b_hbp: 67
+  b_sh: 12
+  b_sf: 46
+  b_ibb: 28
+  pos: 
+  awards: 
+
+HOU 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.1
+  b_games: 84
+  b_pa: 3113
+  b_ab: 2802
+  b_r: 350
+  b_h: 714
+  b_doubles: 117
+  b_triples: 7
+  b_hr: 91
+  b_rbi: 333
+  b_sb: 47
+  b_cs: 19
+  b_bb: 241
+  b_so: 649
+  b_batting_avg: 0.255
+  b_onbase_perc: 0.32
+  b_slugging_perc: 0.399
+  b_onbase_plus_slugging: 0.719
+  b_onbase_plus_slugging_plus: 102
+  b_roba: 0.32
+  b_rbat_plus: 102
+  b_tb: 1118
+  b_gidp: 69
+  b_hbp: 39
+  b_sh: 9
+  b_sf: 22
+  b_ibb: 7
+  pos: 
+  awards: 
+
+NYM 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 10.5
+  b_games: 60
+  b_pa: 2279
+  b_ab: 2023
+  b_r: 286
+  b_h: 551
+  b_doubles: 106
+  b_triples: 7
+  b_hr: 86
+  b_rbi: 278
+  b_sb: 20
+  b_cs: 10
+  b_bb: 197
+  b_so: 498
+  b_batting_avg: 0.272
+  b_onbase_perc: 0.348
+  b_slugging_perc: 0.459
+  b_onbase_plus_slugging: 0.807
+  b_onbase_plus_slugging_plus: 121
+  b_roba: 0.352
+  b_rbat_plus: 121
+  b_tb: 929
+  b_gidp: 53
+  b_hbp: 45
+  b_sh: 1
+  b_sf: 13
+  b_ibb: 8
+  pos: 
+  awards: 
+
+NYM 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.9
+  b_games: 162
+  b_pa: 5856
+  b_ab: 5210
+  b_r: 636
+  b_h: 1243
+  b_doubles: 228
+  b_triples: 18
+  b_hr: 176
+  b_rbi: 604
+  b_sb: 54
+  b_cs: 26
+  b_bb: 495
+  b_so: 1392
+  b_batting_avg: 0.239
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.391
+  b_onbase_plus_slugging: 0.705
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.315
+  b_rbat_plus: 94
+  b_tb: 2035
+  b_gidp: 123
+  b_hbp: 94
+  b_sh: 34
+  b_sf: 23
+  b_ibb: 25
+  pos: 
+  awards: 
+
+NYM 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 27.0
+  b_games: 162
+  b_pa: 6176
+  b_ab: 5489
+  b_r: 772
+  b_h: 1422
+  b_doubles: 272
+  b_triples: 27
+  b_hr: 171
+  b_rbi: 735
+  b_sb: 62
+  b_cs: 22
+  b_bb: 510
+  b_so: 1217
+  b_batting_avg: 0.259
+  b_onbase_perc: 0.332
+  b_slugging_perc: 0.412
+  b_onbase_plus_slugging: 0.744
+  b_onbase_plus_slugging_plus: 113
+  b_roba: 0.331
+  b_rbat_plus: 113
+  b_tb: 2261
+  b_gidp: 122
+  b_hbp: 112
+  b_sh: 20
+  b_sf: 44
+  b_ibb: 25
+  pos: 
+  awards: 
+
+NYM 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.0
+  b_games: 162
+  b_pa: 6056
+  b_ab: 5363
+  b_r: 717
+  b_h: 1276
+  b_doubles: 221
+  b_triples: 21
+  b_hr: 215
+  b_rbi: 692
+  b_sb: 118
+  b_cs: 15
+  b_bb: 525
+  b_so: 1331
+  b_batting_avg: 0.238
+  b_onbase_perc: 0.316
+  b_slugging_perc: 0.407
+  b_onbase_plus_slugging: 0.723
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.321
+  b_rbat_plus: 99
+  b_tb: 2184
+  b_gidp: 105
+  b_hbp: 107
+  b_sh: 19
+  b_sf: 38
+  b_ibb: 11
+  pos: 
+  awards: 
+
+NYM 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 24.4
+  b_games: 162
+  b_pa: 6166
+  b_ab: 5510
+  b_r: 768
+  b_h: 1357
+  b_doubles: 279
+  b_triples: 15
+  b_hr: 207
+  b_rbi: 735
+  b_sb: 106
+  b_cs: 22
+  b_bb: 514
+  b_so: 1382
+  b_batting_avg: 0.246
+  b_onbase_perc: 0.319
+  b_slugging_perc: 0.415
+  b_onbase_plus_slugging: 0.734
+  b_onbase_plus_slugging_plus: 109
+  b_roba: 0.326
+  b_rbat_plus: 110
+  b_tb: 2287
+  b_gidp: 105
+  b_hbp: 92
+  b_sh: 10
+  b_sf: 36
+  b_ibb: 11
+  pos: 
+  awards: 
+
+NYM 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 15.8
+  b_games: 85
+  b_pa: 3217
+  b_ab: 2840
+  b_r: 368
+  b_h: 695
+  b_doubles: 135
+  b_triples: 13
+  b_hr: 109
+  b_rbi: 359
+  b_sb: 64
+  b_cs: 10
+  b_bb: 294
+  b_so: 669
+  b_batting_avg: 0.245
+  b_onbase_perc: 0.323
+  b_slugging_perc: 0.417
+  b_onbase_plus_slugging: 0.74
+  b_onbase_plus_slugging_plus: 112
+  b_roba: 0.332
+  b_rbat_plus: 113
+  b_tb: 1183
+  b_gidp: 70
+  b_hbp: 50
+  b_sh: 3
+  b_sf: 28
+  b_ibb: 14
+  pos: 
+  awards: 
+
+PIT 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: -0.1
+  b_games: 60
+  b_pa: 2134
+  b_ab: 1932
+  b_r: 219
+  b_h: 425
+  b_doubles: 76
+  b_triples: 6
+  b_hr: 59
+  b_rbi: 210
+  b_sb: 16
+  b_cs: 11
+  b_bb: 167
+  b_so: 521
+  b_batting_avg: 0.22
+  b_onbase_perc: 0.284
+  b_slugging_perc: 0.357
+  b_onbase_plus_slugging: 0.641
+  b_onbase_plus_slugging_plus: 74
+  b_roba: 0.285
+  b_rbat_plus: 71
+  b_tb: 690
+  b_gidp: 34
+  b_hbp: 11
+  b_sh: 7
+  b_sf: 15
+  b_ibb: 6
+  pos: 
+  awards: 
+
+PIT 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.0
+  b_games: 162
+  b_pa: 5983
+  b_ab: 5336
+  b_r: 609
+  b_h: 1261
+  b_doubles: 240
+  b_triples: 35
+  b_hr: 124
+  b_rbi: 570
+  b_sb: 60
+  b_cs: 30
+  b_bb: 529
+  b_so: 1328
+  b_batting_avg: 0.236
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.364
+  b_onbase_plus_slugging: 0.673
+  b_onbase_plus_slugging_plus: 82
+  b_roba: 0.301
+  b_rbat_plus: 80
+  b_tb: 1943
+  b_gidp: 102
+  b_hbp: 49
+  b_sh: 31
+  b_sf: 37
+  b_ibb: 24
+  pos: 
+  awards: 
+
+PIT 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 7.0
+  b_games: 162
+  b_pa: 5912
+  b_ab: 5331
+  b_r: 591
+  b_h: 1186
+  b_doubles: 221
+  b_triples: 29
+  b_hr: 158
+  b_rbi: 555
+  b_sb: 89
+  b_cs: 32
+  b_bb: 476
+  b_so: 1497
+  b_batting_avg: 0.222
+  b_onbase_perc: 0.291
+  b_slugging_perc: 0.364
+  b_onbase_plus_slugging: 0.655
+  b_onbase_plus_slugging_plus: 85
+  b_roba: 0.295
+  b_rbat_plus: 84
+  b_tb: 1939
+  b_gidp: 96
+  b_hbp: 54
+  b_sh: 19
+  b_sf: 32
+  b_ibb: 14
+  pos: 
+  awards: 
+
+PIT 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.3
+  b_games: 162
+  b_pa: 6089
+  b_ab: 5406
+  b_r: 692
+  b_h: 1293
+  b_doubles: 287
+  b_triples: 31
+  b_hr: 159
+  b_rbi: 662
+  b_sb: 117
+  b_cs: 41
+  b_bb: 556
+  b_so: 1464
+  b_batting_avg: 0.239
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.392
+  b_onbase_plus_slugging: 0.707
+  b_onbase_plus_slugging_plus: 91
+  b_roba: 0.312
+  b_rbat_plus: 89
+  b_tb: 2119
+  b_gidp: 92
+  b_hbp: 58
+  b_sh: 25
+  b_sf: 43
+  b_ibb: 9
+  pos: 
+  awards: 
+
+PIT 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 9.6
+  b_games: 162
+  b_pa: 6086
+  b_ab: 5477
+  b_r: 665
+  b_h: 1283
+  b_doubles: 236
+  b_triples: 17
+  b_hr: 160
+  b_rbi: 643
+  b_sb: 106
+  b_cs: 19
+  b_bb: 485
+  b_so: 1506
+  b_batting_avg: 0.234
+  b_onbase_perc: 0.301
+  b_slugging_perc: 0.371
+  b_onbase_plus_slugging: 0.672
+  b_onbase_plus_slugging_plus: 87
+  b_roba: 0.305
+  b_rbat_plus: 88
+  b_tb: 2033
+  b_gidp: 100
+  b_hbp: 60
+  b_sh: 16
+  b_sf: 47
+  b_ibb: 14
+  pos: 
+  awards: 
+
+PIT 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 3.7
+  b_games: 85
+  b_pa: 3158
+  b_ab: 2819
+  b_r: 297
+  b_h: 659
+  b_doubles: 112
+  b_triples: 14
+  b_hr: 60
+  b_rbi: 287
+  b_sb: 74
+  b_cs: 22
+  b_bb: 277
+  b_so: 744
+  b_batting_avg: 0.234
+  b_onbase_perc: 0.307
+  b_slugging_perc: 0.347
+  b_onbase_plus_slugging: 0.654
+  b_onbase_plus_slugging_plus: 82
+  b_roba: 0.3
+  b_rbat_plus: 82
+  b_tb: 979
+  b_gidp: 74
+  b_hbp: 30
+  b_sh: 8
+  b_sf: 20
+  b_ibb: 11
+  pos: 
+  awards: 
+
+ATL 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 12.3
+  b_games: 60
+  b_pa: 2344
+  b_ab: 2074
+  b_r: 348
+  b_h: 556
+  b_doubles: 130
+  b_triples: 3
+  b_hr: 103
+  b_rbi: 338
+  b_sb: 23
+  b_cs: 4
+  b_bb: 239
+  b_so: 573
+  b_batting_avg: 0.268
+  b_onbase_perc: 0.349
+  b_slugging_perc: 0.483
+  b_onbase_plus_slugging: 0.832
+  b_onbase_plus_slugging_plus: 117
+  b_roba: 0.364
+  b_rbat_plus: 117
+  b_tb: 1001
+  b_gidp: 39
+  b_hbp: 23
+  b_sh: 1
+  b_sf: 7
+  b_ibb: 13
+  pos: 
+  awards: 
+
+ATL 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 21.1
+  b_games: 161
+  b_pa: 6056
+  b_ab: 5363
+  b_r: 790
+  b_h: 1307
+  b_doubles: 269
+  b_triples: 20
+  b_hr: 239
+  b_rbi: 762
+  b_sb: 59
+  b_cs: 19
+  b_bb: 549
+  b_so: 1453
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.319
+  b_slugging_perc: 0.435
+  b_onbase_plus_slugging: 0.754
+  b_onbase_plus_slugging_plus: 98
+  b_roba: 0.33
+  b_rbat_plus: 96
+  b_tb: 2333
+  b_gidp: 81
+  b_hbp: 67
+  b_sh: 32
+  b_sf: 43
+  b_ibb: 36
+  pos: 
+  awards: 
+
+ATL 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.3
+  b_games: 162
+  b_pa: 6082
+  b_ab: 5509
+  b_r: 789
+  b_h: 1394
+  b_doubles: 298
+  b_triples: 11
+  b_hr: 243
+  b_rbi: 753
+  b_sb: 87
+  b_cs: 31
+  b_bb: 470
+  b_so: 1498
+  b_batting_avg: 0.253
+  b_onbase_perc: 0.317
+  b_slugging_perc: 0.443
+  b_onbase_plus_slugging: 0.761
+  b_onbase_plus_slugging_plus: 109
+  b_roba: 0.334
+  b_rbat_plus: 108
+  b_tb: 2443
+  b_gidp: 103
+  b_hbp: 66
+  b_sh: 1
+  b_sf: 36
+  b_ibb: 13
+  pos: 
+  awards: 
+
+ATL 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 41.0
+  b_games: 162
+  b_pa: 6249
+  b_ab: 5597
+  b_r: 947
+  b_h: 1543
+  b_doubles: 293
+  b_triples: 23
+  b_hr: 307
+  b_rbi: 916
+  b_sb: 132
+  b_cs: 27
+  b_bb: 538
+  b_so: 1289
+  b_batting_avg: 0.276
+  b_onbase_perc: 0.344
+  b_slugging_perc: 0.501
+  b_onbase_plus_slugging: 0.845
+  b_onbase_plus_slugging_plus: 126
+  b_roba: 0.365
+  b_rbat_plus: 125
+  b_tb: 2803
+  b_gidp: 128
+  b_hbp: 67
+  b_sh: 2
+  b_sf: 43
+  b_ibb: 20
+  pos: 
+  awards: 
+
+ATL 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 19.8
+  b_games: 162
+  b_pa: 6075
+  b_ab: 5481
+  b_r: 704
+  b_h: 1333
+  b_doubles: 273
+  b_triples: 15
+  b_hr: 213
+  b_rbi: 674
+  b_sb: 69
+  b_cs: 20
+  b_bb: 485
+  b_so: 1461
+  b_batting_avg: 0.243
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.415
+  b_onbase_plus_slugging: 0.724
+  b_onbase_plus_slugging_plus: 99
+  b_roba: 0.321
+  b_rbat_plus: 101
+  b_tb: 2275
+  b_gidp: 119
+  b_hbp: 58
+  b_sh: 9
+  b_sf: 39
+  b_ibb: 11
+  pos: 
+  awards: 
+
+ATL 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.3
+  b_games: 83
+  b_pa: 3151
+  b_ab: 2807
+  b_r: 339
+  b_h: 684
+  b_doubles: 115
+  b_triples: 8
+  b_hr: 84
+  b_rbi: 326
+  b_sb: 42
+  b_cs: 13
+  b_bb: 293
+  b_so: 710
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.318
+  b_slugging_perc: 0.38
+  b_onbase_plus_slugging: 0.699
+  b_onbase_plus_slugging_plus: 95
+  b_roba: 0.315
+  b_rbat_plus: 95
+  b_tb: 1067
+  b_gidp: 52
+  b_hbp: 24
+  b_sh: 7
+  b_sf: 20
+  b_ibb: 9
+  pos: 
+  awards: 
+
+KCR 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 4.2
+  b_games: 60
+  b_pa: 2200
+  b_ab: 1988
+  b_r: 248
+  b_h: 485
+  b_doubles: 97
+  b_triples: 7
+  b_hr: 68
+  b_rbi: 237
+  b_sb: 49
+  b_cs: 20
+  b_bb: 172
+  b_so: 527
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.402
+  b_onbase_plus_slugging: 0.711
+  b_onbase_plus_slugging_plus: 91
+  b_roba: 0.317
+  b_rbat_plus: 90
+  b_tb: 800
+  b_gidp: 28
+  b_hbp: 18
+  b_sh: 8
+  b_sf: 10
+  b_ibb: 3
+  pos: 
+  awards: 
+
+KCR 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.0
+  b_games: 162
+  b_pa: 5993
+  b_ab: 5427
+  b_r: 686
+  b_h: 1349
+  b_doubles: 251
+  b_triples: 29
+  b_hr: 163
+  b_rbi: 647
+  b_sb: 124
+  b_cs: 33
+  b_bb: 421
+  b_so: 1258
+  b_batting_avg: 0.249
+  b_onbase_perc: 0.306
+  b_slugging_perc: 0.396
+  b_onbase_plus_slugging: 0.702
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.31
+  b_rbat_plus: 88
+  b_tb: 2147
+  b_gidp: 100
+  b_hbp: 55
+  b_sh: 31
+  b_sf: 52
+  b_ibb: 8
+  pos: 
+  awards: 
+
+KCR 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 11.7
+  b_games: 162
+  b_pa: 6010
+  b_ab: 5437
+  b_r: 640
+  b_h: 1327
+  b_doubles: 247
+  b_triples: 38
+  b_hr: 138
+  b_rbi: 613
+  b_sb: 104
+  b_cs: 34
+  b_bb: 460
+  b_so: 1287
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.306
+  b_slugging_perc: 0.38
+  b_onbase_plus_slugging: 0.686
+  b_onbase_plus_slugging_plus: 93
+  b_roba: 0.308
+  b_rbat_plus: 93
+  b_tb: 2064
+  b_gidp: 101
+  b_hbp: 48
+  b_sh: 20
+  b_sf: 44
+  b_ibb: 7
+  pos: 
+  awards: 
+
+KCR 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 10.4
+  b_games: 162
+  b_pa: 5985
+  b_ab: 5428
+  b_r: 676
+  b_h: 1325
+  b_doubles: 258
+  b_triples: 43
+  b_hr: 163
+  b_rbi: 651
+  b_sb: 163
+  b_cs: 47
+  b_bb: 411
+  b_so: 1396
+  b_batting_avg: 0.244
+  b_onbase_perc: 0.303
+  b_slugging_perc: 0.398
+  b_onbase_plus_slugging: 0.7
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.31
+  b_rbat_plus: 89
+  b_tb: 2158
+  b_gidp: 96
+  b_hbp: 71
+  b_sh: 14
+  b_sf: 58
+  b_ibb: 12
+  pos: 
+  awards: 
+
+KCR 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 20.3
+  b_games: 162
+  b_pa: 5982
+  b_ab: 5421
+  b_r: 735
+  b_h: 1343
+  b_doubles: 264
+  b_triples: 35
+  b_hr: 170
+  b_rbi: 711
+  b_sb: 134
+  b_cs: 31
+  b_bb: 429
+  b_so: 1161
+  b_batting_avg: 0.248
+  b_onbase_perc: 0.306
+  b_slugging_perc: 0.403
+  b_onbase_plus_slugging: 0.71
+  b_onbase_plus_slugging_plus: 100
+  b_roba: 0.315
+  b_rbat_plus: 97
+  b_tb: 2187
+  b_gidp: 95
+  b_hbp: 52
+  b_sh: 23
+  b_sf: 54
+  b_ibb: 22
+  pos: 
+  awards: 
+
+KCR 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 3.1
+  b_games: 84
+  b_pa: 3082
+  b_ab: 2812
+  b_r: 277
+  b_h: 688
+  b_doubles: 141
+  b_triples: 15
+  b_hr: 58
+  b_rbi: 273
+  b_sb: 64
+  b_cs: 29
+  b_bb: 201
+  b_so: 575
+  b_batting_avg: 0.245
+  b_onbase_perc: 0.299
+  b_slugging_perc: 0.367
+  b_onbase_plus_slugging: 0.666
+  b_onbase_plus_slugging_plus: 87
+  b_roba: 0.295
+  b_rbat_plus: 84
+  b_tb: 1033
+  b_gidp: 44
+  b_hbp: 27
+  b_sh: 18
+  b_sf: 23
+  b_ibb: 13
+  pos: 
+  awards: 
+
+SEA 2020 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 5.4
+  b_games: 60
+  b_pa: 2181
+  b_ab: 1929
+  b_r: 254
+  b_h: 435
+  b_doubles: 88
+  b_triples: 5
+  b_hr: 60
+  b_rbi: 244
+  b_sb: 50
+  b_cs: 16
+  b_bb: 207
+  b_so: 545
+  b_batting_avg: 0.226
+  b_onbase_perc: 0.309
+  b_slugging_perc: 0.37
+  b_onbase_plus_slugging: 0.678
+  b_onbase_plus_slugging_plus: 90
+  b_roba: 0.306
+  b_rbat_plus: 91
+  b_tb: 713
+  b_gidp: 35
+  b_hbp: 30
+  b_sh: 3
+  b_sf: 12
+  b_ibb: 5
+  pos: 
+  awards: 
+
+SEA 2021 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 13.2
+  b_games: 162
+  b_pa: 6010
+  b_ab: 5355
+  b_r: 697
+  b_h: 1209
+  b_doubles: 233
+  b_triples: 11
+  b_hr: 199
+  b_rbi: 673
+  b_sb: 64
+  b_cs: 24
+  b_bb: 535
+  b_so: 1492
+  b_batting_avg: 0.226
+  b_onbase_perc: 0.303
+  b_slugging_perc: 0.385
+  b_onbase_plus_slugging: 0.688
+  b_onbase_plus_slugging_plus: 92
+  b_roba: 0.304
+  b_rbat_plus: 93
+  b_tb: 2061
+  b_gidp: 92
+  b_hbp: 72
+  b_sh: 9
+  b_sf: 36
+  b_ibb: 8
+  pos: 
+  awards: 
+
+SEA 2022 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 24.5
+  b_games: 162
+  b_pa: 6117
+  b_ab: 5375
+  b_r: 690
+  b_h: 1236
+  b_doubles: 229
+  b_triples: 19
+  b_hr: 197
+  b_rbi: 663
+  b_sb: 83
+  b_cs: 27
+  b_bb: 596
+  b_so: 1397
+  b_batting_avg: 0.23
+  b_onbase_perc: 0.315
+  b_slugging_perc: 0.39
+  b_onbase_plus_slugging: 0.704
+  b_onbase_plus_slugging_plus: 106
+  b_roba: 0.317
+  b_rbat_plus: 107
+  b_tb: 2094
+  b_gidp: 120
+  b_hbp: 89
+  b_sh: 9
+  b_sf: 45
+  b_ibb: 17
+  pos: 
+  awards: 
+
+SEA 2023 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 26.5
+  b_games: 162
+  b_pa: 6201
+  b_ab: 5500
+  b_r: 758
+  b_h: 1332
+  b_doubles: 283
+  b_triples: 12
+  b_hr: 210
+  b_rbi: 728
+  b_sb: 118
+  b_cs: 30
+  b_bb: 548
+  b_so: 1603
+  b_batting_avg: 0.242
+  b_onbase_perc: 0.321
+  b_slugging_perc: 0.413
+  b_onbase_plus_slugging: 0.734
+  b_onbase_plus_slugging_plus: 108
+  b_roba: 0.324
+  b_rbat_plus: 110
+  b_tb: 2269
+  b_gidp: 95
+  b_hbp: 111
+  b_sh: 4
+  b_sf: 37
+  b_ibb: 14
+  pos: 
+  awards: 
+
+SEA 2024 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 25.6
+  b_games: 162
+  b_pa: 6067
+  b_ab: 5330
+  b_r: 676
+  b_h: 1195
+  b_doubles: 228
+  b_triples: 13
+  b_hr: 185
+  b_rbi: 642
+  b_sb: 140
+  b_cs: 28
+  b_bb: 571
+  b_so: 1625
+  b_batting_avg: 0.224
+  b_onbase_perc: 0.311
+  b_slugging_perc: 0.376
+  b_onbase_plus_slugging: 0.687
+  b_onbase_plus_slugging_plus: 103
+  b_roba: 0.31
+  b_rbat_plus: 106
+  b_tb: 2004
+  b_gidp: 106
+  b_hbp: 116
+  b_sh: 14
+  b_sf: 34
+  b_ibb: 14
+  pos: 
+  awards: 
+
+SEA 2025 Totals:
+  name_display: Team Totals
+  age: 
+  team_position: 
+  b_war: 16.6
+  b_games: 83
+  b_pa: 3237
+  b_ab: 2866
+  b_r: 380
+  b_h: 708
+  b_doubles: 114
+  b_triples: 4
+  b_hr: 107
+  b_rbi: 367
+  b_sb: 79
+  b_cs: 22
+  b_bb: 290
+  b_so: 736
+  b_batting_avg: 0.247
+  b_onbase_perc: 0.324
+  b_slugging_perc: 0.402
+  b_onbase_plus_slugging: 0.726
+  b_onbase_plus_slugging_plus: 113
+  b_roba: 0.325
+  b_rbat_plus: 115
+  b_tb: 1151
+  b_gidp: 54
+  b_hbp: 47
+  b_sh: 14
+  b_sf: 20
+  b_ibb: 14
+  pos: 
+  awards: 
+
+FLA 2020 Totals:
+  ERROR: Timeout loading page after retries
+
+FLA 2021 Totals:
+  ERROR: Timeout loading page after retries
+
+FLA 2022 Totals:
+  ERROR: Timeout loading page after retries
+
+FLA 2023 Totals:
+  ERROR: Timeout loading page after retries
+
+FLA 2024 Totals:
+  ERROR: Timeout loading page after retries
+
+FLA 2025 Totals:
+  ERROR: Timeout loading page after retries
+
+TBD 2020 Totals:
+  ERROR: Timeout loading page after retries
+
+TBD 2021 Totals:
+  ERROR: Timeout loading page after retries
+
+TBD 2022 Totals:
+  ERROR: Timeout loading page after retries
+
+TBD 2023 Totals:
+  ERROR: Timeout loading page after retries
+
+TBD 2024 Totals:
+  ERROR: Timeout loading page after retries
+
+TBD 2025 Totals:
+  ERROR: Timeout loading page after retries
+
+ANA 2020 Totals:
+  ERROR: Timeout loading page after retries
+
+ANA 2021 Totals:
+  ERROR: Timeout loading page after retries
+
+ANA 2022 Totals:
+  ERROR: Timeout loading page after retries
+
+ANA 2023 Totals:
+  ERROR: Timeout loading page after retries
+
+ANA 2024 Totals:
+  ERROR: Timeout loading page after retries
+
+ANA 2025 Totals:
+  ERROR: Timeout loading page after retries
+
+MON 2020 Totals:
+  ERROR: Timeout loading page after retries
+
+MON 2021 Totals:
+  ERROR: Timeout loading page after retries
+
+MON 2022 Totals:
+  ERROR: Timeout loading page after retries
+
+MON 2023 Totals:
+  ERROR: Timeout loading page after retries
+
+MON 2024 Totals:
+  ERROR: Timeout loading page after retries
+
+MON 2025 Totals:
+  ERROR: Timeout loading page after retries
+

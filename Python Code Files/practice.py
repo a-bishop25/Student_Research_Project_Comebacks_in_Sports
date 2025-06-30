@@ -13,7 +13,7 @@ from selenium_stealth import stealth
 import time
 
 # Read URLs from text file
-with open("game_urls.txt", "r") as file:
+with open("../Text Files/game_urls.txt", "r") as file:
     game_urls = [line.strip() for line in file if line.strip()]
 
 # Setup headless browser with stealth

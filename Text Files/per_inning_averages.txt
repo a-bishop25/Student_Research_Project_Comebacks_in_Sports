@@ -1,0 +1,7400 @@
+LAA 2025 Per-Inning Averages:
+  b_pa: 4.085
+  b_ab: 3.71
+  b_r: 0.463
+  b_h: 0.838
+  b_doubles: 0.147
+  b_triples: 0.012
+  b_hr: 0.163
+  b_rbi: 0.447
+  b_sb: 0.051
+  b_cs: 0.02
+  b_bb: 0.278
+  b_tb: 1.498
+  b_gidp: 0.062
+  b_hbp: 0.058
+  b_sh: 0.01
+  b_sf: 0.025
+  b_ibb: 0.013
+
+LAA 2025 3-Inning Chunk Averages:
+  b_pa: 12.255
+  b_ab: 11.13
+  b_r: 1.389
+  b_h: 2.514
+  b_doubles: 0.441
+  b_triples: 0.036
+  b_hr: 0.489
+  b_rbi: 1.341
+  b_sb: 0.153
+  b_cs: 0.06
+  b_bb: 0.834
+  b_tb: 4.494
+  b_gidp: 0.186
+  b_hbp: 0.174
+  b_sh: 0.03
+  b_sf: 0.075
+  b_ibb: 0.039
+
+----------------------------------------
+
+SDP 2024 Per-Inning Averages:
+  b_pa: 4.186
+  b_ab: 3.79
+  b_r: 0.521
+  b_h: 0.999
+  b_doubles: 0.178
+  b_triples: 0.012
+  b_hr: 0.13
+  b_rbi: 0.498
+  b_sb: 0.082
+  b_cs: 0.019
+  b_bb: 0.314
+  b_tb: 1.592
+  b_gidp: 0.091
+  b_hbp: 0.038
+  b_sh: 0.019
+  b_sf: 0.021
+  b_ibb: 0.012
+
+SDP 2024 3-Inning Chunk Averages:
+  b_pa: 12.558
+  b_ab: 11.37
+  b_r: 1.563
+  b_h: 2.997
+  b_doubles: 0.534
+  b_triples: 0.036
+  b_hr: 0.39
+  b_rbi: 1.494
+  b_sb: 0.246
+  b_cs: 0.057
+  b_bb: 0.942
+  b_tb: 4.776
+  b_gidp: 0.273
+  b_hbp: 0.114
+  b_sh: 0.057
+  b_sf: 0.063
+  b_ibb: 0.036
+
+----------------------------------------
+
+LAD 2024 Per-Inning Averages:
+  b_pa: 4.29
+  b_ab: 3.787
+  b_r: 0.578
+  b_h: 0.976
+  b_doubles: 0.2
+  b_triples: 0.018
+  b_hr: 0.16
+  b_rbi: 0.559
+  b_sb: 0.093
+  b_cs: 0.016
+  b_bb: 0.413
+  b_tb: 1.691
+  b_gidp: 0.068
+  b_hbp: 0.044
+  b_sh: 0.007
+  b_sf: 0.035
+  b_ibb: 0.023
+
+LAD 2024 3-Inning Chunk Averages:
+  b_pa: 12.87
+  b_ab: 11.361
+  b_r: 1.734
+  b_h: 2.928
+  b_doubles: 0.6
+  b_triples: 0.054
+  b_hr: 0.48
+  b_rbi: 1.677
+  b_sb: 0.279
+  b_cs: 0.048
+  b_bb: 1.239
+  b_tb: 5.073
+  b_gidp: 0.204
+  b_hbp: 0.132
+  b_sh: 0.021
+  b_sf: 0.105
+  b_ibb: 0.069
+
+----------------------------------------
+
+CLE 2024 Per-Inning Averages:
+  b_pa: 4.09
+  b_ab: 3.665
+  b_r: 0.489
+  b_h: 0.872
+  b_doubles: 0.169
+  b_triples: 0.012
+  b_hr: 0.128
+  b_rbi: 0.462
+  b_sb: 0.102
+  b_cs: 0.032
+  b_bb: 0.322
+  b_tb: 1.449
+  b_gidp: 0.077
+  b_hbp: 0.06
+  b_sh: 0.012
+  b_sf: 0.03
+  b_ibb: 0.021
+
+CLE 2024 3-Inning Chunk Averages:
+  b_pa: 12.27
+  b_ab: 10.995
+  b_r: 1.467
+  b_h: 2.616
+  b_doubles: 0.507
+  b_triples: 0.036
+  b_hr: 0.384
+  b_rbi: 1.386
+  b_sb: 0.306
+  b_cs: 0.096
+  b_bb: 0.966
+  b_tb: 4.347
+  b_gidp: 0.231
+  b_hbp: 0.18
+  b_sh: 0.036
+  b_sf: 0.09
+  b_ibb: 0.063
+
+----------------------------------------
+
+SFG 2024 Per-Inning Averages:
+  b_pa: 4.158
+  b_ab: 3.745
+  b_r: 0.475
+  b_h: 0.894
+  b_doubles: 0.182
+  b_triples: 0.021
+  b_hr: 0.121
+  b_rbi: 0.453
+  b_sb: 0.047
+  b_cs: 0.015
+  b_bb: 0.337
+  b_tb: 1.481
+  b_gidp: 0.079
+  b_hbp: 0.036
+  b_sh: 0.007
+  b_sf: 0.032
+  b_ibb: 0.01
+
+SFG 2024 3-Inning Chunk Averages:
+  b_pa: 12.474
+  b_ab: 11.235
+  b_r: 1.425
+  b_h: 2.682
+  b_doubles: 0.546
+  b_triples: 0.063
+  b_hr: 0.363
+  b_rbi: 1.359
+  b_sb: 0.141
+  b_cs: 0.045
+  b_bb: 1.011
+  b_tb: 4.443
+  b_gidp: 0.237
+  b_hbp: 0.108
+  b_sh: 0.021
+  b_sf: 0.096
+  b_ibb: 0.03
+
+----------------------------------------
+
+MIN 2024 Per-Inning Averages:
+  b_pa: 4.2
+  b_ab: 3.765
+  b_r: 0.509
+  b_h: 0.927
+  b_doubles: 0.212
+  b_triples: 0.016
+  b_hr: 0.126
+  b_rbi: 0.481
+  b_sb: 0.045
+  b_cs: 0.016
+  b_bb: 0.324
+  b_tb: 1.547
+  b_gidp: 0.079
+  b_hbp: 0.069
+  b_sh: 0.007
+  b_sf: 0.032
+  b_ibb: 0.01
+
+MIN 2024 3-Inning Chunk Averages:
+  b_pa: 12.6
+  b_ab: 11.295
+  b_r: 1.527
+  b_h: 2.781
+  b_doubles: 0.636
+  b_triples: 0.048
+  b_hr: 0.378
+  b_rbi: 1.443
+  b_sb: 0.135
+  b_cs: 0.048
+  b_bb: 0.972
+  b_tb: 4.641
+  b_gidp: 0.237
+  b_hbp: 0.207
+  b_sh: 0.021
+  b_sf: 0.096
+  b_ibb: 0.03
+
+----------------------------------------
+
+LAA 2024 Per-Inning Averages:
+  b_pa: 4.098
+  b_ab: 3.674
+  b_r: 0.436
+  b_h: 0.842
+  b_doubles: 0.156
+  b_triples: 0.01
+  b_hr: 0.113
+  b_rbi: 0.409
+  b_sb: 0.091
+  b_cs: 0.034
+  b_bb: 0.331
+  b_tb: 1.357
+  b_gidp: 0.08
+  b_hbp: 0.059
+  b_sh: 0.008
+  b_sf: 0.024
+  b_ibb: 0.003
+
+LAA 2024 3-Inning Chunk Averages:
+  b_pa: 12.294
+  b_ab: 11.022
+  b_r: 1.308
+  b_h: 2.526
+  b_doubles: 0.468
+  b_triples: 0.03
+  b_hr: 0.339
+  b_rbi: 1.227
+  b_sb: 0.273
+  b_cs: 0.102
+  b_bb: 0.993
+  b_tb: 4.071
+  b_gidp: 0.24
+  b_hbp: 0.177
+  b_sh: 0.024
+  b_sf: 0.072
+  b_ibb: 0.009
+
+----------------------------------------
+
+BAL 2024 Per-Inning Averages:
+  b_pa: 4.236
+  b_ab: 3.818
+  b_r: 0.539
+  b_h: 0.954
+  b_doubles: 0.18
+  b_triples: 0.023
+  b_hr: 0.161
+  b_rbi: 0.521
+  b_sb: 0.067
+  b_cs: 0.017
+  b_bb: 0.335
+  b_tb: 1.663
+  b_gidp: 0.049
+  b_hbp: 0.044
+  b_sh: 0.004
+  b_sf: 0.031
+  b_ibb: 0.01
+
+BAL 2024 3-Inning Chunk Averages:
+  b_pa: 12.708
+  b_ab: 11.454
+  b_r: 1.617
+  b_h: 2.862
+  b_doubles: 0.54
+  b_triples: 0.069
+  b_hr: 0.483
+  b_rbi: 1.563
+  b_sb: 0.201
+  b_cs: 0.051
+  b_bb: 1.005
+  b_tb: 4.989
+  b_gidp: 0.147
+  b_hbp: 0.132
+  b_sh: 0.012
+  b_sf: 0.093
+  b_ibb: 0.03
+
+----------------------------------------
+
+SFG 2023 Per-Inning Averages:
+  b_pa: 4.18
+  b_ab: 3.712
+  b_r: 0.462
+  b_h: 0.872
+  b_doubles: 0.176
+  b_triples: 0.009
+  b_hr: 0.119
+  b_rbi: 0.447
+  b_sb: 0.039
+  b_cs: 0.011
+  b_bb: 0.373
+  b_tb: 1.423
+  b_gidp: 0.08
+  b_hbp: 0.056
+  b_sh: 0.012
+  b_sf: 0.027
+  b_ibb: 0.013
+
+SFG 2023 3-Inning Chunk Averages:
+  b_pa: 12.54
+  b_ab: 11.136
+  b_r: 1.386
+  b_h: 2.616
+  b_doubles: 0.528
+  b_triples: 0.027
+  b_hr: 0.357
+  b_rbi: 1.341
+  b_sb: 0.117
+  b_cs: 0.033
+  b_bb: 1.119
+  b_tb: 4.269
+  b_gidp: 0.24
+  b_hbp: 0.168
+  b_sh: 0.036
+  b_sf: 0.081
+  b_ibb: 0.039
+
+----------------------------------------
+
+HOU 2023 Per-Inning Averages:
+  b_pa: 4.289
+  b_ab: 3.818
+  b_r: 0.567
+  b_h: 0.988
+  b_doubles: 0.192
+  b_triples: 0.015
+  b_hr: 0.152
+  b_rbi: 0.548
+  b_sb: 0.073
+  b_cs: 0.022
+  b_bb: 0.377
+  b_tb: 1.667
+  b_gidp: 0.085
+  b_hbp: 0.049
+  b_sh: 0.01
+  b_sf: 0.027
+  b_ibb: 0.012
+
+HOU 2023 3-Inning Chunk Averages:
+  b_pa: 12.867
+  b_ab: 11.454
+  b_r: 1.701
+  b_h: 2.964
+  b_doubles: 0.576
+  b_triples: 0.045
+  b_hr: 0.456
+  b_rbi: 1.644
+  b_sb: 0.219
+  b_cs: 0.066
+  b_bb: 1.131
+  b_tb: 5.001
+  b_gidp: 0.255
+  b_hbp: 0.147
+  b_sh: 0.03
+  b_sf: 0.081
+  b_ibb: 0.036
+
+----------------------------------------
+
+STL 2023 Per-Inning Averages:
+  b_pa: 4.255
+  b_ab: 3.779
+  b_r: 0.493
+  b_h: 0.944
+  b_doubles: 0.181
+  b_triples: 0.008
+  b_hr: 0.143
+  b_rbi: 0.478
+  b_sb: 0.069
+  b_cs: 0.02
+  b_bb: 0.391
+  b_tb: 1.571
+  b_gidp: 0.084
+  b_hbp: 0.048
+  b_sh: 0.009
+  b_sf: 0.025
+  b_ibb: 0.012
+
+STL 2023 3-Inning Chunk Averages:
+  b_pa: 12.765
+  b_ab: 11.337
+  b_r: 1.479
+  b_h: 2.832
+  b_doubles: 0.543
+  b_triples: 0.024
+  b_hr: 0.429
+  b_rbi: 1.434
+  b_sb: 0.207
+  b_cs: 0.06
+  b_bb: 1.173
+  b_tb: 4.713
+  b_gidp: 0.252
+  b_hbp: 0.144
+  b_sh: 0.027
+  b_sf: 0.075
+  b_ibb: 0.036
+
+----------------------------------------
+
+LAD 2023 Per-Inning Averages:
+  b_pa: 4.344
+  b_ab: 3.789
+  b_r: 0.621
+  b_h: 0.975
+  b_doubles: 0.208
+  b_triples: 0.014
+  b_hr: 0.171
+  b_rbi: 0.602
+  b_sb: 0.072
+  b_cs: 0.017
+  b_bb: 0.442
+  b_tb: 1.723
+  b_gidp: 0.067
+  b_hbp: 0.058
+  b_sh: 0.003
+  b_sf: 0.047
+  b_ibb: 0.02
+
+LAD 2023 3-Inning Chunk Averages:
+  b_pa: 13.032
+  b_ab: 11.367
+  b_r: 1.863
+  b_h: 2.925
+  b_doubles: 0.624
+  b_triples: 0.042
+  b_hr: 0.513
+  b_rbi: 1.806
+  b_sb: 0.216
+  b_cs: 0.051
+  b_bb: 1.326
+  b_tb: 5.169
+  b_gidp: 0.201
+  b_hbp: 0.174
+  b_sh: 0.009
+  b_sf: 0.141
+  b_ibb: 0.06
+
+----------------------------------------
+
+MIL 2023 Per-Inning Averages:
+  b_pa: 4.173
+  b_ab: 3.694
+  b_r: 0.499
+  b_h: 0.885
+  b_doubles: 0.176
+  b_triples: 0.011
+  b_hr: 0.113
+  b_rbi: 0.477
+  b_sb: 0.088
+  b_cs: 0.019
+  b_bb: 0.405
+  b_tb: 1.422
+  b_gidp: 0.099
+  b_hbp: 0.04
+  b_sh: 0.005
+  b_sf: 0.027
+  b_ibb: 0.01
+
+MIL 2023 3-Inning Chunk Averages:
+  b_pa: 12.519
+  b_ab: 11.082
+  b_r: 1.497
+  b_h: 2.655
+  b_doubles: 0.528
+  b_triples: 0.033
+  b_hr: 0.339
+  b_rbi: 1.431
+  b_sb: 0.264
+  b_cs: 0.057
+  b_bb: 1.215
+  b_tb: 4.266
+  b_gidp: 0.297
+  b_hbp: 0.12
+  b_sh: 0.015
+  b_sf: 0.081
+  b_ibb: 0.03
+
+----------------------------------------
+
+CHC 2023 Per-Inning Averages:
+  b_pa: 4.266
+  b_ab: 3.775
+  b_r: 0.562
+  b_h: 0.96
+  b_doubles: 0.184
+  b_triples: 0.021
+  b_hr: 0.134
+  b_rbi: 0.539
+  b_sb: 0.096
+  b_cs: 0.023
+  b_bb: 0.391
+  b_tb: 1.588
+  b_gidp: 0.065
+  b_hbp: 0.053
+  b_sh: 0.01
+  b_sf: 0.036
+  b_ibb: 0.008
+
+CHC 2023 3-Inning Chunk Averages:
+  b_pa: 12.798
+  b_ab: 11.325
+  b_r: 1.686
+  b_h: 2.88
+  b_doubles: 0.552
+  b_triples: 0.063
+  b_hr: 0.402
+  b_rbi: 1.617
+  b_sb: 0.288
+  b_cs: 0.069
+  b_bb: 1.173
+  b_tb: 4.764
+  b_gidp: 0.195
+  b_hbp: 0.159
+  b_sh: 0.03
+  b_sf: 0.108
+  b_ibb: 0.024
+
+----------------------------------------
+
+CIN 2023 Per-Inning Averages:
+  b_pa: 4.249
+  b_ab: 3.772
+  b_r: 0.537
+  b_h: 0.94
+  b_doubles: 0.184
+  b_triples: 0.025
+  b_hr: 0.136
+  b_rbi: 0.512
+  b_sb: 0.13
+  b_cs: 0.033
+  b_bb: 0.381
+  b_tb: 1.582
+  b_gidp: 0.069
+  b_hbp: 0.063
+  b_sh: 0.013
+  b_sf: 0.02
+  b_ibb: 0.005
+
+CIN 2023 3-Inning Chunk Averages:
+  b_pa: 12.747
+  b_ab: 11.316
+  b_r: 1.611
+  b_h: 2.82
+  b_doubles: 0.552
+  b_triples: 0.075
+  b_hr: 0.408
+  b_rbi: 1.536
+  b_sb: 0.39
+  b_cs: 0.099
+  b_bb: 1.143
+  b_tb: 4.746
+  b_gidp: 0.207
+  b_hbp: 0.189
+  b_sh: 0.039
+  b_sf: 0.06
+  b_ibb: 0.015
+
+----------------------------------------
+
+COL 2023 Per-Inning Averages:
+  b_pa: 4.153
+  b_ab: 3.77
+  b_r: 0.495
+  b_h: 0.938
+  b_doubles: 0.209
+  b_triples: 0.021
+  b_hr: 0.112
+  b_rbi: 0.47
+  b_sb: 0.052
+  b_cs: 0.017
+  b_bb: 0.307
+  b_tb: 1.525
+  b_gidp: 0.085
+  b_hbp: 0.04
+  b_sh: 0.008
+  b_sf: 0.028
+  b_ibb: 0.005
+
+COL 2023 3-Inning Chunk Averages:
+  b_pa: 12.459
+  b_ab: 11.31
+  b_r: 1.485
+  b_h: 2.814
+  b_doubles: 0.627
+  b_triples: 0.063
+  b_hr: 0.336
+  b_rbi: 1.41
+  b_sb: 0.156
+  b_cs: 0.051
+  b_bb: 0.921
+  b_tb: 4.575
+  b_gidp: 0.255
+  b_hbp: 0.12
+  b_sh: 0.024
+  b_sf: 0.084
+  b_ibb: 0.015
+
+----------------------------------------
+
+STL 2022 Per-Inning Averages:
+  b_pa: 4.228
+  b_ab: 3.77
+  b_r: 0.529
+  b_h: 0.951
+  b_doubles: 0.199
+  b_triples: 0.014
+  b_hr: 0.135
+  b_rbi: 0.507
+  b_sb: 0.065
+  b_cs: 0.017
+  b_bb: 0.368
+  b_tb: 1.584
+  b_gidp: 0.077
+  b_hbp: 0.055
+  b_sh: 0.003
+  b_sf: 0.031
+  b_ibb: 0.008
+
+STL 2022 3-Inning Chunk Averages:
+  b_pa: 12.684
+  b_ab: 11.31
+  b_r: 1.587
+  b_h: 2.853
+  b_doubles: 0.597
+  b_triples: 0.042
+  b_hr: 0.405
+  b_rbi: 1.521
+  b_sb: 0.195
+  b_cs: 0.051
+  b_bb: 1.104
+  b_tb: 4.752
+  b_gidp: 0.231
+  b_hbp: 0.165
+  b_sh: 0.009
+  b_sf: 0.093
+  b_ibb: 0.024
+
+----------------------------------------
+
+HOU 2022 Per-Inning Averages:
+  b_pa: 4.152
+  b_ab: 3.71
+  b_r: 0.505
+  b_h: 0.92
+  b_doubles: 0.195
+  b_triples: 0.009
+  b_hr: 0.147
+  b_rbi: 0.49
+  b_sb: 0.057
+  b_cs: 0.015
+  b_bb: 0.362
+  b_tb: 1.573
+  b_gidp: 0.081
+  b_hbp: 0.041
+  b_sh: 0.006
+  b_sf: 0.029
+  b_ibb: 0.012
+
+HOU 2022 3-Inning Chunk Averages:
+  b_pa: 12.456
+  b_ab: 11.13
+  b_r: 1.515
+  b_h: 2.76
+  b_doubles: 0.585
+  b_triples: 0.027
+  b_hr: 0.441
+  b_rbi: 1.47
+  b_sb: 0.171
+  b_cs: 0.045
+  b_bb: 1.086
+  b_tb: 4.719
+  b_gidp: 0.243
+  b_hbp: 0.123
+  b_sh: 0.018
+  b_sf: 0.087
+  b_ibb: 0.036
+
+----------------------------------------
+
+MIA 2022 Per-Inning Averages:
+  b_pa: 4.08
+  b_ab: 3.7
+  b_r: 0.402
+  b_h: 0.851
+  b_doubles: 0.17
+  b_triples: 0.014
+  b_hr: 0.099
+  b_rbi: 0.38
+  b_sb: 0.084
+  b_cs: 0.02
+  b_bb: 0.299
+  b_tb: 1.345
+  b_gidp: 0.082
+  b_hbp: 0.048
+  b_sh: 0.003
+  b_sf: 0.025
+  b_ibb: 0.004
+
+MIA 2022 3-Inning Chunk Averages:
+  b_pa: 12.24
+  b_ab: 11.1
+  b_r: 1.206
+  b_h: 2.553
+  b_doubles: 0.51
+  b_triples: 0.042
+  b_hr: 0.297
+  b_rbi: 1.14
+  b_sb: 0.252
+  b_cs: 0.06
+  b_bb: 0.897
+  b_tb: 4.035
+  b_gidp: 0.246
+  b_hbp: 0.144
+  b_sh: 0.009
+  b_sf: 0.075
+  b_ibb: 0.012
+
+----------------------------------------
+
+CIN 2022 Per-Inning Averages:
+  b_pa: 4.1
+  b_ab: 3.69
+  b_r: 0.444
+  b_h: 0.867
+  b_doubles: 0.161
+  b_triples: 0.012
+  b_hr: 0.107
+  b_rbi: 0.424
+  b_sb: 0.04
+  b_cs: 0.023
+  b_bb: 0.31
+  b_tb: 1.374
+  b_gidp: 0.087
+  b_hbp: 0.063
+  b_sh: 0.008
+  b_sf: 0.023
+  b_ibb: 0.004
+
+CIN 2022 3-Inning Chunk Averages:
+  b_pa: 12.3
+  b_ab: 11.07
+  b_r: 1.332
+  b_h: 2.601
+  b_doubles: 0.483
+  b_triples: 0.036
+  b_hr: 0.321
+  b_rbi: 1.272
+  b_sb: 0.12
+  b_cs: 0.069
+  b_bb: 0.93
+  b_tb: 4.122
+  b_gidp: 0.261
+  b_hbp: 0.189
+  b_sh: 0.024
+  b_sf: 0.069
+  b_ibb: 0.012
+
+----------------------------------------
+
+CHW 2022 Per-Inning Averages:
+  b_pa: 4.2
+  b_ab: 3.848
+  b_r: 0.471
+  b_h: 0.984
+  b_doubles: 0.187
+  b_triples: 0.006
+  b_hr: 0.102
+  b_rbi: 0.449
+  b_sb: 0.04
+  b_cs: 0.007
+  b_bb: 0.266
+  b_tb: 1.49
+  b_gidp: 0.087
+  b_hbp: 0.05
+  b_sh: 0.011
+  b_sf: 0.024
+  b_ibb: 0.006
+
+CHW 2022 3-Inning Chunk Averages:
+  b_pa: 12.6
+  b_ab: 11.544
+  b_r: 1.413
+  b_h: 2.952
+  b_doubles: 0.561
+  b_triples: 0.018
+  b_hr: 0.306
+  b_rbi: 1.347
+  b_sb: 0.12
+  b_cs: 0.021
+  b_bb: 0.798
+  b_tb: 4.47
+  b_gidp: 0.261
+  b_hbp: 0.15
+  b_sh: 0.033
+  b_sf: 0.072
+  b_ibb: 0.018
+
+----------------------------------------
+
+NYY 2022 Per-Inning Averages:
+  b_pa: 4.233
+  b_ab: 3.719
+  b_r: 0.553
+  b_h: 0.897
+  b_doubles: 0.154
+  b_triples: 0.005
+  b_hr: 0.174
+  b_rbi: 0.524
+  b_sb: 0.07
+  b_cs: 0.023
+  b_bb: 0.425
+  b_tb: 1.585
+  b_gidp: 0.083
+  b_hbp: 0.048
+  b_sh: 0.01
+  b_sf: 0.028
+  b_ibb: 0.025
+
+NYY 2022 3-Inning Chunk Averages:
+  b_pa: 12.699
+  b_ab: 11.157
+  b_r: 1.659
+  b_h: 2.691
+  b_doubles: 0.462
+  b_triples: 0.015
+  b_hr: 0.522
+  b_rbi: 1.572
+  b_sb: 0.21
+  b_cs: 0.069
+  b_bb: 1.275
+  b_tb: 4.755
+  b_gidp: 0.249
+  b_hbp: 0.144
+  b_sh: 0.03
+  b_sf: 0.084
+  b_ibb: 0.075
+
+----------------------------------------
+
+TOR 2022 Per-Inning Averages:
+  b_pa: 4.224
+  b_ab: 3.81
+  b_r: 0.532
+  b_h: 1.004
+  b_doubles: 0.211
+  b_triples: 0.008
+  b_hr: 0.137
+  b_rbi: 0.519
+  b_sb: 0.046
+  b_cs: 0.024
+  b_bb: 0.343
+  b_tb: 1.643
+  b_gidp: 0.093
+  b_hbp: 0.038
+  b_sh: 0.005
+  b_sf: 0.023
+  b_ibb: 0.009
+
+TOR 2022 3-Inning Chunk Averages:
+  b_pa: 12.672
+  b_ab: 11.43
+  b_r: 1.596
+  b_h: 3.012
+  b_doubles: 0.633
+  b_triples: 0.024
+  b_hr: 0.411
+  b_rbi: 1.557
+  b_sb: 0.138
+  b_cs: 0.072
+  b_bb: 1.029
+  b_tb: 4.929
+  b_gidp: 0.279
+  b_hbp: 0.114
+  b_sh: 0.015
+  b_sf: 0.069
+  b_ibb: 0.027
+
+----------------------------------------
+
+NYM 2022 Per-Inning Averages:
+  b_pa: 4.236
+  b_ab: 3.765
+  b_r: 0.529
+  b_h: 0.975
+  b_doubles: 0.187
+  b_triples: 0.019
+  b_hr: 0.117
+  b_rbi: 0.504
+  b_sb: 0.043
+  b_cs: 0.015
+  b_bb: 0.35
+  b_tb: 1.551
+  b_gidp: 0.084
+  b_hbp: 0.077
+  b_sh: 0.014
+  b_sf: 0.03
+  b_ibb: 0.017
+
+NYM 2022 3-Inning Chunk Averages:
+  b_pa: 12.708
+  b_ab: 11.295
+  b_r: 1.587
+  b_h: 2.925
+  b_doubles: 0.561
+  b_triples: 0.057
+  b_hr: 0.351
+  b_rbi: 1.512
+  b_sb: 0.129
+  b_cs: 0.045
+  b_bb: 1.05
+  b_tb: 4.653
+  b_gidp: 0.252
+  b_hbp: 0.231
+  b_sh: 0.042
+  b_sf: 0.09
+  b_ibb: 0.051
+
+----------------------------------------
+
+BOS 2022 Per-Inning Averages:
+  b_pa: 4.214
+  b_ab: 3.799
+  b_r: 0.504
+  b_h: 0.979
+  b_doubles: 0.241
+  b_triples: 0.008
+  b_hr: 0.106
+  b_rbi: 0.483
+  b_sb: 0.036
+  b_cs: 0.014
+  b_bb: 0.328
+  b_tb: 1.556
+  b_gidp: 0.09
+  b_hbp: 0.043
+  b_sh: 0.008
+  b_sf: 0.034
+  b_ibb: 0.016
+
+BOS 2022 3-Inning Chunk Averages:
+  b_pa: 12.642
+  b_ab: 11.397
+  b_r: 1.512
+  b_h: 2.937
+  b_doubles: 0.723
+  b_triples: 0.024
+  b_hr: 0.318
+  b_rbi: 1.449
+  b_sb: 0.108
+  b_cs: 0.042
+  b_bb: 0.984
+  b_tb: 4.668
+  b_gidp: 0.27
+  b_hbp: 0.129
+  b_sh: 0.024
+  b_sf: 0.102
+  b_ibb: 0.048
+
+----------------------------------------
+
+DET 2021 Per-Inning Averages:
+  b_pa: 4.101
+  b_ab: 3.687
+  b_r: 0.478
+  b_h: 0.891
+  b_doubles: 0.162
+  b_triples: 0.025
+  b_hr: 0.123
+  b_rbi: 0.463
+  b_sb: 0.06
+  b_cs: 0.017
+  b_bb: 0.336
+  b_tb: 1.472
+  b_gidp: 0.078
+  b_hbp: 0.03
+  b_sh: 0.012
+  b_sf: 0.034
+  b_ibb: 0.005
+
+DET 2021 3-Inning Chunk Averages:
+  b_pa: 12.303
+  b_ab: 11.061
+  b_r: 1.434
+  b_h: 2.673
+  b_doubles: 0.486
+  b_triples: 0.075
+  b_hr: 0.369
+  b_rbi: 1.389
+  b_sb: 0.18
+  b_cs: 0.051
+  b_bb: 1.008
+  b_tb: 4.416
+  b_gidp: 0.234
+  b_hbp: 0.09
+  b_sh: 0.036
+  b_sf: 0.102
+  b_ibb: 0.015
+
+----------------------------------------
+
+SFG 2021 Per-Inning Averages:
+  b_pa: 4.25
+  b_ab: 3.746
+  b_r: 0.551
+  b_h: 0.933
+  b_doubles: 0.186
+  b_triples: 0.017
+  b_hr: 0.165
+  b_rbi: 0.527
+  b_sb: 0.045
+  b_cs: 0.01
+  b_bb: 0.413
+  b_tb: 1.649
+  b_gidp: 0.08
+  b_hbp: 0.044
+  b_sh: 0.025
+  b_sf: 0.021
+  b_ibb: 0.031
+
+SFG 2021 3-Inning Chunk Averages:
+  b_pa: 12.75
+  b_ab: 11.238
+  b_r: 1.653
+  b_h: 2.799
+  b_doubles: 0.558
+  b_triples: 0.051
+  b_hr: 0.495
+  b_rbi: 1.581
+  b_sb: 0.135
+  b_cs: 0.03
+  b_bb: 1.239
+  b_tb: 4.947
+  b_gidp: 0.24
+  b_hbp: 0.132
+  b_sh: 0.075
+  b_sf: 0.063
+  b_ibb: 0.093
+
+----------------------------------------
+
+HOU 2021 Per-Inning Averages:
+  b_pa: 4.315
+  b_ab: 3.836
+  b_r: 0.592
+  b_h: 1.026
+  b_doubles: 0.205
+  b_triples: 0.01
+  b_hr: 0.152
+  b_rbi: 0.572
+  b_sb: 0.036
+  b_cs: 0.011
+  b_bb: 0.39
+  b_tb: 1.705
+  b_gidp: 0.093
+  b_hbp: 0.044
+  b_sh: 0.006
+  b_sf: 0.037
+  b_ibb: 0.017
+
+HOU 2021 3-Inning Chunk Averages:
+  b_pa: 12.945
+  b_ab: 11.508
+  b_r: 1.776
+  b_h: 3.078
+  b_doubles: 0.615
+  b_triples: 0.03
+  b_hr: 0.456
+  b_rbi: 1.716
+  b_sb: 0.108
+  b_cs: 0.033
+  b_bb: 1.17
+  b_tb: 5.115
+  b_gidp: 0.279
+  b_hbp: 0.132
+  b_sh: 0.018
+  b_sf: 0.111
+  b_ibb: 0.051
+
+----------------------------------------
+
+CLE 2021 Per-Inning Averages:
+  b_pa: 4.051
+  b_ab: 3.657
+  b_r: 0.492
+  b_h: 0.87
+  b_doubles: 0.17
+  b_triples: 0.015
+  b_hr: 0.139
+  b_rbi: 0.471
+  b_sb: 0.075
+  b_cs: 0.012
+  b_bb: 0.311
+  b_tb: 1.488
+  b_gidp: 0.072
+  b_hbp: 0.044
+  b_sh: 0.014
+  b_sf: 0.025
+  b_ibb: 0.012
+
+CLE 2021 3-Inning Chunk Averages:
+  b_pa: 12.153
+  b_ab: 10.971
+  b_r: 1.476
+  b_h: 2.61
+  b_doubles: 0.51
+  b_triples: 0.045
+  b_hr: 0.417
+  b_rbi: 1.413
+  b_sb: 0.225
+  b_cs: 0.036
+  b_bb: 0.933
+  b_tb: 4.464
+  b_gidp: 0.216
+  b_hbp: 0.132
+  b_sh: 0.042
+  b_sf: 0.075
+  b_ibb: 0.036
+
+----------------------------------------
+
+NYM 2020 Per-Inning Averages:
+  b_pa: 4.22
+  b_ab: 3.746
+  b_r: 0.53
+  b_h: 1.02
+  b_doubles: 0.196
+  b_triples: 0.013
+  b_hr: 0.159
+  b_rbi: 0.515
+  b_sb: 0.037
+  b_cs: 0.019
+  b_bb: 0.365
+  b_tb: 1.72
+  b_gidp: 0.098
+  b_hbp: 0.083
+  b_sh: 0.002
+  b_sf: 0.024
+  b_ibb: 0.015
+
+NYM 2020 3-Inning Chunk Averages:
+  b_pa: 12.66
+  b_ab: 11.238
+  b_r: 1.59
+  b_h: 3.06
+  b_doubles: 0.588
+  b_triples: 0.039
+  b_hr: 0.477
+  b_rbi: 1.545
+  b_sb: 0.111
+  b_cs: 0.057
+  b_bb: 1.095
+  b_tb: 5.16
+  b_gidp: 0.294
+  b_hbp: 0.249
+  b_sh: 0.006
+  b_sf: 0.072
+  b_ibb: 0.045
+
+----------------------------------------
+
+SDP 2020 Per-Inning Averages:
+  b_pa: 4.131
+  b_ab: 3.652
+  b_r: 0.602
+  b_h: 0.937
+  b_doubles: 0.191
+  b_triples: 0.022
+  b_hr: 0.176
+  b_rbi: 0.578
+  b_sb: 0.102
+  b_cs: 0.024
+  b_bb: 0.378
+  b_tb: 1.7
+  b_gidp: 0.069
+  b_hbp: 0.052
+  b_sh: 0.022
+  b_sf: 0.026
+  b_ibb: 0.011
+
+SDP 2020 3-Inning Chunk Averages:
+  b_pa: 12.393
+  b_ab: 10.956
+  b_r: 1.806
+  b_h: 2.811
+  b_doubles: 0.573
+  b_triples: 0.066
+  b_hr: 0.528
+  b_rbi: 1.734
+  b_sb: 0.306
+  b_cs: 0.072
+  b_bb: 1.134
+  b_tb: 5.1
+  b_gidp: 0.207
+  b_hbp: 0.156
+  b_sh: 0.066
+  b_sf: 0.078
+  b_ibb: 0.033
+
+----------------------------------------
+
+MIL 2020 Per-Inning Averages:
+  b_pa: 4.052
+  b_ab: 3.556
+  b_r: 0.457
+  b_h: 0.794
+  b_doubles: 0.154
+  b_triples: 0.009
+  b_hr: 0.139
+  b_rbi: 0.441
+  b_sb: 0.028
+  b_cs: 0.02
+  b_bb: 0.409
+  b_tb: 1.383
+  b_gidp: 0.098
+  b_hbp: 0.065
+  b_sh: 0.0
+  b_sf: 0.019
+  b_ibb: 0.015
+
+MIL 2020 3-Inning Chunk Averages:
+  b_pa: 12.156
+  b_ab: 10.668
+  b_r: 1.371
+  b_h: 2.382
+  b_doubles: 0.462
+  b_triples: 0.027
+  b_hr: 0.417
+  b_rbi: 1.323
+  b_sb: 0.084
+  b_cs: 0.06
+  b_bb: 1.227
+  b_tb: 4.149
+  b_gidp: 0.294
+  b_hbp: 0.195
+  b_sh: 0.0
+  b_sf: 0.057
+  b_ibb: 0.045
+
+----------------------------------------
+
+TBR 2020 Per-Inning Averages:
+  b_pa: 4.187
+  b_ab: 3.657
+  b_r: 0.535
+  b_h: 0.87
+  b_doubles: 0.194
+  b_triples: 0.022
+  b_hr: 0.148
+  b_rbi: 0.507
+  b_sb: 0.089
+  b_cs: 0.017
+  b_bb: 0.45
+  b_tb: 1.554
+  b_gidp: 0.07
+  b_hbp: 0.052
+  b_sh: 0.0
+  b_sf: 0.026
+  b_ibb: 0.017
+
+TBR 2020 3-Inning Chunk Averages:
+  b_pa: 12.561
+  b_ab: 10.971
+  b_r: 1.605
+  b_h: 2.61
+  b_doubles: 0.582
+  b_triples: 0.066
+  b_hr: 0.444
+  b_rbi: 1.521
+  b_sb: 0.267
+  b_cs: 0.051
+  b_bb: 1.35
+  b_tb: 4.662
+  b_gidp: 0.21
+  b_hbp: 0.156
+  b_sh: 0.0
+  b_sf: 0.078
+  b_ibb: 0.051
+
+----------------------------------------
+
+DET 2020 Per-Inning Averages:
+  b_pa: 3.977
+  b_ab: 3.626
+  b_r: 0.477
+  b_h: 0.887
+  b_doubles: 0.149
+  b_triples: 0.023
+  b_hr: 0.119
+  b_rbi: 0.464
+  b_sb: 0.036
+  b_cs: 0.011
+  b_bb: 0.282
+  b_tb: 1.439
+  b_gidp: 0.08
+  b_hbp: 0.036
+  b_sh: 0.002
+  b_sf: 0.027
+  b_ibb: 0.002
+
+DET 2020 3-Inning Chunk Averages:
+  b_pa: 11.931
+  b_ab: 10.878
+  b_r: 1.431
+  b_h: 2.661
+  b_doubles: 0.447
+  b_triples: 0.069
+  b_hr: 0.357
+  b_rbi: 1.392
+  b_sb: 0.108
+  b_cs: 0.033
+  b_bb: 0.846
+  b_tb: 4.317
+  b_gidp: 0.24
+  b_hbp: 0.108
+  b_sh: 0.006
+  b_sf: 0.081
+  b_ibb: 0.006
+
+----------------------------------------
+
+KCR 2019 Per-Inning Averages:
+  b_pa: 4.17
+  b_ab: 3.77
+  b_r: 0.474
+  b_h: 0.93
+  b_doubles: 0.193
+  b_triples: 0.027
+  b_hr: 0.111
+  b_rbi: 0.449
+  b_sb: 0.08
+  b_cs: 0.027
+  b_bb: 0.313
+  b_tb: 1.511
+  b_gidp: 0.078
+  b_hbp: 0.04
+  b_sh: 0.016
+  b_sf: 0.029
+  b_ibb: 0.012
+
+KCR 2019 3-Inning Chunk Averages:
+  b_pa: 12.51
+  b_ab: 11.31
+  b_r: 1.422
+  b_h: 2.79
+  b_doubles: 0.579
+  b_triples: 0.081
+  b_hr: 0.333
+  b_rbi: 1.347
+  b_sb: 0.24
+  b_cs: 0.081
+  b_bb: 0.939
+  b_tb: 4.533
+  b_gidp: 0.234
+  b_hbp: 0.12
+  b_sh: 0.048
+  b_sf: 0.087
+  b_ibb: 0.036
+
+----------------------------------------
+
+HOU 2019 Per-Inning Averages:
+  b_pa: 4.385
+  b_ab: 3.85
+  b_r: 0.631
+  b_h: 1.055
+  b_doubles: 0.222
+  b_triples: 0.019
+  b_hr: 0.198
+  b_rbi: 0.611
+  b_sb: 0.046
+  b_cs: 0.019
+  b_bb: 0.442
+  b_tb: 1.907
+  b_gidp: 0.1
+  b_hbp: 0.045
+  b_sh: 0.007
+  b_sf: 0.039
+  b_ibb: 0.012
+
+HOU 2019 3-Inning Chunk Averages:
+  b_pa: 13.155
+  b_ab: 11.55
+  b_r: 1.893
+  b_h: 3.165
+  b_doubles: 0.666
+  b_triples: 0.057
+  b_hr: 0.594
+  b_rbi: 1.833
+  b_sb: 0.138
+  b_cs: 0.057
+  b_bb: 1.326
+  b_tb: 5.721
+  b_gidp: 0.3
+  b_hbp: 0.135
+  b_sh: 0.021
+  b_sf: 0.117
+  b_ibb: 0.036
+
+----------------------------------------
+
+MIN 2019 Per-Inning Averages:
+  b_pa: 4.384
+  b_ab: 3.931
+  b_r: 0.644
+  b_h: 1.061
+  b_doubles: 0.218
+  b_triples: 0.016
+  b_hr: 0.211
+  b_rbi: 0.621
+  b_sb: 0.019
+  b_cs: 0.014
+  b_bb: 0.36
+  b_tb: 1.942
+  b_gidp: 0.069
+  b_hbp: 0.056
+  b_sh: 0.007
+  b_sf: 0.028
+  b_ibb: 0.014
+
+MIN 2019 3-Inning Chunk Averages:
+  b_pa: 13.152
+  b_ab: 11.793
+  b_r: 1.932
+  b_h: 3.183
+  b_doubles: 0.654
+  b_triples: 0.048
+  b_hr: 0.633
+  b_rbi: 1.863
+  b_sb: 0.057
+  b_cs: 0.042
+  b_bb: 1.08
+  b_tb: 5.826
+  b_gidp: 0.207
+  b_hbp: 0.168
+  b_sh: 0.021
+  b_sf: 0.084
+  b_ibb: 0.042
+
+----------------------------------------
+
+CHW 2019 Per-Inning Averages:
+  b_pa: 4.17
+  b_ab: 3.816
+  b_r: 0.489
+  b_h: 0.996
+  b_doubles: 0.179
+  b_triples: 0.014
+  b_hr: 0.126
+  b_rbi: 0.467
+  b_sb: 0.043
+  b_cs: 0.019
+  b_bb: 0.261
+  b_tb: 1.58
+  b_gidp: 0.079
+  b_hbp: 0.046
+  b_sh: 0.025
+  b_sf: 0.022
+  b_ibb: 0.009
+
+CHW 2019 3-Inning Chunk Averages:
+  b_pa: 12.51
+  b_ab: 11.448
+  b_r: 1.467
+  b_h: 2.988
+  b_doubles: 0.537
+  b_triples: 0.042
+  b_hr: 0.378
+  b_rbi: 1.401
+  b_sb: 0.129
+  b_cs: 0.057
+  b_bb: 0.783
+  b_tb: 4.74
+  b_gidp: 0.237
+  b_hbp: 0.138
+  b_sh: 0.075
+  b_sf: 0.066
+  b_ibb: 0.027
+
+----------------------------------------
+
+CLE 2018 Per-Inning Averages:
+  b_pa: 4.321
+  b_ab: 3.837
+  b_r: 0.561
+  b_h: 0.992
+  b_doubles: 0.204
+  b_triples: 0.013
+  b_hr: 0.148
+  b_rbi: 0.539
+  b_sb: 0.093
+  b_cs: 0.025
+  b_bb: 0.38
+  b_tb: 1.667
+  b_gidp: 0.067
+  b_hbp: 0.055
+  b_sh: 0.017
+  b_sf: 0.03
+  b_ibb: 0.022
+
+CLE 2018 3-Inning Chunk Averages:
+  b_pa: 12.963
+  b_ab: 11.511
+  b_r: 1.683
+  b_h: 2.976
+  b_doubles: 0.612
+  b_triples: 0.039
+  b_hr: 0.444
+  b_rbi: 1.617
+  b_sb: 0.279
+  b_cs: 0.075
+  b_bb: 1.14
+  b_tb: 5.001
+  b_gidp: 0.201
+  b_hbp: 0.165
+  b_sh: 0.051
+  b_sf: 0.09
+  b_ibb: 0.066
+
+----------------------------------------
+
+SDP 2018 Per-Inning Averages:
+  b_pa: 4.156
+  b_ab: 3.763
+  b_r: 0.423
+  b_h: 0.884
+  b_doubles: 0.171
+  b_triples: 0.021
+  b_hr: 0.111
+  b_rbi: 0.4
+  b_sb: 0.065
+  b_cs: 0.025
+  b_bb: 0.323
+  b_tb: 1.43
+  b_gidp: 0.084
+  b_hbp: 0.021
+  b_sh: 0.024
+  b_sf: 0.025
+  b_ibb: 0.019
+
+SDP 2018 3-Inning Chunk Averages:
+  b_pa: 12.468
+  b_ab: 11.289
+  b_r: 1.269
+  b_h: 2.652
+  b_doubles: 0.513
+  b_triples: 0.063
+  b_hr: 0.333
+  b_rbi: 1.2
+  b_sb: 0.195
+  b_cs: 0.075
+  b_bb: 0.969
+  b_tb: 4.29
+  b_gidp: 0.252
+  b_hbp: 0.063
+  b_sh: 0.072
+  b_sf: 0.075
+  b_ibb: 0.057
+
+----------------------------------------
+
+WSN 2018 Per-Inning Averages:
+  b_pa: 4.313
+  b_ab: 3.784
+  b_r: 0.529
+  b_h: 0.962
+  b_doubles: 0.195
+  b_triples: 0.017
+  b_hr: 0.131
+  b_rbi: 0.505
+  b_sb: 0.082
+  b_cs: 0.023
+  b_bb: 0.433
+  b_tb: 1.584
+  b_gidp: 0.071
+  b_hbp: 0.04
+  b_sh: 0.028
+  b_sf: 0.027
+  b_ibb: 0.038
+
+WSN 2018 3-Inning Chunk Averages:
+  b_pa: 12.939
+  b_ab: 11.352
+  b_r: 1.587
+  b_h: 2.886
+  b_doubles: 0.585
+  b_triples: 0.051
+  b_hr: 0.393
+  b_rbi: 1.515
+  b_sb: 0.246
+  b_cs: 0.069
+  b_bb: 1.299
+  b_tb: 4.752
+  b_gidp: 0.213
+  b_hbp: 0.12
+  b_sh: 0.084
+  b_sf: 0.081
+  b_ibb: 0.114
+
+----------------------------------------
+
+BOS 2018 Per-Inning Averages:
+  b_pa: 4.322
+  b_ab: 3.857
+  b_r: 0.601
+  b_h: 1.035
+  b_doubles: 0.243
+  b_triples: 0.021
+  b_hr: 0.143
+  b_rbi: 0.569
+  b_sb: 0.086
+  b_cs: 0.021
+  b_bb: 0.39
+  b_tb: 1.749
+  b_gidp: 0.089
+  b_hbp: 0.038
+  b_sh: 0.005
+  b_sf: 0.033
+  b_ibb: 0.026
+
+BOS 2018 3-Inning Chunk Averages:
+  b_pa: 12.966
+  b_ab: 11.571
+  b_r: 1.803
+  b_h: 3.105
+  b_doubles: 0.729
+  b_triples: 0.063
+  b_hr: 0.429
+  b_rbi: 1.707
+  b_sb: 0.258
+  b_cs: 0.063
+  b_bb: 1.17
+  b_tb: 5.247
+  b_gidp: 0.267
+  b_hbp: 0.114
+  b_sh: 0.015
+  b_sf: 0.099
+  b_ibb: 0.078
+
+----------------------------------------
+
+TOR 2018 Per-Inning Averages:
+  b_pa: 4.167
+  b_ab: 3.757
+  b_r: 0.486
+  b_h: 0.916
+  b_doubles: 0.219
+  b_triples: 0.011
+  b_hr: 0.149
+  b_rbi: 0.466
+  b_sb: 0.032
+  b_cs: 0.021
+  b_bb: 0.342
+  b_tb: 1.604
+  b_gidp: 0.081
+  b_hbp: 0.04
+  b_sh: 0.003
+  b_sf: 0.025
+  b_ibb: 0.01
+
+TOR 2018 3-Inning Chunk Averages:
+  b_pa: 12.501
+  b_ab: 11.271
+  b_r: 1.458
+  b_h: 2.748
+  b_doubles: 0.657
+  b_triples: 0.033
+  b_hr: 0.447
+  b_rbi: 1.398
+  b_sb: 0.096
+  b_cs: 0.063
+  b_bb: 1.026
+  b_tb: 4.812
+  b_gidp: 0.243
+  b_hbp: 0.12
+  b_sh: 0.009
+  b_sf: 0.075
+  b_ibb: 0.03
+
+----------------------------------------
+
+OAK 2018 Per-Inning Averages:
+  b_pa: 4.29
+  b_ab: 3.826
+  b_r: 0.558
+  b_h: 0.965
+  b_doubles: 0.221
+  b_triples: 0.014
+  b_hr: 0.156
+  b_rbi: 0.534
+  b_sb: 0.024
+  b_cs: 0.014
+  b_bb: 0.377
+  b_tb: 1.68
+  b_gidp: 0.093
+  b_hbp: 0.052
+  b_sh: 0.004
+  b_sf: 0.03
+  b_ibb: 0.012
+
+OAK 2018 3-Inning Chunk Averages:
+  b_pa: 12.87
+  b_ab: 11.478
+  b_r: 1.674
+  b_h: 2.895
+  b_doubles: 0.663
+  b_triples: 0.042
+  b_hr: 0.468
+  b_rbi: 1.602
+  b_sb: 0.072
+  b_cs: 0.042
+  b_bb: 1.131
+  b_tb: 5.04
+  b_gidp: 0.279
+  b_hbp: 0.156
+  b_sh: 0.012
+  b_sf: 0.09
+  b_ibb: 0.036
+
+----------------------------------------
+
+CIN 2018 Per-Inning Averages:
+  b_pa: 4.28
+  b_ab: 3.794
+  b_r: 0.477
+  b_h: 0.963
+  b_doubles: 0.172
+  b_triples: 0.017
+  b_hr: 0.118
+  b_rbi: 0.456
+  b_sb: 0.053
+  b_cs: 0.023
+  b_bb: 0.383
+  b_tb: 1.523
+  b_gidp: 0.088
+  b_hbp: 0.045
+  b_sh: 0.034
+  b_sf: 0.024
+  b_ibb: 0.024
+
+CIN 2018 3-Inning Chunk Averages:
+  b_pa: 12.84
+  b_ab: 11.382
+  b_r: 1.431
+  b_h: 2.889
+  b_doubles: 0.516
+  b_triples: 0.051
+  b_hr: 0.354
+  b_rbi: 1.368
+  b_sb: 0.159
+  b_cs: 0.069
+  b_bb: 1.149
+  b_tb: 4.569
+  b_gidp: 0.264
+  b_hbp: 0.135
+  b_sh: 0.102
+  b_sf: 0.072
+  b_ibb: 0.072
+
+----------------------------------------
+
+LAA 2017 Per-Inning Averages:
+  b_pa: 4.165
+  b_ab: 3.714
+  b_r: 0.487
+  b_h: 0.901
+  b_doubles: 0.172
+  b_triples: 0.01
+  b_hr: 0.128
+  b_rbi: 0.465
+  b_sb: 0.093
+  b_cs: 0.03
+  b_bb: 0.359
+  b_tb: 1.475
+  b_gidp: 0.097
+  b_hbp: 0.048
+  b_sh: 0.012
+  b_sf: 0.032
+  b_ibb: 0.021
+
+LAA 2017 3-Inning Chunk Averages:
+  b_pa: 12.495
+  b_ab: 11.142
+  b_r: 1.461
+  b_h: 2.703
+  b_doubles: 0.516
+  b_triples: 0.03
+  b_hr: 0.384
+  b_rbi: 1.395
+  b_sb: 0.279
+  b_cs: 0.09
+  b_bb: 1.077
+  b_tb: 4.425
+  b_gidp: 0.291
+  b_hbp: 0.144
+  b_sh: 0.036
+  b_sf: 0.096
+  b_ibb: 0.063
+
+----------------------------------------
+
+WSN 2017 Per-Inning Averages:
+  b_pa: 4.262
+  b_ab: 3.809
+  b_r: 0.562
+  b_h: 1.013
+  b_doubles: 0.213
+  b_triples: 0.021
+  b_hr: 0.147
+  b_rbi: 0.546
+  b_sb: 0.074
+  b_cs: 0.021
+  b_bb: 0.372
+  b_tb: 1.711
+  b_gidp: 0.08
+  b_hbp: 0.021
+  b_sh: 0.029
+  b_sf: 0.031
+  b_ibb: 0.038
+
+WSN 2017 3-Inning Chunk Averages:
+  b_pa: 12.786
+  b_ab: 11.427
+  b_r: 1.686
+  b_h: 3.039
+  b_doubles: 0.639
+  b_triples: 0.063
+  b_hr: 0.441
+  b_rbi: 1.638
+  b_sb: 0.222
+  b_cs: 0.063
+  b_bb: 1.116
+  b_tb: 5.133
+  b_gidp: 0.24
+  b_hbp: 0.063
+  b_sh: 0.087
+  b_sf: 0.093
+  b_ibb: 0.114
+
+----------------------------------------
+
+MIA 2017 Per-Inning Averages:
+  b_pa: 4.285
+  b_ab: 3.842
+  b_r: 0.534
+  b_h: 1.027
+  b_doubles: 0.186
+  b_triples: 0.021
+  b_hr: 0.133
+  b_rbi: 0.51
+  b_sb: 0.062
+  b_cs: 0.021
+  b_bb: 0.333
+  b_tb: 1.654
+  b_gidp: 0.082
+  b_hbp: 0.046
+  b_sh: 0.034
+  b_sf: 0.028
+  b_ibb: 0.033
+
+MIA 2017 3-Inning Chunk Averages:
+  b_pa: 12.855
+  b_ab: 11.526
+  b_r: 1.602
+  b_h: 3.081
+  b_doubles: 0.558
+  b_triples: 0.063
+  b_hr: 0.399
+  b_rbi: 1.53
+  b_sb: 0.186
+  b_cs: 0.063
+  b_bb: 0.999
+  b_tb: 4.962
+  b_gidp: 0.246
+  b_hbp: 0.138
+  b_sh: 0.102
+  b_sf: 0.084
+  b_ibb: 0.099
+
+----------------------------------------
+
+LAD 2017 Per-Inning Averages:
+  b_pa: 4.246
+  b_ab: 3.709
+  b_r: 0.528
+  b_h: 0.924
+  b_doubles: 0.214
+  b_triples: 0.014
+  b_hr: 0.152
+  b_rbi: 0.501
+  b_sb: 0.053
+  b_cs: 0.019
+  b_bb: 0.445
+  b_tb: 1.62
+  b_gidp: 0.082
+  b_hbp: 0.044
+  b_sh: 0.021
+  b_sf: 0.026
+  b_ibb: 0.028
+
+LAD 2017 3-Inning Chunk Averages:
+  b_pa: 12.738
+  b_ab: 11.127
+  b_r: 1.584
+  b_h: 2.772
+  b_doubles: 0.642
+  b_triples: 0.042
+  b_hr: 0.456
+  b_rbi: 1.503
+  b_sb: 0.159
+  b_cs: 0.057
+  b_bb: 1.335
+  b_tb: 4.86
+  b_gidp: 0.246
+  b_hbp: 0.132
+  b_sh: 0.063
+  b_sf: 0.078
+  b_ibb: 0.084
+
+----------------------------------------
+
+TOR 2017 Per-Inning Averages:
+  b_pa: 4.221
+  b_ab: 3.772
+  b_r: 0.475
+  b_h: 0.905
+  b_doubles: 0.184
+  b_triples: 0.003
+  b_hr: 0.152
+  b_rbi: 0.453
+  b_sb: 0.036
+  b_cs: 0.016
+  b_bb: 0.372
+  b_tb: 1.553
+  b_gidp: 0.105
+  b_hbp: 0.035
+  b_sh: 0.017
+  b_sf: 0.024
+  b_ibb: 0.008
+
+TOR 2017 3-Inning Chunk Averages:
+  b_pa: 12.663
+  b_ab: 11.316
+  b_r: 1.425
+  b_h: 2.715
+  b_doubles: 0.552
+  b_triples: 0.009
+  b_hr: 0.456
+  b_rbi: 1.359
+  b_sb: 0.108
+  b_cs: 0.048
+  b_bb: 1.116
+  b_tb: 4.659
+  b_gidp: 0.315
+  b_hbp: 0.105
+  b_sh: 0.051
+  b_sf: 0.072
+  b_ibb: 0.024
+
+----------------------------------------
+
+DET 2017 Per-Inning Averages:
+  b_pa: 4.218
+  b_ab: 3.811
+  b_r: 0.504
+  b_h: 0.984
+  b_doubles: 0.198
+  b_triples: 0.024
+  b_hr: 0.128
+  b_rbi: 0.479
+  b_sb: 0.045
+  b_cs: 0.023
+  b_bb: 0.345
+  b_tb: 1.615
+  b_gidp: 0.088
+  b_hbp: 0.036
+  b_sh: 0.008
+  b_sf: 0.019
+  b_ibb: 0.014
+
+DET 2017 3-Inning Chunk Averages:
+  b_pa: 12.654
+  b_ab: 11.433
+  b_r: 1.512
+  b_h: 2.952
+  b_doubles: 0.594
+  b_triples: 0.072
+  b_hr: 0.384
+  b_rbi: 1.437
+  b_sb: 0.135
+  b_cs: 0.069
+  b_bb: 1.035
+  b_tb: 4.845
+  b_gidp: 0.264
+  b_hbp: 0.108
+  b_sh: 0.024
+  b_sf: 0.057
+  b_ibb: 0.042
+
+----------------------------------------
+
+MIL 2017 Per-Inning Averages:
+  b_pa: 4.208
+  b_ab: 3.75
+  b_r: 0.502
+  b_h: 0.935
+  b_doubles: 0.183
+  b_triples: 0.015
+  b_hr: 0.154
+  b_rbi: 0.477
+  b_sb: 0.088
+  b_cs: 0.028
+  b_bb: 0.375
+  b_tb: 1.609
+  b_gidp: 0.08
+  b_hbp: 0.036
+  b_sh: 0.029
+  b_sf: 0.018
+  b_ibb: 0.023
+
+MIL 2017 3-Inning Chunk Averages:
+  b_pa: 12.624
+  b_ab: 11.25
+  b_r: 1.506
+  b_h: 2.805
+  b_doubles: 0.549
+  b_triples: 0.045
+  b_hr: 0.462
+  b_rbi: 1.431
+  b_sb: 0.264
+  b_cs: 0.084
+  b_bb: 1.125
+  b_tb: 4.827
+  b_gidp: 0.24
+  b_hbp: 0.108
+  b_sh: 0.087
+  b_sf: 0.054
+  b_ibb: 0.069
+
+----------------------------------------
+
+STL 2016 Per-Inning Averages:
+  b_pa: 4.268
+  b_ab: 3.805
+  b_r: 0.534
+  b_h: 0.971
+  b_doubles: 0.205
+  b_triples: 0.022
+  b_hr: 0.154
+  b_rbi: 0.511
+  b_sb: 0.024
+  b_cs: 0.018
+  b_bb: 0.361
+  b_tb: 1.682
+  b_gidp: 0.08
+  b_hbp: 0.048
+  b_sh: 0.025
+  b_sf: 0.028
+  b_ibb: 0.019
+
+STL 2016 3-Inning Chunk Averages:
+  b_pa: 12.804
+  b_ab: 11.415
+  b_r: 1.602
+  b_h: 2.913
+  b_doubles: 0.615
+  b_triples: 0.066
+  b_hr: 0.462
+  b_rbi: 1.533
+  b_sb: 0.072
+  b_cs: 0.054
+  b_bb: 1.083
+  b_tb: 5.046
+  b_gidp: 0.24
+  b_hbp: 0.144
+  b_sh: 0.075
+  b_sf: 0.084
+  b_ibb: 0.057
+
+----------------------------------------
+
+ARI 2016 Per-Inning Averages:
+  b_pa: 4.294
+  b_ab: 3.885
+  b_r: 0.516
+  b_h: 1.014
+  b_doubles: 0.195
+  b_triples: 0.038
+  b_hr: 0.13
+  b_rbi: 0.486
+  b_sb: 0.094
+  b_cs: 0.021
+  b_bb: 0.318
+  b_tb: 1.678
+  b_gidp: 0.08
+  b_hbp: 0.034
+  b_sh: 0.029
+  b_sf: 0.026
+  b_ibb: 0.029
+
+ARI 2016 3-Inning Chunk Averages:
+  b_pa: 12.882
+  b_ab: 11.655
+  b_r: 1.548
+  b_h: 3.042
+  b_doubles: 0.585
+  b_triples: 0.114
+  b_hr: 0.39
+  b_rbi: 1.458
+  b_sb: 0.282
+  b_cs: 0.063
+  b_bb: 0.954
+  b_tb: 5.034
+  b_gidp: 0.24
+  b_hbp: 0.102
+  b_sh: 0.087
+  b_sf: 0.078
+  b_ibb: 0.087
+
+----------------------------------------
+
+OAK 2016 Per-Inning Averages:
+  b_pa: 4.13
+  b_ab: 3.772
+  b_r: 0.448
+  b_h: 0.927
+  b_doubles: 0.185
+  b_triples: 0.014
+  b_hr: 0.116
+  b_rbi: 0.435
+  b_sb: 0.034
+  b_cs: 0.016
+  b_bb: 0.303
+  b_tb: 1.489
+  b_gidp: 0.097
+  b_hbp: 0.023
+  b_sh: 0.009
+  b_sf: 0.023
+  b_ibb: 0.013
+
+OAK 2016 3-Inning Chunk Averages:
+  b_pa: 12.39
+  b_ab: 11.316
+  b_r: 1.344
+  b_h: 2.781
+  b_doubles: 0.555
+  b_triples: 0.042
+  b_hr: 0.348
+  b_rbi: 1.305
+  b_sb: 0.102
+  b_cs: 0.048
+  b_bb: 0.909
+  b_tb: 4.467
+  b_gidp: 0.291
+  b_hbp: 0.069
+  b_sh: 0.027
+  b_sf: 0.069
+  b_ibb: 0.039
+
+----------------------------------------
+
+TEX 2016 Per-Inning Averages:
+  b_pa: 4.176
+  b_ab: 3.789
+  b_r: 0.525
+  b_h: 0.992
+  b_doubles: 0.176
+  b_triples: 0.016
+  b_hr: 0.147
+  b_rbi: 0.512
+  b_sb: 0.068
+  b_cs: 0.025
+  b_bb: 0.299
+  b_tb: 1.642
+  b_gidp: 0.078
+  b_hbp: 0.048
+  b_sh: 0.012
+  b_sf: 0.027
+  b_ibb: 0.016
+
+TEX 2016 3-Inning Chunk Averages:
+  b_pa: 12.528
+  b_ab: 11.367
+  b_r: 1.575
+  b_h: 2.976
+  b_doubles: 0.528
+  b_triples: 0.048
+  b_hr: 0.441
+  b_rbi: 1.536
+  b_sb: 0.204
+  b_cs: 0.075
+  b_bb: 0.897
+  b_tb: 4.926
+  b_gidp: 0.234
+  b_hbp: 0.144
+  b_sh: 0.036
+  b_sf: 0.081
+  b_ibb: 0.048
+
+----------------------------------------
+
+TBR 2016 Per-Inning Averages:
+  b_pa: 4.147
+  b_ab: 3.759
+  b_r: 0.461
+  b_h: 0.914
+  b_doubles: 0.198
+  b_triples: 0.022
+  b_hr: 0.148
+  b_rbi: 0.444
+  b_sb: 0.041
+  b_cs: 0.025
+  b_bb: 0.308
+  b_tb: 1.6
+  b_gidp: 0.06
+  b_hbp: 0.047
+  b_sh: 0.012
+  b_sf: 0.019
+  b_ibb: 0.014
+
+TBR 2016 3-Inning Chunk Averages:
+  b_pa: 12.441
+  b_ab: 11.277
+  b_r: 1.383
+  b_h: 2.742
+  b_doubles: 0.594
+  b_triples: 0.066
+  b_hr: 0.444
+  b_rbi: 1.332
+  b_sb: 0.123
+  b_cs: 0.075
+  b_bb: 0.924
+  b_tb: 4.8
+  b_gidp: 0.18
+  b_hbp: 0.141
+  b_sh: 0.036
+  b_sf: 0.057
+  b_ibb: 0.042
+
+----------------------------------------
+
+BOS 2015 Per-Inning Averages:
+  b_pa: 4.278
+  b_ab: 3.868
+  b_r: 0.513
+  b_h: 1.025
+  b_doubles: 0.202
+  b_triples: 0.023
+  b_hr: 0.11
+  b_rbi: 0.484
+  b_sb: 0.049
+  b_cs: 0.019
+  b_bb: 0.328
+  b_tb: 1.604
+  b_gidp: 0.087
+  b_hbp: 0.032
+  b_sh: 0.021
+  b_sf: 0.029
+  b_ibb: 0.019
+
+BOS 2015 3-Inning Chunk Averages:
+  b_pa: 12.834
+  b_ab: 11.604
+  b_r: 1.539
+  b_h: 3.075
+  b_doubles: 0.606
+  b_triples: 0.069
+  b_hr: 0.33
+  b_rbi: 1.452
+  b_sb: 0.147
+  b_cs: 0.057
+  b_bb: 0.984
+  b_tb: 4.812
+  b_gidp: 0.261
+  b_hbp: 0.096
+  b_sh: 0.063
+  b_sf: 0.087
+  b_ibb: 0.057
+
+----------------------------------------
+
+BAL 2015 Per-Inning Averages:
+  b_pa: 4.12
+  b_ab: 3.762
+  b_r: 0.489
+  b_h: 0.94
+  b_doubles: 0.169
+  b_triples: 0.014
+  b_hr: 0.149
+  b_rbi: 0.471
+  b_sb: 0.03
+  b_cs: 0.017
+  b_bb: 0.287
+  b_tb: 1.582
+  b_gidp: 0.087
+  b_hbp: 0.035
+  b_sh: 0.014
+  b_sf: 0.022
+  b_ibb: 0.016
+
+BAL 2015 3-Inning Chunk Averages:
+  b_pa: 12.36
+  b_ab: 11.286
+  b_r: 1.467
+  b_h: 2.82
+  b_doubles: 0.507
+  b_triples: 0.042
+  b_hr: 0.447
+  b_rbi: 1.413
+  b_sb: 0.09
+  b_cs: 0.051
+  b_bb: 0.861
+  b_tb: 4.746
+  b_gidp: 0.261
+  b_hbp: 0.105
+  b_sh: 0.042
+  b_sf: 0.066
+  b_ibb: 0.048
+
+----------------------------------------
+
+STL 2015 Per-Inning Averages:
+  b_pa: 4.211
+  b_ab: 3.761
+  b_r: 0.444
+  b_h: 0.951
+  b_doubles: 0.198
+  b_triples: 0.027
+  b_hr: 0.094
+  b_rbi: 0.425
+  b_sb: 0.047
+  b_cs: 0.026
+  b_bb: 0.347
+  b_tb: 1.484
+  b_gidp: 0.088
+  b_hbp: 0.045
+  b_sh: 0.027
+  b_sf: 0.029
+  b_ibb: 0.032
+
+STL 2015 3-Inning Chunk Averages:
+  b_pa: 12.633
+  b_ab: 11.283
+  b_r: 1.332
+  b_h: 2.853
+  b_doubles: 0.594
+  b_triples: 0.081
+  b_hr: 0.282
+  b_rbi: 1.275
+  b_sb: 0.141
+  b_cs: 0.078
+  b_bb: 1.041
+  b_tb: 4.452
+  b_gidp: 0.264
+  b_hbp: 0.135
+  b_sh: 0.081
+  b_sf: 0.087
+  b_ibb: 0.096
+
+----------------------------------------
+
+MIN 2015 Per-Inning Averages:
+  b_pa: 4.127
+  b_ab: 3.75
+  b_r: 0.477
+  b_h: 0.925
+  b_doubles: 0.19
+  b_triples: 0.03
+  b_hr: 0.107
+  b_rbi: 0.453
+  b_sb: 0.048
+  b_cs: 0.026
+  b_bb: 0.301
+  b_tb: 1.497
+  b_gidp: 0.091
+  b_hbp: 0.027
+  b_sh: 0.021
+  b_sf: 0.028
+  b_ibb: 0.021
+
+MIN 2015 3-Inning Chunk Averages:
+  b_pa: 12.381
+  b_ab: 11.25
+  b_r: 1.431
+  b_h: 2.775
+  b_doubles: 0.57
+  b_triples: 0.09
+  b_hr: 0.321
+  b_rbi: 1.359
+  b_sb: 0.144
+  b_cs: 0.078
+  b_bb: 0.903
+  b_tb: 4.491
+  b_gidp: 0.273
+  b_hbp: 0.081
+  b_sh: 0.063
+  b_sf: 0.084
+  b_ibb: 0.063
+
+----------------------------------------
+
+TOR 2015 Per-Inning Averages:
+  b_pa: 4.274
+  b_ab: 3.778
+  b_r: 0.611
+  b_h: 1.015
+  b_doubles: 0.211
+  b_triples: 0.012
+  b_hr: 0.159
+  b_rbi: 0.584
+  b_sb: 0.06
+  b_cs: 0.016
+  b_bb: 0.391
+  b_tb: 1.727
+  b_gidp: 0.096
+  b_hbp: 0.037
+  b_sh: 0.025
+  b_sf: 0.043
+  b_ibb: 0.008
+
+TOR 2015 3-Inning Chunk Averages:
+  b_pa: 12.822
+  b_ab: 11.334
+  b_r: 1.833
+  b_h: 3.045
+  b_doubles: 0.633
+  b_triples: 0.036
+  b_hr: 0.477
+  b_rbi: 1.752
+  b_sb: 0.18
+  b_cs: 0.048
+  b_bb: 1.173
+  b_tb: 5.181
+  b_gidp: 0.288
+  b_hbp: 0.111
+  b_sh: 0.075
+  b_sf: 0.129
+  b_ibb: 0.024
+
+----------------------------------------
+
+WSN 2014 Per-Inning Averages:
+  b_pa: 4.263
+  b_ab: 3.801
+  b_r: 0.471
+  b_h: 0.962
+  b_doubles: 0.182
+  b_triples: 0.019
+  b_hr: 0.104
+  b_rbi: 0.436
+  b_sb: 0.069
+  b_cs: 0.016
+  b_bb: 0.355
+  b_tb: 1.494
+  b_gidp: 0.079
+  b_hbp: 0.038
+  b_sh: 0.041
+  b_sf: 0.028
+  b_ibb: 0.02
+
+WSN 2014 3-Inning Chunk Averages:
+  b_pa: 12.789
+  b_ab: 11.403
+  b_r: 1.413
+  b_h: 2.886
+  b_doubles: 0.546
+  b_triples: 0.057
+  b_hr: 0.312
+  b_rbi: 1.308
+  b_sb: 0.207
+  b_cs: 0.048
+  b_bb: 1.065
+  b_tb: 4.482
+  b_gidp: 0.237
+  b_hbp: 0.114
+  b_sh: 0.123
+  b_sf: 0.084
+  b_ibb: 0.06
+
+----------------------------------------
+
+CLE 2014 Per-Inning Averages:
+  b_pa: 4.267
+  b_ab: 3.824
+  b_r: 0.459
+  b_h: 0.968
+  b_doubles: 0.195
+  b_triples: 0.016
+  b_hr: 0.097
+  b_rbi: 0.442
+  b_sb: 0.071
+  b_cs: 0.019
+  b_bb: 0.346
+  b_tb: 1.486
+  b_gidp: 0.086
+  b_hbp: 0.029
+  b_sh: 0.035
+  b_sf: 0.034
+  b_ibb: 0.016
+
+CLE 2014 3-Inning Chunk Averages:
+  b_pa: 12.801
+  b_ab: 11.472
+  b_r: 1.377
+  b_h: 2.904
+  b_doubles: 0.585
+  b_triples: 0.048
+  b_hr: 0.291
+  b_rbi: 1.326
+  b_sb: 0.213
+  b_cs: 0.057
+  b_bb: 1.038
+  b_tb: 4.458
+  b_gidp: 0.258
+  b_hbp: 0.087
+  b_sh: 0.105
+  b_sf: 0.102
+  b_ibb: 0.048
+
+----------------------------------------
+
+KCR 2014 Per-Inning Averages:
+  b_pa: 4.155
+  b_ab: 3.803
+  b_r: 0.447
+  b_h: 0.999
+  b_doubles: 0.196
+  b_triples: 0.02
+  b_hr: 0.065
+  b_rbi: 0.414
+  b_sb: 0.105
+  b_cs: 0.025
+  b_bb: 0.261
+  b_tb: 1.43
+  b_gidp: 0.09
+  b_hbp: 0.036
+  b_sh: 0.023
+  b_sf: 0.032
+  b_ibb: 0.015
+
+KCR 2014 3-Inning Chunk Averages:
+  b_pa: 12.465
+  b_ab: 11.409
+  b_r: 1.341
+  b_h: 2.997
+  b_doubles: 0.588
+  b_triples: 0.06
+  b_hr: 0.195
+  b_rbi: 1.242
+  b_sb: 0.315
+  b_cs: 0.075
+  b_bb: 0.783
+  b_tb: 4.29
+  b_gidp: 0.27
+  b_hbp: 0.108
+  b_sh: 0.069
+  b_sf: 0.096
+  b_ibb: 0.045
+
+----------------------------------------
+
+MIA 2014 Per-Inning Averages:
+  b_pa: 4.242
+  b_ab: 3.798
+  b_r: 0.442
+  b_h: 0.96
+  b_doubles: 0.174
+  b_triples: 0.025
+  b_hr: 0.084
+  b_rbi: 0.421
+  b_sb: 0.04
+  b_cs: 0.014
+  b_bb: 0.344
+  b_tb: 1.434
+  b_gidp: 0.098
+  b_hbp: 0.024
+  b_sh: 0.049
+  b_sf: 0.027
+  b_ibb: 0.034
+
+MIA 2014 3-Inning Chunk Averages:
+  b_pa: 12.726
+  b_ab: 11.394
+  b_r: 1.326
+  b_h: 2.88
+  b_doubles: 0.522
+  b_triples: 0.075
+  b_hr: 0.252
+  b_rbi: 1.263
+  b_sb: 0.12
+  b_cs: 0.042
+  b_bb: 1.032
+  b_tb: 4.302
+  b_gidp: 0.294
+  b_hbp: 0.072
+  b_sh: 0.147
+  b_sf: 0.081
+  b_ibb: 0.102
+
+----------------------------------------
+
+SEA 2014 Per-Inning Averages:
+  b_pa: 4.099
+  b_ab: 3.738
+  b_r: 0.435
+  b_h: 0.911
+  b_doubles: 0.169
+  b_triples: 0.022
+  b_hr: 0.093
+  b_rbi: 0.412
+  b_sb: 0.066
+  b_cs: 0.029
+  b_bb: 0.272
+  b_tb: 1.404
+  b_gidp: 0.077
+  b_hbp: 0.041
+  b_sh: 0.024
+  b_sf: 0.023
+  b_ibb: 0.023
+
+SEA 2014 3-Inning Chunk Averages:
+  b_pa: 12.297
+  b_ab: 11.214
+  b_r: 1.305
+  b_h: 2.733
+  b_doubles: 0.507
+  b_triples: 0.066
+  b_hr: 0.279
+  b_rbi: 1.236
+  b_sb: 0.198
+  b_cs: 0.087
+  b_bb: 0.816
+  b_tb: 4.212
+  b_gidp: 0.231
+  b_hbp: 0.123
+  b_sh: 0.072
+  b_sf: 0.069
+  b_ibb: 0.069
+
+----------------------------------------
+
+DET 2014 Per-Inning Averages:
+  b_pa: 4.254
+  b_ab: 3.861
+  b_r: 0.519
+  b_h: 1.068
+  b_doubles: 0.223
+  b_triples: 0.018
+  b_hr: 0.106
+  b_rbi: 0.501
+  b_sb: 0.073
+  b_cs: 0.028
+  b_bb: 0.304
+  b_tb: 1.645
+  b_gidp: 0.094
+  b_hbp: 0.03
+  b_sh: 0.016
+  b_sf: 0.042
+  b_ibb: 0.035
+
+DET 2014 3-Inning Chunk Averages:
+  b_pa: 12.762
+  b_ab: 11.583
+  b_r: 1.557
+  b_h: 3.204
+  b_doubles: 0.669
+  b_triples: 0.054
+  b_hr: 0.318
+  b_rbi: 1.503
+  b_sb: 0.219
+  b_cs: 0.084
+  b_bb: 0.912
+  b_tb: 4.935
+  b_gidp: 0.282
+  b_hbp: 0.09
+  b_sh: 0.048
+  b_sf: 0.126
+  b_ibb: 0.105
+
+----------------------------------------
+
+STL 2014 Per-Inning Averages:
+  b_pa: 4.174
+  b_ab: 3.722
+  b_r: 0.425
+  b_h: 0.94
+  b_doubles: 0.189
+  b_triples: 0.014
+  b_hr: 0.072
+  b_rbi: 0.401
+  b_sb: 0.039
+  b_cs: 0.022
+  b_bb: 0.323
+  b_tb: 1.374
+  b_gidp: 0.096
+  b_hbp: 0.059
+  b_sh: 0.044
+  b_sf: 0.027
+  b_ibb: 0.019
+
+STL 2014 3-Inning Chunk Averages:
+  b_pa: 12.522
+  b_ab: 11.166
+  b_r: 1.275
+  b_h: 2.82
+  b_doubles: 0.567
+  b_triples: 0.042
+  b_hr: 0.216
+  b_rbi: 1.203
+  b_sb: 0.117
+  b_cs: 0.066
+  b_bb: 0.969
+  b_tb: 4.122
+  b_gidp: 0.288
+  b_hbp: 0.177
+  b_sh: 0.132
+  b_sf: 0.081
+  b_ibb: 0.057
+
+----------------------------------------
+
+TBR 2013 Per-Inning Averages:
+  b_pa: 4.255
+  b_ab: 3.775
+  b_r: 0.477
+  b_h: 0.969
+  b_doubles: 0.202
+  b_triples: 0.016
+  b_hr: 0.112
+  b_rbi: 0.457
+  b_sb: 0.05
+  b_cs: 0.026
+  b_bb: 0.401
+  b_tb: 1.539
+  b_gidp: 0.095
+  b_hbp: 0.025
+  b_sh: 0.016
+  b_sf: 0.037
+  b_ibb: 0.021
+
+TBR 2013 3-Inning Chunk Averages:
+  b_pa: 12.765
+  b_ab: 11.325
+  b_r: 1.431
+  b_h: 2.907
+  b_doubles: 0.606
+  b_triples: 0.048
+  b_hr: 0.336
+  b_rbi: 1.371
+  b_sb: 0.15
+  b_cs: 0.078
+  b_bb: 1.203
+  b_tb: 4.617
+  b_gidp: 0.285
+  b_hbp: 0.075
+  b_sh: 0.048
+  b_sf: 0.111
+  b_ibb: 0.063
+
+----------------------------------------
+
+ARI 2013 Per-Inning Averages:
+  b_pa: 4.344
+  b_ab: 3.893
+  b_r: 0.47
+  b_h: 1.007
+  b_doubles: 0.207
+  b_triples: 0.021
+  b_hr: 0.089
+  b_rbi: 0.444
+  b_sb: 0.043
+  b_cs: 0.028
+  b_bb: 0.356
+  b_tb: 1.524
+  b_gidp: 0.11
+  b_hbp: 0.029
+  b_sh: 0.034
+  b_sf: 0.029
+  b_ibb: 0.035
+
+ARI 2013 3-Inning Chunk Averages:
+  b_pa: 13.032
+  b_ab: 11.679
+  b_r: 1.41
+  b_h: 3.021
+  b_doubles: 0.621
+  b_triples: 0.063
+  b_hr: 0.267
+  b_rbi: 1.332
+  b_sb: 0.129
+  b_cs: 0.084
+  b_bb: 1.068
+  b_tb: 4.572
+  b_gidp: 0.33
+  b_hbp: 0.087
+  b_sh: 0.102
+  b_sf: 0.087
+  b_ibb: 0.105
+
+----------------------------------------
+
+KCR 2013 Per-Inning Averages:
+  b_pa: 4.179
+  b_ab: 3.806
+  b_r: 0.444
+  b_h: 0.99
+  b_doubles: 0.174
+  b_triples: 0.023
+  b_hr: 0.077
+  b_rbi: 0.425
+  b_sb: 0.105
+  b_cs: 0.022
+  b_bb: 0.289
+  b_tb: 1.441
+  b_gidp: 0.09
+  b_hbp: 0.029
+  b_sh: 0.025
+  b_sf: 0.029
+  b_ibb: 0.026
+
+KCR 2013 3-Inning Chunk Averages:
+  b_pa: 12.537
+  b_ab: 11.418
+  b_r: 1.332
+  b_h: 2.97
+  b_doubles: 0.522
+  b_triples: 0.069
+  b_hr: 0.231
+  b_rbi: 1.275
+  b_sb: 0.315
+  b_cs: 0.066
+  b_bb: 0.867
+  b_tb: 4.323
+  b_gidp: 0.27
+  b_hbp: 0.087
+  b_sh: 0.075
+  b_sf: 0.087
+  b_ibb: 0.078
+
+----------------------------------------
+
+BAL 2013 Per-Inning Averages:
+  b_pa: 4.214
+  b_ab: 3.855
+  b_r: 0.511
+  b_h: 1.001
+  b_doubles: 0.204
+  b_triples: 0.01
+  b_hr: 0.145
+  b_rbi: 0.493
+  b_sb: 0.054
+  b_cs: 0.02
+  b_bb: 0.285
+  b_tb: 1.661
+  b_gidp: 0.072
+  b_hbp: 0.025
+  b_sh: 0.019
+  b_sf: 0.031
+  b_ibb: 0.025
+
+BAL 2013 3-Inning Chunk Averages:
+  b_pa: 12.642
+  b_ab: 11.565
+  b_r: 1.533
+  b_h: 3.003
+  b_doubles: 0.612
+  b_triples: 0.03
+  b_hr: 0.435
+  b_rbi: 1.479
+  b_sb: 0.162
+  b_cs: 0.06
+  b_bb: 0.855
+  b_tb: 4.983
+  b_gidp: 0.216
+  b_hbp: 0.075
+  b_sh: 0.057
+  b_sf: 0.093
+  b_ibb: 0.075
+
+----------------------------------------
+
+HOU 2013 Per-Inning Averages:
+  b_pa: 4.129
+  b_ab: 3.743
+  b_r: 0.418
+  b_h: 0.896
+  b_doubles: 0.182
+  b_triples: 0.011
+  b_hr: 0.102
+  b_rbi: 0.388
+  b_sb: 0.075
+  b_cs: 0.042
+  b_bb: 0.292
+  b_tb: 1.405
+  b_gidp: 0.075
+  b_hbp: 0.036
+  b_sh: 0.032
+  b_sf: 0.026
+  b_ibb: 0.012
+
+HOU 2013 3-Inning Chunk Averages:
+  b_pa: 12.387
+  b_ab: 11.229
+  b_r: 1.254
+  b_h: 2.688
+  b_doubles: 0.546
+  b_triples: 0.033
+  b_hr: 0.306
+  b_rbi: 1.164
+  b_sb: 0.225
+  b_cs: 0.126
+  b_bb: 0.876
+  b_tb: 4.215
+  b_gidp: 0.225
+  b_hbp: 0.108
+  b_sh: 0.096
+  b_sf: 0.078
+  b_ibb: 0.036
+
+----------------------------------------
+
+MIA 2013 Per-Inning Averages:
+  b_pa: 4.13
+  b_ab: 3.737
+  b_r: 0.352
+  b_h: 0.862
+  b_doubles: 0.15
+  b_triples: 0.021
+  b_hr: 0.065
+  b_rbi: 0.333
+  b_sb: 0.053
+  b_cs: 0.02
+  b_bb: 0.296
+  b_tb: 1.25
+  b_gidp: 0.09
+  b_hbp: 0.038
+  b_sh: 0.039
+  b_sf: 0.018
+  b_ibb: 0.021
+
+MIA 2013 3-Inning Chunk Averages:
+  b_pa: 12.39
+  b_ab: 11.211
+  b_r: 1.056
+  b_h: 2.586
+  b_doubles: 0.45
+  b_triples: 0.063
+  b_hr: 0.195
+  b_rbi: 0.999
+  b_sb: 0.159
+  b_cs: 0.06
+  b_bb: 0.888
+  b_tb: 3.75
+  b_gidp: 0.27
+  b_hbp: 0.114
+  b_sh: 0.117
+  b_sf: 0.054
+  b_ibb: 0.063
+
+----------------------------------------
+
+SFG 2013 Per-Inning Averages:
+  b_pa: 4.23
+  b_ab: 3.808
+  b_r: 0.431
+  b_h: 0.992
+  b_doubles: 0.192
+  b_triples: 0.024
+  b_hr: 0.073
+  b_rbi: 0.409
+  b_sb: 0.046
+  b_cs: 0.018
+  b_bb: 0.322
+  b_tb: 1.452
+  b_gidp: 0.09
+  b_hbp: 0.027
+  b_sh: 0.045
+  b_sf: 0.029
+  b_ibb: 0.027
+
+SFG 2013 3-Inning Chunk Averages:
+  b_pa: 12.69
+  b_ab: 11.424
+  b_r: 1.293
+  b_h: 2.976
+  b_doubles: 0.576
+  b_triples: 0.072
+  b_hr: 0.219
+  b_rbi: 1.227
+  b_sb: 0.138
+  b_cs: 0.054
+  b_bb: 0.966
+  b_tb: 4.356
+  b_gidp: 0.27
+  b_hbp: 0.081
+  b_sh: 0.135
+  b_sf: 0.087
+  b_ibb: 0.081
+
+----------------------------------------
+
+KCR 2012 Per-Inning Averages:
+  b_pa: 4.217
+  b_ab: 3.866
+  b_r: 0.464
+  b_h: 1.023
+  b_doubles: 0.202
+  b_triples: 0.025
+  b_hr: 0.09
+  b_rbi: 0.441
+  b_sb: 0.091
+  b_cs: 0.026
+  b_bb: 0.277
+  b_tb: 1.546
+  b_gidp: 0.089
+  b_hbp: 0.029
+  b_sh: 0.018
+  b_sf: 0.028
+  b_ibb: 0.024
+
+KCR 2012 3-Inning Chunk Averages:
+  b_pa: 12.651
+  b_ab: 11.598
+  b_r: 1.392
+  b_h: 3.069
+  b_doubles: 0.606
+  b_triples: 0.075
+  b_hr: 0.27
+  b_rbi: 1.323
+  b_sb: 0.273
+  b_cs: 0.078
+  b_bb: 0.831
+  b_tb: 4.638
+  b_gidp: 0.267
+  b_hbp: 0.087
+  b_sh: 0.054
+  b_sf: 0.084
+  b_ibb: 0.072
+
+----------------------------------------
+
+ATL 2012 Per-Inning Averages:
+  b_pa: 4.202
+  b_ab: 3.721
+  b_r: 0.48
+  b_h: 0.92
+  b_doubles: 0.18
+  b_triples: 0.021
+  b_hr: 0.102
+  b_rbi: 0.453
+  b_sb: 0.069
+  b_cs: 0.022
+  b_bb: 0.389
+  b_tb: 1.448
+  b_gidp: 0.074
+  b_hbp: 0.023
+  b_sh: 0.036
+  b_sf: 0.032
+  b_ibb: 0.025
+
+ATL 2012 3-Inning Chunk Averages:
+  b_pa: 12.606
+  b_ab: 11.163
+  b_r: 1.44
+  b_h: 2.76
+  b_doubles: 0.54
+  b_triples: 0.063
+  b_hr: 0.306
+  b_rbi: 1.359
+  b_sb: 0.207
+  b_cs: 0.066
+  b_bb: 1.167
+  b_tb: 4.344
+  b_gidp: 0.222
+  b_hbp: 0.069
+  b_sh: 0.108
+  b_sf: 0.096
+  b_ibb: 0.075
+
+----------------------------------------
+
+TEX 2012 Per-Inning Averages:
+  b_pa: 4.263
+  b_ab: 3.834
+  b_r: 0.554
+  b_h: 1.047
+  b_doubles: 0.208
+  b_triples: 0.022
+  b_hr: 0.137
+  b_rbi: 0.535
+  b_sb: 0.062
+  b_cs: 0.03
+  b_bb: 0.328
+  b_tb: 1.71
+  b_gidp: 0.083
+  b_hbp: 0.039
+  b_sh: 0.025
+  b_sf: 0.036
+  b_ibb: 0.03
+
+TEX 2012 3-Inning Chunk Averages:
+  b_pa: 12.789
+  b_ab: 11.502
+  b_r: 1.662
+  b_h: 3.141
+  b_doubles: 0.624
+  b_triples: 0.066
+  b_hr: 0.411
+  b_rbi: 1.605
+  b_sb: 0.186
+  b_cs: 0.09
+  b_bb: 0.984
+  b_tb: 5.13
+  b_gidp: 0.249
+  b_hbp: 0.117
+  b_sh: 0.075
+  b_sf: 0.108
+  b_ibb: 0.09
+
+----------------------------------------
+
+MIA 2012 Per-Inning Averages:
+  b_pa: 4.154
+  b_ab: 3.729
+  b_r: 0.418
+  b_h: 0.91
+  b_doubles: 0.179
+  b_triples: 0.027
+  b_hr: 0.094
+  b_rbi: 0.395
+  b_sb: 0.102
+  b_cs: 0.028
+  b_bb: 0.332
+  b_tb: 1.425
+  b_gidp: 0.078
+  b_hbp: 0.024
+  b_sh: 0.041
+  b_sf: 0.027
+  b_ibb: 0.032
+
+MIA 2012 3-Inning Chunk Averages:
+  b_pa: 12.462
+  b_ab: 11.187
+  b_r: 1.254
+  b_h: 2.73
+  b_doubles: 0.537
+  b_triples: 0.081
+  b_hr: 0.282
+  b_rbi: 1.185
+  b_sb: 0.306
+  b_cs: 0.084
+  b_bb: 0.996
+  b_tb: 4.275
+  b_gidp: 0.234
+  b_hbp: 0.072
+  b_sh: 0.123
+  b_sf: 0.081
+  b_ibb: 0.096
+
+----------------------------------------
+
+CHW 2012 Per-Inning Averages:
+  b_pa: 4.191
+  b_ab: 3.785
+  b_r: 0.513
+  b_h: 0.966
+  b_doubles: 0.156
+  b_triples: 0.02
+  b_hr: 0.145
+  b_rbi: 0.498
+  b_sb: 0.075
+  b_cs: 0.029
+  b_bb: 0.316
+  b_tb: 1.597
+  b_gidp: 0.077
+  b_hbp: 0.045
+  b_sh: 0.021
+  b_sf: 0.025
+  b_ibb: 0.016
+
+CHW 2012 3-Inning Chunk Averages:
+  b_pa: 12.573
+  b_ab: 11.355
+  b_r: 1.539
+  b_h: 2.898
+  b_doubles: 0.468
+  b_triples: 0.06
+  b_hr: 0.435
+  b_rbi: 1.494
+  b_sb: 0.225
+  b_cs: 0.087
+  b_bb: 0.948
+  b_tb: 4.791
+  b_gidp: 0.231
+  b_hbp: 0.135
+  b_sh: 0.063
+  b_sf: 0.075
+  b_ibb: 0.048
+
+----------------------------------------
+
+SFG 2012 Per-Inning Averages:
+  b_pa: 4.252
+  b_ab: 3.812
+  b_r: 0.492
+  b_h: 1.025
+  b_doubles: 0.197
+  b_triples: 0.039
+  b_hr: 0.071
+  b_rbi: 0.463
+  b_sb: 0.081
+  b_cs: 0.027
+  b_bb: 0.331
+  b_tb: 1.512
+  b_gidp: 0.078
+  b_hbp: 0.02
+  b_sh: 0.047
+  b_sf: 0.042
+  b_ibb: 0.03
+
+SFG 2012 3-Inning Chunk Averages:
+  b_pa: 12.756
+  b_ab: 11.436
+  b_r: 1.476
+  b_h: 3.075
+  b_doubles: 0.591
+  b_triples: 0.117
+  b_hr: 0.213
+  b_rbi: 1.389
+  b_sb: 0.243
+  b_cs: 0.081
+  b_bb: 0.993
+  b_tb: 4.536
+  b_gidp: 0.234
+  b_hbp: 0.06
+  b_sh: 0.141
+  b_sf: 0.126
+  b_ibb: 0.09
+
+----------------------------------------
+
+MIL 2012 Per-Inning Averages:
+  b_pa: 4.27
+  b_ab: 3.811
+  b_r: 0.532
+  b_h: 0.989
+  b_doubles: 0.206
+  b_triples: 0.027
+  b_hr: 0.139
+  b_rbi: 0.508
+  b_sb: 0.108
+  b_cs: 0.027
+  b_bb: 0.32
+  b_tb: 1.664
+  b_gidp: 0.076
+  b_hbp: 0.062
+  b_sh: 0.052
+  b_sf: 0.024
+  b_ibb: 0.024
+
+MIL 2012 3-Inning Chunk Averages:
+  b_pa: 12.81
+  b_ab: 11.433
+  b_r: 1.596
+  b_h: 2.967
+  b_doubles: 0.618
+  b_triples: 0.081
+  b_hr: 0.417
+  b_rbi: 1.524
+  b_sb: 0.324
+  b_cs: 0.081
+  b_bb: 0.96
+  b_tb: 4.992
+  b_gidp: 0.228
+  b_hbp: 0.186
+  b_sh: 0.156
+  b_sf: 0.072
+  b_ibb: 0.072
+
+----------------------------------------
+
+COL 2012 Per-Inning Averages:
+  b_pa: 4.241
+  b_ab: 3.825
+  b_r: 0.52
+  b_h: 1.047
+  b_doubles: 0.21
+  b_triples: 0.036
+  b_hr: 0.114
+  b_rbi: 0.491
+  b_sb: 0.069
+  b_cs: 0.027
+  b_bb: 0.309
+  b_tb: 1.669
+  b_gidp: 0.091
+  b_hbp: 0.025
+  b_sh: 0.051
+  b_sf: 0.027
+  b_ibb: 0.023
+
+COL 2012 3-Inning Chunk Averages:
+  b_pa: 12.723
+  b_ab: 11.475
+  b_r: 1.56
+  b_h: 3.141
+  b_doubles: 0.63
+  b_triples: 0.108
+  b_hr: 0.342
+  b_rbi: 1.473
+  b_sb: 0.207
+  b_cs: 0.081
+  b_bb: 0.927
+  b_tb: 5.007
+  b_gidp: 0.273
+  b_hbp: 0.075
+  b_sh: 0.153
+  b_sf: 0.081
+  b_ibb: 0.069
+
+----------------------------------------
+
+LAD 2011 Per-Inning Averages:
+  b_pa: 4.206
+  b_ab: 3.752
+  b_r: 0.444
+  b_h: 0.963
+  b_doubles: 0.164
+  b_triples: 0.019
+  b_hr: 0.081
+  b_rbi: 0.423
+  b_sb: 0.087
+  b_cs: 0.028
+  b_bb: 0.344
+  b_tb: 1.407
+  b_gidp: 0.07
+  b_hbp: 0.031
+  b_sh: 0.049
+  b_sf: 0.03
+  b_ibb: 0.042
+
+LAD 2011 3-Inning Chunk Averages:
+  b_pa: 12.618
+  b_ab: 11.256
+  b_r: 1.332
+  b_h: 2.889
+  b_doubles: 0.492
+  b_triples: 0.057
+  b_hr: 0.243
+  b_rbi: 1.269
+  b_sb: 0.261
+  b_cs: 0.084
+  b_bb: 1.032
+  b_tb: 4.221
+  b_gidp: 0.21
+  b_hbp: 0.093
+  b_sh: 0.147
+  b_sf: 0.09
+  b_ibb: 0.126
+
+----------------------------------------
+
+TEX 2011 Per-Inning Averages:
+  b_pa: 4.294
+  b_ab: 3.881
+  b_r: 0.586
+  b_h: 1.097
+  b_doubles: 0.213
+  b_triples: 0.022
+  b_hr: 0.144
+  b_rbi: 0.553
+  b_sb: 0.098
+  b_cs: 0.031
+  b_bb: 0.326
+  b_tb: 1.785
+  b_gidp: 0.093
+  b_hbp: 0.027
+  b_sh: 0.027
+  b_sf: 0.034
+  b_ibb: 0.024
+
+TEX 2011 3-Inning Chunk Averages:
+  b_pa: 12.882
+  b_ab: 11.643
+  b_r: 1.758
+  b_h: 3.291
+  b_doubles: 0.639
+  b_triples: 0.066
+  b_hr: 0.432
+  b_rbi: 1.659
+  b_sb: 0.294
+  b_cs: 0.093
+  b_bb: 0.978
+  b_tb: 5.355
+  b_gidp: 0.279
+  b_hbp: 0.081
+  b_sh: 0.081
+  b_sf: 0.102
+  b_ibb: 0.072
+
+----------------------------------------
+
+ARI 2011 Per-Inning Averages:
+  b_pa: 4.181
+  b_ab: 3.718
+  b_r: 0.501
+  b_h: 0.931
+  b_doubles: 0.201
+  b_triples: 0.025
+  b_hr: 0.118
+  b_rbi: 0.481
+  b_sb: 0.091
+  b_cs: 0.038
+  b_bb: 0.364
+  b_tb: 1.536
+  b_gidp: 0.056
+  b_hbp: 0.042
+  b_sh: 0.034
+  b_sf: 0.023
+  b_ibb: 0.038
+
+ARI 2011 3-Inning Chunk Averages:
+  b_pa: 12.543
+  b_ab: 11.154
+  b_r: 1.503
+  b_h: 2.793
+  b_doubles: 0.603
+  b_triples: 0.075
+  b_hr: 0.354
+  b_rbi: 1.443
+  b_sb: 0.273
+  b_cs: 0.114
+  b_bb: 1.092
+  b_tb: 4.608
+  b_gidp: 0.168
+  b_hbp: 0.126
+  b_sh: 0.102
+  b_sf: 0.069
+  b_ibb: 0.114
+
+----------------------------------------
+
+NYY 2011 Per-Inning Averages:
+  b_pa: 4.325
+  b_ab: 3.785
+  b_r: 0.595
+  b_h: 0.996
+  b_doubles: 0.183
+  b_triples: 0.023
+  b_hr: 0.152
+  b_rbi: 0.573
+  b_sb: 0.101
+  b_cs: 0.032
+  b_bb: 0.43
+  b_tb: 1.681
+  b_gidp: 0.1
+  b_hbp: 0.051
+  b_sh: 0.025
+  b_sf: 0.035
+  b_ibb: 0.023
+
+NYY 2011 3-Inning Chunk Averages:
+  b_pa: 12.975
+  b_ab: 11.355
+  b_r: 1.785
+  b_h: 2.988
+  b_doubles: 0.549
+  b_triples: 0.069
+  b_hr: 0.456
+  b_rbi: 1.719
+  b_sb: 0.303
+  b_cs: 0.096
+  b_bb: 1.29
+  b_tb: 5.043
+  b_gidp: 0.3
+  b_hbp: 0.153
+  b_sh: 0.075
+  b_sf: 0.105
+  b_ibb: 0.069
+
+----------------------------------------
+
+CHW 2011 Per-Inning Averages:
+  b_pa: 4.224
+  b_ab: 3.774
+  b_r: 0.449
+  b_h: 0.951
+  b_doubles: 0.173
+  b_triples: 0.011
+  b_hr: 0.106
+  b_rbi: 0.429
+  b_sb: 0.056
+  b_cs: 0.036
+  b_bb: 0.326
+  b_tb: 1.463
+  b_gidp: 0.086
+  b_hbp: 0.058
+  b_sh: 0.036
+  b_sf: 0.032
+  b_ibb: 0.021
+
+CHW 2011 3-Inning Chunk Averages:
+  b_pa: 12.672
+  b_ab: 11.322
+  b_r: 1.347
+  b_h: 2.853
+  b_doubles: 0.519
+  b_triples: 0.033
+  b_hr: 0.318
+  b_rbi: 1.287
+  b_sb: 0.168
+  b_cs: 0.108
+  b_bb: 0.978
+  b_tb: 4.389
+  b_gidp: 0.258
+  b_hbp: 0.174
+  b_sh: 0.108
+  b_sf: 0.096
+  b_ibb: 0.063
+
+----------------------------------------
+
+CIN 2011 Per-Inning Averages:
+  b_pa: 4.341
+  b_ab: 3.849
+  b_r: 0.504
+  b_h: 0.986
+  b_doubles: 0.181
+  b_triples: 0.013
+  b_hr: 0.126
+  b_rbi: 0.478
+  b_sb: 0.067
+  b_cs: 0.034
+  b_bb: 0.367
+  b_tb: 1.57
+  b_gidp: 0.067
+  b_hbp: 0.043
+  b_sh: 0.053
+  b_sf: 0.027
+  b_ibb: 0.036
+
+CIN 2011 3-Inning Chunk Averages:
+  b_pa: 13.023
+  b_ab: 11.547
+  b_r: 1.512
+  b_h: 2.958
+  b_doubles: 0.543
+  b_triples: 0.039
+  b_hr: 0.378
+  b_rbi: 1.434
+  b_sb: 0.201
+  b_cs: 0.102
+  b_bb: 1.101
+  b_tb: 4.71
+  b_gidp: 0.201
+  b_hbp: 0.129
+  b_sh: 0.159
+  b_sf: 0.081
+  b_ibb: 0.108
+
+----------------------------------------
+
+TOR 2011 Per-Inning Averages:
+  b_pa: 4.259
+  b_ab: 3.813
+  b_r: 0.51
+  b_h: 0.949
+  b_doubles: 0.195
+  b_triples: 0.023
+  b_hr: 0.128
+  b_rbi: 0.483
+  b_sb: 0.09
+  b_cs: 0.036
+  b_bb: 0.36
+  b_tb: 1.574
+  b_gidp: 0.074
+  b_hbp: 0.033
+  b_sh: 0.021
+  b_sf: 0.032
+  b_ibb: 0.028
+
+TOR 2011 3-Inning Chunk Averages:
+  b_pa: 12.777
+  b_ab: 11.439
+  b_r: 1.53
+  b_h: 2.847
+  b_doubles: 0.585
+  b_triples: 0.069
+  b_hr: 0.384
+  b_rbi: 1.449
+  b_sb: 0.27
+  b_cs: 0.108
+  b_bb: 1.08
+  b_tb: 4.722
+  b_gidp: 0.222
+  b_hbp: 0.099
+  b_sh: 0.063
+  b_sf: 0.096
+  b_ibb: 0.084
+
+----------------------------------------
+
+PIT 2011 Per-Inning Averages:
+  b_pa: 4.159
+  b_ab: 3.718
+  b_r: 0.418
+  b_h: 0.909
+  b_doubles: 0.19
+  b_triples: 0.024
+  b_hr: 0.073
+  b_rbi: 0.398
+  b_sb: 0.074
+  b_cs: 0.036
+  b_bb: 0.335
+  b_tb: 1.367
+  b_gidp: 0.084
+  b_hbp: 0.023
+  b_sh: 0.051
+  b_sf: 0.03
+  b_ibb: 0.021
+
+PIT 2011 3-Inning Chunk Averages:
+  b_pa: 12.477
+  b_ab: 11.154
+  b_r: 1.254
+  b_h: 2.727
+  b_doubles: 0.57
+  b_triples: 0.072
+  b_hr: 0.219
+  b_rbi: 1.194
+  b_sb: 0.222
+  b_cs: 0.108
+  b_bb: 1.005
+  b_tb: 4.101
+  b_gidp: 0.252
+  b_hbp: 0.069
+  b_sh: 0.153
+  b_sf: 0.09
+  b_ibb: 0.063
+
+----------------------------------------
+
+MIL 2010 Per-Inning Averages:
+  b_pa: 4.324
+  b_ab: 3.845
+  b_r: 0.514
+  b_h: 1.009
+  b_doubles: 0.201
+  b_triples: 0.023
+  b_hr: 0.125
+  b_rbi: 0.487
+  b_sb: 0.056
+  b_cs: 0.018
+  b_bb: 0.374
+  b_tb: 1.63
+  b_gidp: 0.079
+  b_hbp: 0.056
+  b_sh: 0.024
+  b_sf: 0.024
+  b_ibb: 0.024
+
+MIL 2010 3-Inning Chunk Averages:
+  b_pa: 12.972
+  b_ab: 11.535
+  b_r: 1.542
+  b_h: 3.027
+  b_doubles: 0.603
+  b_triples: 0.069
+  b_hr: 0.375
+  b_rbi: 1.461
+  b_sb: 0.168
+  b_cs: 0.054
+  b_bb: 1.122
+  b_tb: 4.89
+  b_gidp: 0.237
+  b_hbp: 0.168
+  b_sh: 0.072
+  b_sf: 0.072
+  b_ibb: 0.072
+
+----------------------------------------
+
+TBR 2010 Per-Inning Averages:
+  b_pa: 4.3
+  b_ab: 3.73
+  b_r: 0.55
+  b_h: 0.921
+  b_doubles: 0.202
+  b_triples: 0.025
+  b_hr: 0.11
+  b_rbi: 0.527
+  b_sb: 0.118
+  b_cs: 0.032
+  b_bb: 0.461
+  b_tb: 1.503
+  b_gidp: 0.063
+  b_hbp: 0.039
+  b_sh: 0.027
+  b_sf: 0.039
+  b_ibb: 0.021
+
+TBR 2010 3-Inning Chunk Averages:
+  b_pa: 12.9
+  b_ab: 11.19
+  b_r: 1.65
+  b_h: 2.763
+  b_doubles: 0.606
+  b_triples: 0.075
+  b_hr: 0.33
+  b_rbi: 1.581
+  b_sb: 0.354
+  b_cs: 0.096
+  b_bb: 1.383
+  b_tb: 4.509
+  b_gidp: 0.189
+  b_hbp: 0.117
+  b_sh: 0.081
+  b_sf: 0.117
+  b_ibb: 0.063
+
+----------------------------------------
+
+HOU 2010 Per-Inning Averages:
+  b_pa: 4.119
+  b_ab: 3.739
+  b_r: 0.419
+  b_h: 0.925
+  b_doubles: 0.173
+  b_triples: 0.017
+  b_hr: 0.074
+  b_rbi: 0.396
+  b_sb: 0.069
+  b_cs: 0.025
+  b_bb: 0.285
+  b_tb: 1.354
+  b_gidp: 0.089
+  b_hbp: 0.023
+  b_sh: 0.051
+  b_sf: 0.02
+  b_ibb: 0.019
+
+HOU 2010 3-Inning Chunk Averages:
+  b_pa: 12.357
+  b_ab: 11.217
+  b_r: 1.257
+  b_h: 2.775
+  b_doubles: 0.519
+  b_triples: 0.051
+  b_hr: 0.222
+  b_rbi: 1.188
+  b_sb: 0.207
+  b_cs: 0.075
+  b_bb: 0.855
+  b_tb: 4.062
+  b_gidp: 0.267
+  b_hbp: 0.069
+  b_sh: 0.153
+  b_sf: 0.06
+  b_ibb: 0.057
+
+----------------------------------------
+
+STL 2010 Per-Inning Averages:
+  b_pa: 4.281
+  b_ab: 3.801
+  b_r: 0.505
+  b_h: 0.999
+  b_doubles: 0.195
+  b_triples: 0.012
+  b_hr: 0.103
+  b_rbi: 0.473
+  b_sb: 0.054
+  b_cs: 0.028
+  b_bb: 0.371
+  b_tb: 1.527
+  b_gidp: 0.085
+  b_hbp: 0.034
+  b_sh: 0.045
+  b_sf: 0.027
+  b_ibb: 0.053
+
+STL 2010 3-Inning Chunk Averages:
+  b_pa: 12.843
+  b_ab: 11.403
+  b_r: 1.515
+  b_h: 2.997
+  b_doubles: 0.585
+  b_triples: 0.036
+  b_hr: 0.309
+  b_rbi: 1.419
+  b_sb: 0.162
+  b_cs: 0.084
+  b_bb: 1.113
+  b_tb: 4.581
+  b_gidp: 0.255
+  b_hbp: 0.102
+  b_sh: 0.135
+  b_sf: 0.081
+  b_ibb: 0.159
+
+----------------------------------------
+
+LAD 2010 Per-Inning Averages:
+  b_pa: 4.211
+  b_ab: 3.722
+  b_r: 0.457
+  b_h: 0.938
+  b_doubles: 0.185
+  b_triples: 0.02
+  b_hr: 0.082
+  b_rbi: 0.426
+  b_sb: 0.063
+  b_cs: 0.034
+  b_bb: 0.366
+  b_tb: 1.41
+  b_gidp: 0.084
+  b_hbp: 0.032
+  b_sh: 0.058
+  b_sf: 0.034
+  b_ibb: 0.039
+
+LAD 2010 3-Inning Chunk Averages:
+  b_pa: 12.633
+  b_ab: 11.166
+  b_r: 1.371
+  b_h: 2.814
+  b_doubles: 0.555
+  b_triples: 0.06
+  b_hr: 0.246
+  b_rbi: 1.278
+  b_sb: 0.189
+  b_cs: 0.102
+  b_bb: 1.098
+  b_tb: 4.23
+  b_gidp: 0.252
+  b_hbp: 0.096
+  b_sh: 0.174
+  b_sf: 0.102
+  b_ibb: 0.117
+
+----------------------------------------
+
+CHC 2010 Per-Inning Averages:
+  b_pa: 4.211
+  b_ab: 3.781
+  b_r: 0.47
+  b_h: 0.97
+  b_doubles: 0.204
+  b_triples: 0.019
+  b_hr: 0.102
+  b_rbi: 0.451
+  b_sb: 0.038
+  b_cs: 0.021
+  b_bb: 0.329
+  b_tb: 1.518
+  b_gidp: 0.085
+  b_hbp: 0.034
+  b_sh: 0.041
+  b_sf: 0.026
+  b_ibb: 0.022
+
+CHC 2010 3-Inning Chunk Averages:
+  b_pa: 12.633
+  b_ab: 11.343
+  b_r: 1.41
+  b_h: 2.91
+  b_doubles: 0.612
+  b_triples: 0.057
+  b_hr: 0.306
+  b_rbi: 1.353
+  b_sb: 0.114
+  b_cs: 0.063
+  b_bb: 0.987
+  b_tb: 4.554
+  b_gidp: 0.255
+  b_hbp: 0.102
+  b_sh: 0.123
+  b_sf: 0.078
+  b_ibb: 0.066
+
+----------------------------------------
+
+CLE 2010 Per-Inning Averages:
+  b_pa: 4.228
+  b_ab: 3.763
+  b_r: 0.443
+  b_h: 0.934
+  b_doubles: 0.199
+  b_triples: 0.014
+  b_hr: 0.088
+  b_rbi: 0.412
+  b_sb: 0.062
+  b_cs: 0.023
+  b_bb: 0.374
+  b_tb: 1.424
+  b_gidp: 0.081
+  b_hbp: 0.044
+  b_sh: 0.025
+  b_sf: 0.023
+  b_ibb: 0.023
+
+CLE 2010 3-Inning Chunk Averages:
+  b_pa: 12.684
+  b_ab: 11.289
+  b_r: 1.329
+  b_h: 2.802
+  b_doubles: 0.597
+  b_triples: 0.042
+  b_hr: 0.264
+  b_rbi: 1.236
+  b_sb: 0.186
+  b_cs: 0.069
+  b_bb: 1.122
+  b_tb: 4.272
+  b_gidp: 0.243
+  b_hbp: 0.132
+  b_sh: 0.075
+  b_sf: 0.069
+  b_ibb: 0.069
+
+----------------------------------------
+
+WSN 2009 Per-Inning Averages:
+  b_pa: 4.302
+  b_ab: 3.767
+  b_r: 0.487
+  b_h: 0.971
+  b_doubles: 0.186
+  b_triples: 0.026
+  b_hr: 0.107
+  b_rbi: 0.47
+  b_sb: 0.05
+  b_cs: 0.027
+  b_bb: 0.423
+  b_tb: 1.53
+  b_gidp: 0.091
+  b_hbp: 0.038
+  b_sh: 0.044
+  b_sf: 0.029
+  b_ibb: 0.027
+
+WSN 2009 3-Inning Chunk Averages:
+  b_pa: 12.906
+  b_ab: 11.301
+  b_r: 1.461
+  b_h: 2.913
+  b_doubles: 0.558
+  b_triples: 0.078
+  b_hr: 0.321
+  b_rbi: 1.41
+  b_sb: 0.15
+  b_cs: 0.081
+  b_bb: 1.269
+  b_tb: 4.59
+  b_gidp: 0.273
+  b_hbp: 0.114
+  b_sh: 0.132
+  b_sf: 0.087
+  b_ibb: 0.081
+
+----------------------------------------
+
+ARI 2009 Per-Inning Averages:
+  b_pa: 4.3
+  b_ab: 3.817
+  b_r: 0.494
+  b_h: 0.966
+  b_doubles: 0.211
+  b_triples: 0.031
+  b_hr: 0.119
+  b_rbi: 0.471
+  b_sb: 0.07
+  b_cs: 0.027
+  b_bb: 0.392
+  b_tb: 1.594
+  b_gidp: 0.064
+  b_hbp: 0.025
+  b_sh: 0.037
+  b_sf: 0.028
+  b_ibb: 0.032
+
+ARI 2009 3-Inning Chunk Averages:
+  b_pa: 12.9
+  b_ab: 11.451
+  b_r: 1.482
+  b_h: 2.898
+  b_doubles: 0.633
+  b_triples: 0.093
+  b_hr: 0.357
+  b_rbi: 1.413
+  b_sb: 0.21
+  b_cs: 0.081
+  b_bb: 1.176
+  b_tb: 4.782
+  b_gidp: 0.192
+  b_hbp: 0.075
+  b_sh: 0.111
+  b_sf: 0.084
+  b_ibb: 0.096
+
+----------------------------------------
+
+STL 2009 Per-Inning Averages:
+  b_pa: 4.23
+  b_ab: 3.748
+  b_r: 0.501
+  b_h: 0.985
+  b_doubles: 0.202
+  b_triples: 0.02
+  b_hr: 0.11
+  b_rbi: 0.476
+  b_sb: 0.051
+  b_cs: 0.021
+  b_bb: 0.362
+  b_tb: 1.556
+  b_gidp: 0.087
+  b_hbp: 0.042
+  b_sh: 0.047
+  b_sf: 0.029
+  b_ibb: 0.05
+
+STL 2009 3-Inning Chunk Averages:
+  b_pa: 12.69
+  b_ab: 11.244
+  b_r: 1.503
+  b_h: 2.955
+  b_doubles: 0.606
+  b_triples: 0.06
+  b_hr: 0.33
+  b_rbi: 1.428
+  b_sb: 0.153
+  b_cs: 0.063
+  b_bb: 1.086
+  b_tb: 4.668
+  b_gidp: 0.261
+  b_hbp: 0.126
+  b_sh: 0.141
+  b_sf: 0.087
+  b_ibb: 0.15
+
+----------------------------------------
+
+BOS 2009 Per-Inning Averages:
+  b_pa: 4.351
+  b_ab: 3.802
+  b_r: 0.598
+  b_h: 1.025
+  b_doubles: 0.23
+  b_triples: 0.017
+  b_hr: 0.145
+  b_rbi: 0.564
+  b_sb: 0.086
+  b_cs: 0.027
+  b_bb: 0.452
+  b_tb: 1.726
+  b_gidp: 0.094
+  b_hbp: 0.048
+  b_sh: 0.013
+  b_sf: 0.035
+  b_ibb: 0.027
+
+BOS 2009 3-Inning Chunk Averages:
+  b_pa: 13.053
+  b_ab: 11.406
+  b_r: 1.794
+  b_h: 3.075
+  b_doubles: 0.69
+  b_triples: 0.051
+  b_hr: 0.435
+  b_rbi: 1.692
+  b_sb: 0.258
+  b_cs: 0.081
+  b_bb: 1.356
+  b_tb: 5.178
+  b_gidp: 0.282
+  b_hbp: 0.144
+  b_sh: 0.039
+  b_sf: 0.105
+  b_ibb: 0.081
+
+----------------------------------------
+
+MIN 2009 Per-Inning Averages:
+  b_pa: 4.326
+  b_ab: 3.823
+  b_r: 0.557
+  b_h: 1.049
+  b_doubles: 0.185
+  b_triples: 0.027
+  b_hr: 0.117
+  b_rbi: 0.525
+  b_sb: 0.058
+  b_cs: 0.022
+  b_bb: 0.399
+  b_tb: 1.64
+  b_gidp: 0.1
+  b_hbp: 0.031
+  b_sh: 0.035
+  b_sf: 0.039
+  b_ibb: 0.031
+
+MIN 2009 3-Inning Chunk Averages:
+  b_pa: 12.978
+  b_ab: 11.469
+  b_r: 1.671
+  b_h: 3.147
+  b_doubles: 0.555
+  b_triples: 0.081
+  b_hr: 0.351
+  b_rbi: 1.575
+  b_sb: 0.174
+  b_cs: 0.066
+  b_bb: 1.197
+  b_tb: 4.92
+  b_gidp: 0.3
+  b_hbp: 0.093
+  b_sh: 0.105
+  b_sf: 0.117
+  b_ibb: 0.093
+
+----------------------------------------
+
+SFG 2009 Per-Inning Averages:
+  b_pa: 4.154
+  b_ab: 3.767
+  b_r: 0.451
+  b_h: 0.968
+  b_doubles: 0.189
+  b_triples: 0.029
+  b_hr: 0.084
+  b_rbi: 0.42
+  b_sb: 0.053
+  b_cs: 0.019
+  b_bb: 0.269
+  b_tb: 1.466
+  b_gidp: 0.079
+  b_hbp: 0.034
+  b_sh: 0.046
+  b_sf: 0.038
+  b_ibb: 0.028
+
+SFG 2009 3-Inning Chunk Averages:
+  b_pa: 12.462
+  b_ab: 11.301
+  b_r: 1.353
+  b_h: 2.904
+  b_doubles: 0.567
+  b_triples: 0.087
+  b_hr: 0.252
+  b_rbi: 1.26
+  b_sb: 0.159
+  b_cs: 0.057
+  b_bb: 0.807
+  b_tb: 4.398
+  b_gidp: 0.237
+  b_hbp: 0.102
+  b_sh: 0.138
+  b_sf: 0.114
+  b_ibb: 0.084
+
+----------------------------------------
+
+CIN 2009 Per-Inning Averages:
+  b_pa: 4.243
+  b_ab: 3.746
+  b_r: 0.462
+  b_h: 0.925
+  b_doubles: 0.192
+  b_triples: 0.017
+  b_hr: 0.108
+  b_rbi: 0.437
+  b_sb: 0.066
+  b_cs: 0.027
+  b_bb: 0.364
+  b_tb: 1.477
+  b_gidp: 0.071
+  b_hbp: 0.036
+  b_sh: 0.069
+  b_sf: 0.028
+  b_ibb: 0.025
+
+CIN 2009 3-Inning Chunk Averages:
+  b_pa: 12.729
+  b_ab: 11.238
+  b_r: 1.386
+  b_h: 2.775
+  b_doubles: 0.576
+  b_triples: 0.051
+  b_hr: 0.324
+  b_rbi: 1.311
+  b_sb: 0.198
+  b_cs: 0.081
+  b_bb: 1.092
+  b_tb: 4.431
+  b_gidp: 0.213
+  b_hbp: 0.108
+  b_sh: 0.207
+  b_sf: 0.084
+  b_ibb: 0.075
+
+----------------------------------------
+
+COL 2009 Per-Inning Averages:
+  b_pa: 4.281
+  b_ab: 3.702
+  b_r: 0.551
+  b_h: 0.966
+  b_doubles: 0.206
+  b_triples: 0.034
+  b_hr: 0.13
+  b_rbi: 0.521
+  b_sb: 0.073
+  b_cs: 0.038
+  b_bb: 0.453
+  b_tb: 1.631
+  b_gidp: 0.076
+  b_hbp: 0.032
+  b_sh: 0.052
+  b_sf: 0.041
+  b_ibb: 0.027
+
+COL 2009 3-Inning Chunk Averages:
+  b_pa: 12.843
+  b_ab: 11.106
+  b_r: 1.653
+  b_h: 2.898
+  b_doubles: 0.618
+  b_triples: 0.102
+  b_hr: 0.39
+  b_rbi: 1.563
+  b_sb: 0.219
+  b_cs: 0.114
+  b_bb: 1.359
+  b_tb: 4.893
+  b_gidp: 0.228
+  b_hbp: 0.096
+  b_sh: 0.156
+  b_sf: 0.123
+  b_ibb: 0.081
+
+----------------------------------------
+
+MIL 2009 Per-Inning Averages:
+  b_pa: 4.318
+  b_ab: 3.779
+  b_r: 0.538
+  b_h: 0.992
+  b_doubles: 0.193
+  b_triples: 0.025
+  b_hr: 0.125
+  b_rbi: 0.519
+  b_sb: 0.047
+  b_cs: 0.025
+  b_bb: 0.418
+  b_tb: 1.61
+  b_gidp: 0.088
+  b_hbp: 0.049
+  b_sh: 0.04
+  b_sf: 0.032
+  b_ibb: 0.03
+
+MIL 2009 3-Inning Chunk Averages:
+  b_pa: 12.954
+  b_ab: 11.337
+  b_r: 1.614
+  b_h: 2.976
+  b_doubles: 0.579
+  b_triples: 0.075
+  b_hr: 0.375
+  b_rbi: 1.557
+  b_sb: 0.141
+  b_cs: 0.075
+  b_bb: 1.254
+  b_tb: 4.83
+  b_gidp: 0.264
+  b_hbp: 0.147
+  b_sh: 0.12
+  b_sf: 0.096
+  b_ibb: 0.09
+
+----------------------------------------
+
+PHI 2009 Per-Inning Averages:
+  b_pa: 4.347
+  b_ab: 3.826
+  b_r: 0.562
+  b_h: 0.987
+  b_doubles: 0.214
+  b_triples: 0.024
+  b_hr: 0.154
+  b_rbi: 0.54
+  b_sb: 0.082
+  b_cs: 0.019
+  b_bb: 0.404
+  b_tb: 1.71
+  b_gidp: 0.062
+  b_hbp: 0.049
+  b_sh: 0.038
+  b_sf: 0.031
+  b_ibb: 0.032
+
+PHI 2009 3-Inning Chunk Averages:
+  b_pa: 13.041
+  b_ab: 11.478
+  b_r: 1.686
+  b_h: 2.961
+  b_doubles: 0.642
+  b_triples: 0.072
+  b_hr: 0.462
+  b_rbi: 1.62
+  b_sb: 0.246
+  b_cs: 0.057
+  b_bb: 1.212
+  b_tb: 5.13
+  b_gidp: 0.186
+  b_hbp: 0.147
+  b_sh: 0.114
+  b_sf: 0.093
+  b_ibb: 0.096
+
+----------------------------------------
+
+CHW 2009 Per-Inning Averages:
+  b_pa: 4.206
+  b_ab: 3.747
+  b_r: 0.497
+  b_h: 0.967
+  b_doubles: 0.169
+  b_triples: 0.014
+  b_hr: 0.126
+  b_rbi: 0.477
+  b_sb: 0.078
+  b_cs: 0.034
+  b_bb: 0.366
+  b_tb: 1.542
+  b_gidp: 0.095
+  b_hbp: 0.043
+  b_sh: 0.023
+  b_sf: 0.027
+  b_ibb: 0.017
+
+CHW 2009 3-Inning Chunk Averages:
+  b_pa: 12.618
+  b_ab: 11.241
+  b_r: 1.491
+  b_h: 2.901
+  b_doubles: 0.507
+  b_triples: 0.042
+  b_hr: 0.378
+  b_rbi: 1.431
+  b_sb: 0.234
+  b_cs: 0.102
+  b_bb: 1.098
+  b_tb: 4.626
+  b_gidp: 0.285
+  b_hbp: 0.129
+  b_sh: 0.069
+  b_sf: 0.081
+  b_ibb: 0.051
+
+----------------------------------------
+
+SFG 2008 Per-Inning Averages:
+  b_pa: 4.215
+  b_ab: 3.802
+  b_r: 0.439
+  b_h: 0.996
+  b_doubles: 0.213
+  b_triples: 0.025
+  b_hr: 0.064
+  b_rbi: 0.416
+  b_sb: 0.074
+  b_cs: 0.032
+  b_bb: 0.31
+  b_tb: 1.453
+  b_gidp: 0.095
+  b_hbp: 0.033
+  b_sh: 0.039
+  b_sf: 0.03
+  b_ibb: 0.031
+
+SFG 2008 3-Inning Chunk Averages:
+  b_pa: 12.645
+  b_ab: 11.406
+  b_r: 1.317
+  b_h: 2.988
+  b_doubles: 0.639
+  b_triples: 0.075
+  b_hr: 0.192
+  b_rbi: 1.248
+  b_sb: 0.222
+  b_cs: 0.096
+  b_bb: 0.93
+  b_tb: 4.359
+  b_gidp: 0.285
+  b_hbp: 0.099
+  b_sh: 0.117
+  b_sf: 0.09
+  b_ibb: 0.093
+
+----------------------------------------
+
+STL 2008 Per-Inning Averages:
+  b_pa: 4.369
+  b_ab: 3.866
+  b_r: 0.534
+  b_h: 1.087
+  b_doubles: 0.194
+  b_triples: 0.018
+  b_hr: 0.119
+  b_rbi: 0.51
+  b_sb: 0.05
+  b_cs: 0.022
+  b_bb: 0.396
+  b_tb: 1.675
+  b_gidp: 0.103
+  b_hbp: 0.029
+  b_sh: 0.049
+  b_sf: 0.03
+  b_ibb: 0.043
+
+STL 2008 3-Inning Chunk Averages:
+  b_pa: 13.107
+  b_ab: 11.598
+  b_r: 1.602
+  b_h: 3.261
+  b_doubles: 0.582
+  b_triples: 0.054
+  b_hr: 0.357
+  b_rbi: 1.53
+  b_sb: 0.15
+  b_cs: 0.066
+  b_bb: 1.188
+  b_tb: 5.025
+  b_gidp: 0.309
+  b_hbp: 0.087
+  b_sh: 0.147
+  b_sf: 0.09
+  b_ibb: 0.129
+
+----------------------------------------
+
+CIN 2008 Per-Inning Averages:
+  b_pa: 4.244
+  b_ab: 3.748
+  b_r: 0.483
+  b_h: 0.927
+  b_doubles: 0.184
+  b_triples: 0.016
+  b_hr: 0.128
+  b_rbi: 0.464
+  b_sb: 0.058
+  b_cs: 0.032
+  b_bb: 0.384
+  b_tb: 1.529
+  b_gidp: 0.069
+  b_hbp: 0.034
+  b_sh: 0.049
+  b_sf: 0.028
+  b_ibb: 0.034
+
+CIN 2008 3-Inning Chunk Averages:
+  b_pa: 12.732
+  b_ab: 11.244
+  b_r: 1.449
+  b_h: 2.781
+  b_doubles: 0.552
+  b_triples: 0.048
+  b_hr: 0.384
+  b_rbi: 1.392
+  b_sb: 0.174
+  b_cs: 0.096
+  b_bb: 1.152
+  b_tb: 4.587
+  b_gidp: 0.207
+  b_hbp: 0.102
+  b_sh: 0.147
+  b_sf: 0.084
+  b_ibb: 0.102
+
+----------------------------------------
+
+ARI 2008 Per-Inning Averages:
+  b_pa: 4.222
+  b_ab: 3.71
+  b_r: 0.494
+  b_h: 0.929
+  b_doubles: 0.218
+  b_triples: 0.032
+  b_hr: 0.109
+  b_rbi: 0.468
+  b_sb: 0.04
+  b_cs: 0.016
+  b_bb: 0.403
+  b_tb: 1.539
+  b_gidp: 0.072
+  b_hbp: 0.034
+  b_sh: 0.047
+  b_sf: 0.029
+  b_ibb: 0.034
+
+ARI 2008 3-Inning Chunk Averages:
+  b_pa: 12.666
+  b_ab: 11.13
+  b_r: 1.482
+  b_h: 2.787
+  b_doubles: 0.654
+  b_triples: 0.096
+  b_hr: 0.327
+  b_rbi: 1.404
+  b_sb: 0.12
+  b_cs: 0.048
+  b_bb: 1.209
+  b_tb: 4.617
+  b_gidp: 0.216
+  b_hbp: 0.102
+  b_sh: 0.141
+  b_sf: 0.087
+  b_ibb: 0.102
+
+----------------------------------------
+
+CHW 2008 Per-Inning Averages:
+  b_pa: 4.247
+  b_ab: 3.785
+  b_r: 0.553
+  b_h: 0.994
+  b_doubles: 0.202
+  b_triples: 0.009
+  b_hr: 0.16
+  b_rbi: 0.535
+  b_sb: 0.046
+  b_cs: 0.023
+  b_bb: 0.368
+  b_tb: 1.694
+  b_gidp: 0.107
+  b_hbp: 0.043
+  b_sh: 0.019
+  b_sf: 0.032
+  b_ibb: 0.022
+
+CHW 2008 3-Inning Chunk Averages:
+  b_pa: 12.741
+  b_ab: 11.355
+  b_r: 1.659
+  b_h: 2.982
+  b_doubles: 0.606
+  b_triples: 0.027
+  b_hr: 0.48
+  b_rbi: 1.605
+  b_sb: 0.138
+  b_cs: 0.069
+  b_bb: 1.104
+  b_tb: 5.082
+  b_gidp: 0.321
+  b_hbp: 0.129
+  b_sh: 0.057
+  b_sf: 0.096
+  b_ibb: 0.066
+
+----------------------------------------
+
+SDP 2008 Per-Inning Averages:
+  b_pa: 4.283
+  b_ab: 3.819
+  b_r: 0.437
+  b_h: 0.953
+  b_doubles: 0.181
+  b_triples: 0.019
+  b_hr: 0.106
+  b_rbi: 0.422
+  b_sb: 0.025
+  b_cs: 0.012
+  b_bb: 0.355
+  b_tb: 1.488
+  b_gidp: 0.088
+  b_hbp: 0.036
+  b_sh: 0.04
+  b_sf: 0.032
+  b_ibb: 0.024
+
+SDP 2008 3-Inning Chunk Averages:
+  b_pa: 12.849
+  b_ab: 11.457
+  b_r: 1.311
+  b_h: 2.859
+  b_doubles: 0.543
+  b_triples: 0.057
+  b_hr: 0.318
+  b_rbi: 1.266
+  b_sb: 0.075
+  b_cs: 0.036
+  b_bb: 1.065
+  b_tb: 4.464
+  b_gidp: 0.264
+  b_hbp: 0.108
+  b_sh: 0.12
+  b_sf: 0.096
+  b_ibb: 0.072
+
+----------------------------------------
+
+OAK 2008 Per-Inning Averages:
+  b_pa: 4.236
+  b_ab: 3.762
+  b_r: 0.446
+  b_h: 0.91
+  b_doubles: 0.186
+  b_triples: 0.016
+  b_hr: 0.086
+  b_rbi: 0.421
+  b_sb: 0.061
+  b_cs: 0.014
+  b_bb: 0.396
+  b_tb: 1.386
+  b_gidp: 0.087
+  b_hbp: 0.033
+  b_sh: 0.021
+  b_sf: 0.024
+  b_ibb: 0.016
+
+OAK 2008 3-Inning Chunk Averages:
+  b_pa: 12.708
+  b_ab: 11.286
+  b_r: 1.338
+  b_h: 2.73
+  b_doubles: 0.558
+  b_triples: 0.048
+  b_hr: 0.258
+  b_rbi: 1.263
+  b_sb: 0.183
+  b_cs: 0.042
+  b_bb: 1.188
+  b_tb: 4.158
+  b_gidp: 0.261
+  b_hbp: 0.099
+  b_sh: 0.063
+  b_sf: 0.072
+  b_ibb: 0.048
+
+----------------------------------------
+
+HOU 2007 Per-Inning Averages:
+  b_pa: 4.337
+  b_ab: 3.844
+  b_r: 0.496
+  b_h: 0.999
+  b_doubles: 0.201
+  b_triples: 0.021
+  b_hr: 0.115
+  b_rbi: 0.48
+  b_sb: 0.045
+  b_cs: 0.023
+  b_bb: 0.375
+  b_tb: 1.585
+  b_gidp: 0.097
+  b_hbp: 0.038
+  b_sh: 0.053
+  b_sf: 0.027
+  b_ibb: 0.027
+
+HOU 2007 3-Inning Chunk Averages:
+  b_pa: 13.011
+  b_ab: 11.532
+  b_r: 1.488
+  b_h: 2.997
+  b_doubles: 0.603
+  b_triples: 0.063
+  b_hr: 0.345
+  b_rbi: 1.44
+  b_sb: 0.135
+  b_cs: 0.069
+  b_bb: 1.125
+  b_tb: 4.755
+  b_gidp: 0.291
+  b_hbp: 0.114
+  b_sh: 0.159
+  b_sf: 0.081
+  b_ibb: 0.081
+
+----------------------------------------
+
+LAD 2007 Per-Inning Averages:
+  b_pa: 4.309
+  b_ab: 3.85
+  b_r: 0.504
+  b_h: 1.059
+  b_doubles: 0.189
+  b_triples: 0.024
+  b_hr: 0.088
+  b_rbi: 0.484
+  b_sb: 0.094
+  b_cs: 0.034
+  b_bb: 0.35
+  b_tb: 1.562
+  b_gidp: 0.08
+  b_hbp: 0.028
+  b_sh: 0.04
+  b_sf: 0.038
+  b_ibb: 0.028
+
+LAD 2007 3-Inning Chunk Averages:
+  b_pa: 12.927
+  b_ab: 11.55
+  b_r: 1.512
+  b_h: 3.177
+  b_doubles: 0.567
+  b_triples: 0.072
+  b_hr: 0.264
+  b_rbi: 1.452
+  b_sb: 0.282
+  b_cs: 0.102
+  b_bb: 1.05
+  b_tb: 4.686
+  b_gidp: 0.24
+  b_hbp: 0.084
+  b_sh: 0.12
+  b_sf: 0.114
+  b_ibb: 0.084
+
+----------------------------------------
+
+OAK 2007 Per-Inning Averages:
+  b_pa: 4.366
+  b_ab: 3.825
+  b_r: 0.508
+  b_h: 0.981
+  b_doubles: 0.202
+  b_triples: 0.011
+  b_hr: 0.117
+  b_rbi: 0.488
+  b_sb: 0.036
+  b_cs: 0.014
+  b_bb: 0.455
+  b_tb: 1.557
+  b_gidp: 0.097
+  b_hbp: 0.034
+  b_sh: 0.012
+  b_sf: 0.038
+  b_ibb: 0.02
+
+OAK 2007 3-Inning Chunk Averages:
+  b_pa: 13.098
+  b_ab: 11.475
+  b_r: 1.524
+  b_h: 2.943
+  b_doubles: 0.606
+  b_triples: 0.033
+  b_hr: 0.351
+  b_rbi: 1.464
+  b_sb: 0.108
+  b_cs: 0.042
+  b_bb: 1.365
+  b_tb: 4.671
+  b_gidp: 0.291
+  b_hbp: 0.102
+  b_sh: 0.036
+  b_sf: 0.114
+  b_ibb: 0.06
+
+----------------------------------------
+
+BOS 2007 Per-Inning Averages:
+  b_pa: 4.407
+  b_ab: 3.833
+  b_r: 0.595
+  b_h: 1.071
+  b_doubles: 0.241
+  b_triples: 0.024
+  b_hr: 0.114
+  b_rbi: 0.569
+  b_sb: 0.066
+  b_cs: 0.016
+  b_bb: 0.473
+  b_tb: 1.702
+  b_gidp: 0.1
+  b_hbp: 0.044
+  b_sh: 0.021
+  b_sf: 0.037
+  b_ibb: 0.037
+
+BOS 2007 3-Inning Chunk Averages:
+  b_pa: 13.221
+  b_ab: 11.499
+  b_r: 1.785
+  b_h: 3.213
+  b_doubles: 0.723
+  b_triples: 0.072
+  b_hr: 0.342
+  b_rbi: 1.707
+  b_sb: 0.198
+  b_cs: 0.048
+  b_bb: 1.419
+  b_tb: 5.106
+  b_gidp: 0.3
+  b_hbp: 0.132
+  b_sh: 0.063
+  b_sf: 0.111
+  b_ibb: 0.111
+
+----------------------------------------
+
+WSN 2006 Per-Inning Averages:
+  b_pa: 4.309
+  b_ab: 3.769
+  b_r: 0.512
+  b_h: 0.986
+  b_doubles: 0.221
+  b_triples: 0.015
+  b_hr: 0.112
+  b_rbi: 0.477
+  b_sb: 0.084
+  b_cs: 0.043
+  b_bb: 0.407
+  b_tb: 1.574
+  b_gidp: 0.081
+  b_hbp: 0.047
+  b_sh: 0.052
+  b_sf: 0.034
+  b_ibb: 0.045
+
+WSN 2006 3-Inning Chunk Averages:
+  b_pa: 12.927
+  b_ab: 11.307
+  b_r: 1.536
+  b_h: 2.958
+  b_doubles: 0.663
+  b_triples: 0.045
+  b_hr: 0.336
+  b_rbi: 1.431
+  b_sb: 0.252
+  b_cs: 0.129
+  b_bb: 1.221
+  b_tb: 4.722
+  b_gidp: 0.243
+  b_hbp: 0.141
+  b_sh: 0.156
+  b_sf: 0.102
+  b_ibb: 0.135
+
+----------------------------------------
+
+PIT 2006 Per-Inning Averages:
+  b_pa: 4.265
+  b_ab: 3.812
+  b_r: 0.474
+  b_h: 1.003
+  b_doubles: 0.196
+  b_triples: 0.012
+  b_hr: 0.097
+  b_rbi: 0.45
+  b_sb: 0.047
+  b_cs: 0.016
+  b_bb: 0.315
+  b_tb: 1.512
+  b_gidp: 0.105
+  b_hbp: 0.061
+  b_sh: 0.043
+  b_sf: 0.034
+  b_ibb: 0.034
+
+PIT 2006 3-Inning Chunk Averages:
+  b_pa: 12.795
+  b_ab: 11.436
+  b_r: 1.422
+  b_h: 3.009
+  b_doubles: 0.588
+  b_triples: 0.036
+  b_hr: 0.291
+  b_rbi: 1.35
+  b_sb: 0.141
+  b_cs: 0.048
+  b_bb: 0.945
+  b_tb: 4.536
+  b_gidp: 0.315
+  b_hbp: 0.183
+  b_sh: 0.129
+  b_sf: 0.102
+  b_ibb: 0.102
+
+----------------------------------------
+
+MIN 2006 Per-Inning Averages:
+  b_pa: 4.272
+  b_ab: 3.842
+  b_r: 0.549
+  b_h: 1.103
+  b_doubles: 0.189
+  b_triples: 0.023
+  b_hr: 0.098
+  b_rbi: 0.517
+  b_sb: 0.069
+  b_cs: 0.029
+  b_bb: 0.336
+  b_tb: 1.632
+  b_gidp: 0.112
+  b_hbp: 0.034
+  b_sh: 0.021
+  b_sf: 0.038
+  b_ibb: 0.032
+
+MIN 2006 3-Inning Chunk Averages:
+  b_pa: 12.816
+  b_ab: 11.526
+  b_r: 1.647
+  b_h: 3.309
+  b_doubles: 0.567
+  b_triples: 0.069
+  b_hr: 0.294
+  b_rbi: 1.551
+  b_sb: 0.207
+  b_cs: 0.087
+  b_bb: 1.008
+  b_tb: 4.896
+  b_gidp: 0.336
+  b_hbp: 0.102
+  b_sh: 0.063
+  b_sf: 0.114
+  b_ibb: 0.096
+
+----------------------------------------
+
+CIN 2006 Per-Inning Averages:
+  b_pa: 4.318
+  b_ab: 3.783
+  b_r: 0.514
+  b_h: 0.973
+  b_doubles: 0.2
+  b_triples: 0.008
+  b_hr: 0.149
+  b_rbi: 0.492
+  b_sb: 0.085
+  b_cs: 0.023
+  b_bb: 0.421
+  b_tb: 1.636
+  b_gidp: 0.084
+  b_hbp: 0.04
+  b_sh: 0.045
+  b_sf: 0.026
+  b_ibb: 0.036
+
+CIN 2006 3-Inning Chunk Averages:
+  b_pa: 12.954
+  b_ab: 11.349
+  b_r: 1.542
+  b_h: 2.919
+  b_doubles: 0.6
+  b_triples: 0.024
+  b_hr: 0.447
+  b_rbi: 1.476
+  b_sb: 0.255
+  b_cs: 0.069
+  b_bb: 1.263
+  b_tb: 4.908
+  b_gidp: 0.252
+  b_hbp: 0.12
+  b_sh: 0.135
+  b_sf: 0.078
+  b_ibb: 0.108
+
+----------------------------------------
+
+FLA 2006 Per-Inning Averages:
+  b_pa: 4.246
+  b_ab: 3.774
+  b_r: 0.52
+  b_h: 0.997
+  b_doubles: 0.212
+  b_triples: 0.029
+  b_hr: 0.125
+  b_rbi: 0.489
+  b_sb: 0.075
+  b_cs: 0.04
+  b_bb: 0.341
+  b_tb: 1.641
+  b_gidp: 0.075
+  b_hbp: 0.051
+  b_sh: 0.052
+  b_sf: 0.029
+  b_ibb: 0.038
+
+FLA 2006 3-Inning Chunk Averages:
+  b_pa: 12.738
+  b_ab: 11.322
+  b_r: 1.56
+  b_h: 2.991
+  b_doubles: 0.636
+  b_triples: 0.087
+  b_hr: 0.375
+  b_rbi: 1.467
+  b_sb: 0.225
+  b_cs: 0.12
+  b_bb: 1.023
+  b_tb: 4.923
+  b_gidp: 0.225
+  b_hbp: 0.153
+  b_sh: 0.156
+  b_sf: 0.087
+  b_ibb: 0.114
+
+----------------------------------------
+
+SEA 2006 Per-Inning Averages:
+  b_pa: 4.261
+  b_ab: 3.889
+  b_r: 0.519
+  b_h: 1.056
+  b_doubles: 0.182
+  b_triples: 0.029
+  b_hr: 0.118
+  b_rbi: 0.482
+  b_sb: 0.073
+  b_cs: 0.025
+  b_bb: 0.277
+  b_tb: 1.65
+  b_gidp: 0.08
+  b_hbp: 0.043
+  b_sh: 0.026
+  b_sf: 0.026
+  b_ibb: 0.034
+
+SEA 2006 3-Inning Chunk Averages:
+  b_pa: 12.783
+  b_ab: 11.667
+  b_r: 1.557
+  b_h: 3.168
+  b_doubles: 0.546
+  b_triples: 0.087
+  b_hr: 0.354
+  b_rbi: 1.446
+  b_sb: 0.219
+  b_cs: 0.075
+  b_bb: 0.831
+  b_tb: 4.95
+  b_gidp: 0.24
+  b_hbp: 0.129
+  b_sh: 0.078
+  b_sf: 0.078
+  b_ibb: 0.102
+
+----------------------------------------
+
+KCR 2006 Per-Inning Averages:
+  b_pa: 4.272
+  b_ab: 3.833
+  b_r: 0.519
+  b_h: 1.039
+  b_doubles: 0.23
+  b_triples: 0.025
+  b_hr: 0.085
+  b_rbi: 0.492
+  b_sb: 0.045
+  b_cs: 0.023
+  b_bb: 0.325
+  b_tb: 1.575
+  b_gidp: 0.089
+  b_hbp: 0.044
+  b_sh: 0.036
+  b_sf: 0.033
+  b_ibb: 0.022
+
+KCR 2006 3-Inning Chunk Averages:
+  b_pa: 12.816
+  b_ab: 11.499
+  b_r: 1.557
+  b_h: 3.117
+  b_doubles: 0.69
+  b_triples: 0.075
+  b_hr: 0.255
+  b_rbi: 1.476
+  b_sb: 0.135
+  b_cs: 0.069
+  b_bb: 0.975
+  b_tb: 4.725
+  b_gidp: 0.267
+  b_hbp: 0.132
+  b_sh: 0.108
+  b_sf: 0.099
+  b_ibb: 0.066
+
+----------------------------------------
+
+LAA 2006 Per-Inning Averages:
+  b_pa: 4.267
+  b_ab: 3.847
+  b_r: 0.525
+  b_h: 1.056
+  b_doubles: 0.212
+  b_triples: 0.02
+  b_hr: 0.109
+  b_rbi: 0.505
+  b_sb: 0.102
+  b_cs: 0.039
+  b_bb: 0.333
+  b_tb: 1.634
+  b_gidp: 0.086
+  b_hbp: 0.029
+  b_sh: 0.021
+  b_sf: 0.036
+  b_ibb: 0.034
+
+LAA 2006 3-Inning Chunk Averages:
+  b_pa: 12.801
+  b_ab: 11.541
+  b_r: 1.575
+  b_h: 3.168
+  b_doubles: 0.636
+  b_triples: 0.06
+  b_hr: 0.327
+  b_rbi: 1.515
+  b_sb: 0.306
+  b_cs: 0.117
+  b_bb: 0.999
+  b_tb: 4.902
+  b_gidp: 0.258
+  b_hbp: 0.087
+  b_sh: 0.063
+  b_sf: 0.108
+  b_ibb: 0.102
+
+----------------------------------------
+
+BAL 2006 Per-Inning Averages:
+  b_pa: 4.28
+  b_ab: 3.848
+  b_r: 0.527
+  b_h: 1.067
+  b_doubles: 0.198
+  b_triples: 0.014
+  b_hr: 0.112
+  b_rbi: 0.499
+  b_sb: 0.083
+  b_cs: 0.022
+  b_bb: 0.325
+  b_tb: 1.63
+  b_gidp: 0.099
+  b_hbp: 0.05
+  b_sh: 0.027
+  b_sf: 0.028
+  b_ibb: 0.024
+
+BAL 2006 3-Inning Chunk Averages:
+  b_pa: 12.84
+  b_ab: 11.544
+  b_r: 1.581
+  b_h: 3.201
+  b_doubles: 0.594
+  b_triples: 0.042
+  b_hr: 0.336
+  b_rbi: 1.497
+  b_sb: 0.249
+  b_cs: 0.066
+  b_bb: 0.975
+  b_tb: 4.89
+  b_gidp: 0.297
+  b_hbp: 0.15
+  b_sh: 0.081
+  b_sf: 0.084
+  b_ibb: 0.072
+
+----------------------------------------
+
+ATL 2005 Per-Inning Averages:
+  b_pa: 4.243
+  b_ab: 3.763
+  b_r: 0.527
+  b_h: 0.997
+  b_doubles: 0.211
+  b_triples: 0.025
+  b_hr: 0.126
+  b_rbi: 0.503
+  b_sb: 0.063
+  b_cs: 0.022
+  b_bb: 0.366
+  b_tb: 1.637
+  b_gidp: 0.1
+  b_hbp: 0.031
+  b_sh: 0.051
+  b_sf: 0.032
+  b_ibb: 0.038
+
+ATL 2005 3-Inning Chunk Averages:
+  b_pa: 12.729
+  b_ab: 11.289
+  b_r: 1.581
+  b_h: 2.991
+  b_doubles: 0.633
+  b_triples: 0.075
+  b_hr: 0.378
+  b_rbi: 1.509
+  b_sb: 0.189
+  b_cs: 0.066
+  b_bb: 1.098
+  b_tb: 4.911
+  b_gidp: 0.3
+  b_hbp: 0.093
+  b_sh: 0.153
+  b_sf: 0.096
+  b_ibb: 0.114
+
+----------------------------------------
+
+KCR 2005 Per-Inning Averages:
+  b_pa: 4.174
+  b_ab: 3.774
+  b_r: 0.481
+  b_h: 0.991
+  b_doubles: 0.198
+  b_triples: 0.023
+  b_hr: 0.086
+  b_rbi: 0.448
+  b_sb: 0.036
+  b_cs: 0.023
+  b_bb: 0.291
+  b_tb: 1.495
+  b_gidp: 0.095
+  b_hbp: 0.043
+  b_sh: 0.032
+  b_sf: 0.034
+  b_ibb: 0.016
+
+KCR 2005 3-Inning Chunk Averages:
+  b_pa: 12.522
+  b_ab: 11.322
+  b_r: 1.443
+  b_h: 2.973
+  b_doubles: 0.594
+  b_triples: 0.069
+  b_hr: 0.258
+  b_rbi: 1.344
+  b_sb: 0.108
+  b_cs: 0.069
+  b_bb: 0.873
+  b_tb: 4.485
+  b_gidp: 0.285
+  b_hbp: 0.129
+  b_sh: 0.096
+  b_sf: 0.102
+  b_ibb: 0.048
+
+----------------------------------------
+
+SFG 2005 Per-Inning Averages:
+  b_pa: 4.168
+  b_ab: 3.746
+  b_r: 0.445
+  b_h: 0.979
+  b_doubles: 0.205
+  b_triples: 0.018
+  b_hr: 0.088
+  b_rbi: 0.423
+  b_sb: 0.049
+  b_cs: 0.024
+  b_bb: 0.296
+  b_tb: 1.483
+  b_gidp: 0.101
+  b_hbp: 0.034
+  b_sh: 0.062
+  b_sf: 0.03
+  b_ibb: 0.018
+
+SFG 2005 3-Inning Chunk Averages:
+  b_pa: 12.504
+  b_ab: 11.238
+  b_r: 1.335
+  b_h: 2.937
+  b_doubles: 0.615
+  b_triples: 0.054
+  b_hr: 0.264
+  b_rbi: 1.269
+  b_sb: 0.147
+  b_cs: 0.072
+  b_bb: 0.888
+  b_tb: 4.449
+  b_gidp: 0.303
+  b_hbp: 0.102
+  b_sh: 0.186
+  b_sf: 0.09
+  b_ibb: 0.054
+
+----------------------------------------
+
+SEA 2005 Per-Inning Averages:
+  b_pa: 4.18
+  b_ab: 3.777
+  b_r: 0.479
+  b_h: 0.966
+  b_doubles: 0.198
+  b_triples: 0.023
+  b_hr: 0.089
+  b_rbi: 0.451
+  b_sb: 0.07
+  b_cs: 0.032
+  b_bb: 0.32
+  b_tb: 1.478
+  b_gidp: 0.079
+  b_hbp: 0.033
+  b_sh: 0.025
+  b_sf: 0.025
+  b_ibb: 0.034
+
+SEA 2005 3-Inning Chunk Averages:
+  b_pa: 12.54
+  b_ab: 11.331
+  b_r: 1.437
+  b_h: 2.898
+  b_doubles: 0.594
+  b_triples: 0.069
+  b_hr: 0.267
+  b_rbi: 1.353
+  b_sb: 0.21
+  b_cs: 0.096
+  b_bb: 0.96
+  b_tb: 4.434
+  b_gidp: 0.237
+  b_hbp: 0.099
+  b_sh: 0.075
+  b_sf: 0.075
+  b_ibb: 0.102
+
+----------------------------------------
+
+OAK 2005 Per-Inning Averages:
+  b_pa: 4.304
+  b_ab: 3.859
+  b_r: 0.529
+  b_h: 1.012
+  b_doubles: 0.213
+  b_triples: 0.014
+  b_hr: 0.106
+  b_rbi: 0.507
+  b_sb: 0.021
+  b_cs: 0.015
+  b_bb: 0.368
+  b_tb: 1.571
+  b_gidp: 0.102
+  b_hbp: 0.036
+  b_sh: 0.013
+  b_sf: 0.027
+  b_ibb: 0.015
+
+OAK 2005 3-Inning Chunk Averages:
+  b_pa: 12.912
+  b_ab: 11.577
+  b_r: 1.587
+  b_h: 3.036
+  b_doubles: 0.639
+  b_triples: 0.042
+  b_hr: 0.318
+  b_rbi: 1.521
+  b_sb: 0.063
+  b_cs: 0.045
+  b_bb: 1.104
+  b_tb: 4.713
+  b_gidp: 0.306
+  b_hbp: 0.108
+  b_sh: 0.039
+  b_sf: 0.081
+  b_ibb: 0.045
+
+----------------------------------------
+
+MIL 2005 Per-Inning Averages:
+  b_pa: 4.222
+  b_ab: 3.737
+  b_r: 0.498
+  b_h: 0.969
+  b_doubles: 0.224
+  b_triples: 0.013
+  b_hr: 0.12
+  b_rbi: 0.473
+  b_sb: 0.054
+  b_cs: 0.023
+  b_bb: 0.364
+  b_tb: 1.58
+  b_gidp: 0.094
+  b_hbp: 0.05
+  b_sh: 0.045
+  b_sf: 0.026
+  b_ibb: 0.038
+
+MIL 2005 3-Inning Chunk Averages:
+  b_pa: 12.666
+  b_ab: 11.211
+  b_r: 1.494
+  b_h: 2.907
+  b_doubles: 0.672
+  b_triples: 0.039
+  b_hr: 0.36
+  b_rbi: 1.419
+  b_sb: 0.162
+  b_cs: 0.069
+  b_bb: 1.092
+  b_tb: 4.74
+  b_gidp: 0.282
+  b_hbp: 0.15
+  b_sh: 0.135
+  b_sf: 0.078
+  b_ibb: 0.114
+
+----------------------------------------
+
+FLA 2005 Per-Inning Averages:
+  b_pa: 4.262
+  b_ab: 3.774
+  b_r: 0.492
+  b_h: 1.028
+  b_doubles: 0.21
+  b_triples: 0.022
+  b_hr: 0.088
+  b_rbi: 0.465
+  b_sb: 0.066
+  b_cs: 0.026
+  b_bb: 0.351
+  b_tb: 1.545
+  b_gidp: 0.099
+  b_hbp: 0.046
+  b_sh: 0.056
+  b_sf: 0.034
+  b_ibb: 0.042
+
+FLA 2005 3-Inning Chunk Averages:
+  b_pa: 12.786
+  b_ab: 11.322
+  b_r: 1.476
+  b_h: 3.084
+  b_doubles: 0.63
+  b_triples: 0.066
+  b_hr: 0.264
+  b_rbi: 1.395
+  b_sb: 0.198
+  b_cs: 0.078
+  b_bb: 1.053
+  b_tb: 4.635
+  b_gidp: 0.297
+  b_hbp: 0.138
+  b_sh: 0.168
+  b_sf: 0.102
+  b_ibb: 0.126
+
+----------------------------------------
+
+BAL 2005 Per-Inning Averages:
+  b_pa: 4.207
+  b_ab: 3.807
+  b_r: 0.5
+  b_h: 1.023
+  b_doubles: 0.203
+  b_triples: 0.019
+  b_hr: 0.13
+  b_rbi: 0.48
+  b_sb: 0.057
+  b_cs: 0.025
+  b_bb: 0.307
+  b_tb: 1.652
+  b_gidp: 0.099
+  b_hbp: 0.037
+  b_sh: 0.027
+  b_sf: 0.029
+  b_ibb: 0.021
+
+BAL 2005 3-Inning Chunk Averages:
+  b_pa: 12.621
+  b_ab: 11.421
+  b_r: 1.5
+  b_h: 3.069
+  b_doubles: 0.609
+  b_triples: 0.057
+  b_hr: 0.39
+  b_rbi: 1.44
+  b_sb: 0.171
+  b_cs: 0.075
+  b_bb: 0.921
+  b_tb: 4.956
+  b_gidp: 0.297
+  b_hbp: 0.111
+  b_sh: 0.081
+  b_sf: 0.087
+  b_ibb: 0.063
+
+----------------------------------------
+
+CLE 2005 Per-Inning Averages:
+  b_pa: 4.29
+  b_ab: 3.847
+  b_r: 0.542
+  b_h: 1.044
+  b_doubles: 0.231
+  b_triples: 0.021
+  b_hr: 0.142
+  b_rbi: 0.521
+  b_sb: 0.043
+  b_cs: 0.025
+  b_bb: 0.345
+  b_tb: 1.742
+  b_gidp: 0.088
+  b_hbp: 0.037
+  b_sh: 0.027
+  b_sf: 0.034
+  b_ibb: 0.023
+
+CLE 2005 3-Inning Chunk Averages:
+  b_pa: 12.87
+  b_ab: 11.541
+  b_r: 1.626
+  b_h: 3.132
+  b_doubles: 0.693
+  b_triples: 0.063
+  b_hr: 0.426
+  b_rbi: 1.563
+  b_sb: 0.129
+  b_cs: 0.075
+  b_bb: 1.035
+  b_tb: 5.226
+  b_gidp: 0.264
+  b_hbp: 0.111
+  b_sh: 0.081
+  b_sf: 0.102
+  b_ibb: 0.069
+
+----------------------------------------
+
+CIN 2005 Per-Inning Averages:
+  b_pa: 4.309
+  b_ab: 3.793
+  b_r: 0.559
+  b_h: 0.99
+  b_doubles: 0.228
+  b_triples: 0.01
+  b_hr: 0.151
+  b_rbi: 0.534
+  b_sb: 0.049
+  b_cs: 0.016
+  b_bb: 0.416
+  b_tb: 1.693
+  b_gidp: 0.079
+  b_hbp: 0.042
+  b_sh: 0.029
+  b_sf: 0.027
+  b_ibb: 0.029
+
+CIN 2005 3-Inning Chunk Averages:
+  b_pa: 12.927
+  b_ab: 11.379
+  b_r: 1.677
+  b_h: 2.97
+  b_doubles: 0.684
+  b_triples: 0.03
+  b_hr: 0.453
+  b_rbi: 1.602
+  b_sb: 0.147
+  b_cs: 0.048
+  b_bb: 1.248
+  b_tb: 5.079
+  b_gidp: 0.237
+  b_hbp: 0.126
+  b_sh: 0.087
+  b_sf: 0.081
+  b_ibb: 0.087
+
+----------------------------------------
+
+CHW 2005 Per-Inning Averages:
+  b_pa: 4.215
+  b_ab: 3.792
+  b_r: 0.508
+  b_h: 0.995
+  b_doubles: 0.174
+  b_triples: 0.016
+  b_hr: 0.137
+  b_rbi: 0.489
+  b_sb: 0.094
+  b_cs: 0.046
+  b_bb: 0.298
+  b_tb: 1.611
+  b_gidp: 0.084
+  b_hbp: 0.054
+  b_sh: 0.036
+  b_sf: 0.034
+  b_ibb: 0.019
+
+CHW 2005 3-Inning Chunk Averages:
+  b_pa: 12.645
+  b_ab: 11.376
+  b_r: 1.524
+  b_h: 2.985
+  b_doubles: 0.522
+  b_triples: 0.048
+  b_hr: 0.411
+  b_rbi: 1.467
+  b_sb: 0.282
+  b_cs: 0.138
+  b_bb: 0.894
+  b_tb: 4.833
+  b_gidp: 0.252
+  b_hbp: 0.162
+  b_sh: 0.108
+  b_sf: 0.102
+  b_ibb: 0.057
+
+----------------------------------------
+
+ARI 2004 Per-Inning Averages:
+  b_pa: 4.193
+  b_ab: 3.802
+  b_r: 0.422
+  b_h: 0.961
+  b_doubles: 0.202
+  b_triples: 0.026
+  b_hr: 0.093
+  b_rbi: 0.399
+  b_sb: 0.036
+  b_cs: 0.022
+  b_bb: 0.302
+  b_tb: 1.493
+  b_gidp: 0.094
+  b_hbp: 0.024
+  b_sh: 0.038
+  b_sf: 0.025
+  b_ibb: 0.026
+
+ARI 2004 3-Inning Chunk Averages:
+  b_pa: 12.579
+  b_ab: 11.406
+  b_r: 1.266
+  b_h: 2.883
+  b_doubles: 0.606
+  b_triples: 0.078
+  b_hr: 0.279
+  b_rbi: 1.197
+  b_sb: 0.108
+  b_cs: 0.066
+  b_bb: 0.906
+  b_tb: 4.479
+  b_gidp: 0.282
+  b_hbp: 0.072
+  b_sh: 0.114
+  b_sf: 0.075
+  b_ibb: 0.078
+
+----------------------------------------
+
+ATL 2004 Per-Inning Averages:
+  b_pa: 4.348
+  b_ab: 3.82
+  b_r: 0.551
+  b_h: 1.031
+  b_doubles: 0.209
+  b_triples: 0.025
+  b_hr: 0.122
+  b_rbi: 0.526
+  b_sb: 0.059
+  b_cs: 0.022
+  b_bb: 0.403
+  b_tb: 1.656
+  b_gidp: 0.084
+  b_hbp: 0.04
+  b_sh: 0.051
+  b_sf: 0.033
+  b_ibb: 0.035
+
+ATL 2004 3-Inning Chunk Averages:
+  b_pa: 13.044
+  b_ab: 11.46
+  b_r: 1.653
+  b_h: 3.093
+  b_doubles: 0.627
+  b_triples: 0.075
+  b_hr: 0.366
+  b_rbi: 1.578
+  b_sb: 0.177
+  b_cs: 0.066
+  b_bb: 1.209
+  b_tb: 4.968
+  b_gidp: 0.252
+  b_hbp: 0.12
+  b_sh: 0.153
+  b_sf: 0.099
+  b_ibb: 0.105
+
+----------------------------------------
+
+NYY 2004 Per-Inning Averages:
+  b_pa: 4.365
+  b_ab: 3.791
+  b_r: 0.615
+  b_h: 1.017
+  b_doubles: 0.193
+  b_triples: 0.014
+  b_hr: 0.166
+  b_rbi: 0.592
+  b_sb: 0.058
+  b_cs: 0.023
+  b_bb: 0.46
+  b_tb: 1.735
+  b_gidp: 0.108
+  b_hbp: 0.055
+  b_sh: 0.025
+  b_sf: 0.034
+  b_ibb: 0.027
+
+NYY 2004 3-Inning Chunk Averages:
+  b_pa: 13.095
+  b_ab: 11.373
+  b_r: 1.845
+  b_h: 3.051
+  b_doubles: 0.579
+  b_triples: 0.042
+  b_hr: 0.498
+  b_rbi: 1.776
+  b_sb: 0.174
+  b_cs: 0.069
+  b_bb: 1.38
+  b_tb: 5.205
+  b_gidp: 0.324
+  b_hbp: 0.165
+  b_sh: 0.075
+  b_sf: 0.102
+  b_ibb: 0.081
+
+----------------------------------------
+
+SFG 2004 Per-Inning Averages:
+  b_pa: 4.435
+  b_ab: 3.804
+  b_r: 0.583
+  b_h: 1.029
+  b_doubles: 0.215
+  b_triples: 0.023
+  b_hr: 0.126
+  b_rbi: 0.552
+  b_sb: 0.029
+  b_cs: 0.016
+  b_bb: 0.484
+  b_tb: 1.666
+  b_gidp: 0.097
+  b_hbp: 0.049
+  b_sh: 0.063
+  b_sf: 0.035
+  b_ibb: 0.105
+
+SFG 2004 3-Inning Chunk Averages:
+  b_pa: 13.305
+  b_ab: 11.412
+  b_r: 1.749
+  b_h: 3.087
+  b_doubles: 0.645
+  b_triples: 0.069
+  b_hr: 0.378
+  b_rbi: 1.656
+  b_sb: 0.087
+  b_cs: 0.048
+  b_bb: 1.452
+  b_tb: 4.998
+  b_gidp: 0.291
+  b_hbp: 0.147
+  b_sh: 0.189
+  b_sf: 0.105
+  b_ibb: 0.315
+
+----------------------------------------
+
+COL 2004 Per-Inning Averages:
+  b_pa: 4.344
+  b_ab: 3.825
+  b_r: 0.571
+  b_h: 1.05
+  b_doubles: 0.227
+  b_triples: 0.023
+  b_hr: 0.139
+  b_rbi: 0.545
+  b_sb: 0.03
+  b_cs: 0.023
+  b_bb: 0.39
+  b_tb: 1.739
+  b_gidp: 0.091
+  b_hbp: 0.037
+  b_sh: 0.067
+  b_sf: 0.025
+  b_ibb: 0.035
+
+COL 2004 3-Inning Chunk Averages:
+  b_pa: 13.032
+  b_ab: 11.475
+  b_r: 1.713
+  b_h: 3.15
+  b_doubles: 0.681
+  b_triples: 0.069
+  b_hr: 0.417
+  b_rbi: 1.635
+  b_sb: 0.09
+  b_cs: 0.069
+  b_bb: 1.17
+  b_tb: 5.217
+  b_gidp: 0.273
+  b_hbp: 0.111
+  b_sh: 0.201
+  b_sf: 0.075
+  b_ibb: 0.105
+
+----------------------------------------
+
+ANA 2004 Per-Inning Averages:
+  b_pa: 4.318
+  b_ab: 3.892
+  b_r: 0.573
+  b_h: 1.099
+  b_doubles: 0.187
+  b_triples: 0.025
+  b_hr: 0.111
+  b_rbi: 0.537
+  b_sb: 0.098
+  b_cs: 0.032
+  b_bb: 0.309
+  b_tb: 1.67
+  b_gidp: 0.084
+  b_hbp: 0.05
+  b_sh: 0.038
+  b_sf: 0.028
+  b_ibb: 0.029
+
+ANA 2004 3-Inning Chunk Averages:
+  b_pa: 12.954
+  b_ab: 11.676
+  b_r: 1.719
+  b_h: 3.297
+  b_doubles: 0.561
+  b_triples: 0.075
+  b_hr: 0.333
+  b_rbi: 1.611
+  b_sb: 0.294
+  b_cs: 0.096
+  b_bb: 0.927
+  b_tb: 5.01
+  b_gidp: 0.252
+  b_hbp: 0.15
+  b_sh: 0.114
+  b_sf: 0.084
+  b_ibb: 0.087
+
+----------------------------------------
+
+SDP 2004 Per-Inning Averages:
+  b_pa: 4.33
+  b_ab: 3.822
+  b_r: 0.527
+  b_h: 1.043
+  b_doubles: 0.209
+  b_triples: 0.022
+  b_hr: 0.095
+  b_rbi: 0.495
+  b_sb: 0.036
+  b_cs: 0.017
+  b_bb: 0.388
+  b_tb: 1.582
+  b_gidp: 0.088
+  b_hbp: 0.038
+  b_sh: 0.036
+  b_sf: 0.045
+  b_ibb: 0.031
+
+SDP 2004 3-Inning Chunk Averages:
+  b_pa: 12.99
+  b_ab: 11.466
+  b_r: 1.581
+  b_h: 3.129
+  b_doubles: 0.627
+  b_triples: 0.066
+  b_hr: 0.285
+  b_rbi: 1.485
+  b_sb: 0.108
+  b_cs: 0.051
+  b_bb: 1.164
+  b_tb: 4.746
+  b_gidp: 0.264
+  b_hbp: 0.114
+  b_sh: 0.108
+  b_sf: 0.135
+  b_ibb: 0.093
+
+----------------------------------------
+
+BAL 2004 Per-Inning Averages:
+  b_pa: 4.411
+  b_ab: 3.934
+  b_r: 0.578
+  b_h: 1.107
+  b_doubles: 0.219
+  b_triples: 0.012
+  b_hr: 0.116
+  b_rbi: 0.551
+  b_sb: 0.069
+  b_cs: 0.028
+  b_bb: 0.362
+  b_tb: 1.698
+  b_gidp: 0.086
+  b_hbp: 0.039
+  b_sh: 0.032
+  b_sf: 0.043
+  b_ibb: 0.023
+
+BAL 2004 3-Inning Chunk Averages:
+  b_pa: 13.233
+  b_ab: 11.802
+  b_r: 1.734
+  b_h: 3.321
+  b_doubles: 0.657
+  b_triples: 0.036
+  b_hr: 0.348
+  b_rbi: 1.653
+  b_sb: 0.207
+  b_cs: 0.084
+  b_bb: 1.086
+  b_tb: 5.094
+  b_gidp: 0.258
+  b_hbp: 0.117
+  b_sh: 0.096
+  b_sf: 0.129
+  b_ibb: 0.069
+
+----------------------------------------
+
+LAD 2004 Per-Inning Averages:
+  b_pa: 4.283
+  b_ab: 3.801
+  b_r: 0.522
+  b_h: 0.995
+  b_doubles: 0.155
+  b_triples: 0.021
+  b_hr: 0.139
+  b_rbi: 0.501
+  b_sb: 0.07
+  b_cs: 0.028
+  b_bb: 0.368
+  b_tb: 1.608
+  b_gidp: 0.083
+  b_hbp: 0.043
+  b_sh: 0.047
+  b_sf: 0.024
+  b_ibb: 0.031
+
+LAD 2004 3-Inning Chunk Averages:
+  b_pa: 12.849
+  b_ab: 11.403
+  b_r: 1.566
+  b_h: 2.985
+  b_doubles: 0.465
+  b_triples: 0.063
+  b_hr: 0.417
+  b_rbi: 1.503
+  b_sb: 0.21
+  b_cs: 0.084
+  b_bb: 1.104
+  b_tb: 4.824
+  b_gidp: 0.249
+  b_hbp: 0.129
+  b_sh: 0.141
+  b_sf: 0.072
+  b_ibb: 0.093
+
+----------------------------------------
+
+BOS 2004 Per-Inning Averages:
+  b_pa: 4.468
+  b_ab: 3.923
+  b_r: 0.651
+  b_h: 1.106
+  b_doubles: 0.256
+  b_triples: 0.017
+  b_hr: 0.152
+  b_rbi: 0.626
+  b_sb: 0.047
+  b_cs: 0.021
+  b_bb: 0.452
+  b_tb: 1.853
+  b_gidp: 0.084
+  b_hbp: 0.047
+  b_sh: 0.008
+  b_sf: 0.038
+  b_ibb: 0.027
+
+BOS 2004 3-Inning Chunk Averages:
+  b_pa: 13.404
+  b_ab: 11.769
+  b_r: 1.953
+  b_h: 3.318
+  b_doubles: 0.768
+  b_triples: 0.051
+  b_hr: 0.456
+  b_rbi: 1.878
+  b_sb: 0.141
+  b_cs: 0.063
+  b_bb: 1.356
+  b_tb: 5.559
+  b_gidp: 0.252
+  b_hbp: 0.141
+  b_sh: 0.024
+  b_sf: 0.114
+  b_ibb: 0.081
+
+----------------------------------------
+
+ANA 2003 Per-Inning Averages:
+  b_pa: 4.197
+  b_ab: 3.763
+  b_r: 0.505
+  b_h: 1.01
+  b_doubles: 0.189
+  b_triples: 0.023
+  b_hr: 0.103
+  b_rbi: 0.471
+  b_sb: 0.088
+  b_cs: 0.042
+  b_bb: 0.326
+  b_tb: 1.553
+  b_gidp: 0.086
+  b_hbp: 0.038
+  b_sh: 0.034
+  b_sf: 0.034
+  b_ibb: 0.029
+
+ANA 2003 3-Inning Chunk Averages:
+  b_pa: 12.591
+  b_ab: 11.289
+  b_r: 1.515
+  b_h: 3.03
+  b_doubles: 0.567
+  b_triples: 0.069
+  b_hr: 0.309
+  b_rbi: 1.413
+  b_sb: 0.264
+  b_cs: 0.126
+  b_bb: 0.978
+  b_tb: 4.659
+  b_gidp: 0.258
+  b_hbp: 0.114
+  b_sh: 0.102
+  b_sf: 0.102
+  b_ibb: 0.087
+
+----------------------------------------
+
+HOU 2003 Per-Inning Averages:
+  b_pa: 4.335
+  b_ab: 3.829
+  b_r: 0.552
+  b_h: 1.005
+  b_doubles: 0.211
+  b_triples: 0.021
+  b_hr: 0.131
+  b_rbi: 0.523
+  b_sb: 0.045
+  b_cs: 0.021
+  b_bb: 0.382
+  b_tb: 1.651
+  b_gidp: 0.086
+  b_hbp: 0.056
+  b_sh: 0.042
+  b_sf: 0.026
+  b_ibb: 0.03
+
+HOU 2003 3-Inning Chunk Averages:
+  b_pa: 13.005
+  b_ab: 11.487
+  b_r: 1.656
+  b_h: 3.015
+  b_doubles: 0.633
+  b_triples: 0.063
+  b_hr: 0.393
+  b_rbi: 1.569
+  b_sb: 0.135
+  b_cs: 0.063
+  b_bb: 1.146
+  b_tb: 4.953
+  b_gidp: 0.258
+  b_hbp: 0.168
+  b_sh: 0.126
+  b_sf: 0.078
+  b_ibb: 0.09
+
+----------------------------------------
+
+KCR 2003 Per-Inning Averages:
+  b_pa: 4.279
+  b_ab: 3.819
+  b_r: 0.573
+  b_h: 1.047
+  b_doubles: 0.198
+  b_triples: 0.027
+  b_hr: 0.111
+  b_rbi: 0.536
+  b_sb: 0.082
+  b_cs: 0.029
+  b_bb: 0.326
+  b_tb: 1.631
+  b_gidp: 0.088
+  b_hbp: 0.051
+  b_sh: 0.043
+  b_sf: 0.039
+  b_ibb: 0.022
+
+KCR 2003 3-Inning Chunk Averages:
+  b_pa: 12.837
+  b_ab: 11.457
+  b_r: 1.719
+  b_h: 3.141
+  b_doubles: 0.594
+  b_triples: 0.081
+  b_hr: 0.333
+  b_rbi: 1.608
+  b_sb: 0.246
+  b_cs: 0.087
+  b_bb: 0.978
+  b_tb: 4.893
+  b_gidp: 0.264
+  b_hbp: 0.153
+  b_sh: 0.129
+  b_sf: 0.117
+  b_ibb: 0.066
+
+----------------------------------------
+
+CLE 2003 Per-Inning Averages:
+  b_pa: 4.244
+  b_ab: 3.822
+  b_r: 0.479
+  b_h: 0.969
+  b_doubles: 0.203
+  b_triples: 0.018
+  b_hr: 0.108
+  b_rbi: 0.453
+  b_sb: 0.059
+  b_cs: 0.042
+  b_bb: 0.32
+  b_tb: 1.533
+  b_gidp: 0.088
+  b_hbp: 0.043
+  b_sh: 0.032
+  b_sf: 0.028
+  b_ibb: 0.017
+
+CLE 2003 3-Inning Chunk Averages:
+  b_pa: 12.732
+  b_ab: 11.466
+  b_r: 1.437
+  b_h: 2.907
+  b_doubles: 0.609
+  b_triples: 0.054
+  b_hr: 0.324
+  b_rbi: 1.359
+  b_sb: 0.177
+  b_cs: 0.126
+  b_bb: 0.96
+  b_tb: 4.599
+  b_gidp: 0.264
+  b_hbp: 0.129
+  b_sh: 0.096
+  b_sf: 0.084
+  b_ibb: 0.051
+
+----------------------------------------
+
+CHW 2003 Per-Inning Averages:
+  b_pa: 4.217
+  b_ab: 3.763
+  b_r: 0.543
+  b_h: 0.991
+  b_doubles: 0.208
+  b_triples: 0.013
+  b_hr: 0.151
+  b_rbi: 0.525
+  b_sb: 0.053
+  b_cs: 0.02
+  b_bb: 0.356
+  b_tb: 1.678
+  b_gidp: 0.091
+  b_hbp: 0.04
+  b_sh: 0.029
+  b_sf: 0.028
+  b_ibb: 0.019
+
+CHW 2003 3-Inning Chunk Averages:
+  b_pa: 12.651
+  b_ab: 11.289
+  b_r: 1.629
+  b_h: 2.973
+  b_doubles: 0.624
+  b_triples: 0.039
+  b_hr: 0.453
+  b_rbi: 1.575
+  b_sb: 0.159
+  b_cs: 0.06
+  b_bb: 1.068
+  b_tb: 5.034
+  b_gidp: 0.273
+  b_hbp: 0.12
+  b_sh: 0.087
+  b_sf: 0.084
+  b_ibb: 0.057
+
+----------------------------------------
+
+ARI 2003 Per-Inning Averages:
+  b_pa: 4.294
+  b_ab: 3.82
+  b_r: 0.492
+  b_h: 1.006
+  b_doubles: 0.208
+  b_triples: 0.032
+  b_hr: 0.104
+  b_rbi: 0.477
+  b_sb: 0.052
+  b_cs: 0.026
+  b_bb: 0.364
+  b_tb: 1.591
+  b_gidp: 0.086
+  b_hbp: 0.031
+  b_sh: 0.043
+  b_sf: 0.036
+  b_ibb: 0.043
+
+ARI 2003 3-Inning Chunk Averages:
+  b_pa: 12.882
+  b_ab: 11.46
+  b_r: 1.476
+  b_h: 3.018
+  b_doubles: 0.624
+  b_triples: 0.096
+  b_hr: 0.312
+  b_rbi: 1.431
+  b_sb: 0.156
+  b_cs: 0.078
+  b_bb: 1.092
+  b_tb: 4.773
+  b_gidp: 0.258
+  b_hbp: 0.093
+  b_sh: 0.129
+  b_sf: 0.108
+  b_ibb: 0.129
+
+----------------------------------------
+
+ATL 2003 Per-Inning Averages:
+  b_pa: 4.374
+  b_ab: 3.889
+  b_r: 0.622
+  b_h: 1.103
+  b_doubles: 0.22
+  b_triples: 0.021
+  b_hr: 0.161
+  b_rbi: 0.598
+  b_sb: 0.047
+  b_cs: 0.015
+  b_bb: 0.374
+  b_tb: 1.849
+  b_gidp: 0.085
+  b_hbp: 0.034
+  b_sh: 0.045
+  b_sf: 0.034
+  b_ibb: 0.032
+
+ATL 2003 3-Inning Chunk Averages:
+  b_pa: 13.122
+  b_ab: 11.667
+  b_r: 1.866
+  b_h: 3.309
+  b_doubles: 0.66
+  b_triples: 0.063
+  b_hr: 0.483
+  b_rbi: 1.794
+  b_sb: 0.141
+  b_cs: 0.045
+  b_bb: 1.122
+  b_tb: 5.547
+  b_gidp: 0.255
+  b_hbp: 0.102
+  b_sh: 0.135
+  b_sf: 0.102
+  b_ibb: 0.096
+
+----------------------------------------
+
+TEX 2003 Per-Inning Averages:
+  b_pa: 4.316
+  b_ab: 3.885
+  b_r: 0.567
+  b_h: 1.033
+  b_doubles: 0.188
+  b_triples: 0.025
+  b_hr: 0.164
+  b_rbi: 0.548
+  b_sb: 0.045
+  b_cs: 0.017
+  b_bb: 0.335
+  b_tb: 1.762
+  b_gidp: 0.079
+  b_hbp: 0.051
+  b_sh: 0.016
+  b_sf: 0.029
+  b_ibb: 0.021
+
+TEX 2003 3-Inning Chunk Averages:
+  b_pa: 12.948
+  b_ab: 11.655
+  b_r: 1.701
+  b_h: 3.099
+  b_doubles: 0.564
+  b_triples: 0.075
+  b_hr: 0.492
+  b_rbi: 1.644
+  b_sb: 0.135
+  b_cs: 0.051
+  b_bb: 1.005
+  b_tb: 5.286
+  b_gidp: 0.237
+  b_hbp: 0.153
+  b_sh: 0.048
+  b_sf: 0.087
+  b_ibb: 0.063
+
+----------------------------------------
+
+CIN 2003 Per-Inning Averages:
+  b_pa: 4.26
+  b_ab: 3.778
+  b_r: 0.476
+  b_h: 0.925
+  b_doubles: 0.164
+  b_triples: 0.014
+  b_hr: 0.125
+  b_rbi: 0.459
+  b_sb: 0.055
+  b_cs: 0.023
+  b_bb: 0.359
+  b_tb: 1.492
+  b_gidp: 0.07
+  b_hbp: 0.054
+  b_sh: 0.045
+  b_sf: 0.022
+  b_ibb: 0.023
+
+CIN 2003 3-Inning Chunk Averages:
+  b_pa: 12.78
+  b_ab: 11.334
+  b_r: 1.428
+  b_h: 2.775
+  b_doubles: 0.492
+  b_triples: 0.042
+  b_hr: 0.375
+  b_rbi: 1.377
+  b_sb: 0.165
+  b_cs: 0.069
+  b_bb: 1.077
+  b_tb: 4.476
+  b_gidp: 0.21
+  b_hbp: 0.162
+  b_sh: 0.135
+  b_sf: 0.066
+  b_ibb: 0.069
+
+----------------------------------------
+
+COL 2002 Per-Inning Averages:
+  b_pa: 4.228
+  b_ab: 3.781
+  b_r: 0.534
+  b_h: 1.034
+  b_doubles: 0.194
+  b_triples: 0.028
+  b_hr: 0.104
+  b_rbi: 0.498
+  b_sb: 0.071
+  b_cs: 0.036
+  b_bb: 0.341
+  b_tb: 1.597
+  b_gidp: 0.091
+  b_hbp: 0.038
+  b_sh: 0.034
+  b_sf: 0.034
+  b_ibb: 0.027
+
+COL 2002 3-Inning Chunk Averages:
+  b_pa: 12.684
+  b_ab: 11.343
+  b_r: 1.602
+  b_h: 3.102
+  b_doubles: 0.582
+  b_triples: 0.084
+  b_hr: 0.312
+  b_rbi: 1.494
+  b_sb: 0.213
+  b_cs: 0.108
+  b_bb: 1.023
+  b_tb: 4.791
+  b_gidp: 0.273
+  b_hbp: 0.114
+  b_sh: 0.102
+  b_sf: 0.102
+  b_ibb: 0.081
+
+----------------------------------------
+
+PIT 2002 Per-Inning Averages:
+  b_pa: 4.175
+  b_ab: 3.678
+  b_r: 0.442
+  b_h: 0.897
+  b_doubles: 0.182
+  b_triples: 0.014
+  b_hr: 0.098
+  b_rbi: 0.421
+  b_sb: 0.059
+  b_cs: 0.034
+  b_bb: 0.371
+  b_tb: 1.4
+  b_gidp: 0.067
+  b_hbp: 0.05
+  b_sh: 0.047
+  b_sf: 0.028
+  b_ibb: 0.03
+
+PIT 2002 3-Inning Chunk Averages:
+  b_pa: 12.525
+  b_ab: 11.034
+  b_r: 1.326
+  b_h: 2.691
+  b_doubles: 0.546
+  b_triples: 0.042
+  b_hr: 0.294
+  b_rbi: 1.263
+  b_sb: 0.177
+  b_cs: 0.102
+  b_bb: 1.113
+  b_tb: 4.2
+  b_gidp: 0.201
+  b_hbp: 0.15
+  b_sh: 0.141
+  b_sf: 0.084
+  b_ibb: 0.09
+
+----------------------------------------
+
+NYY 2002 Per-Inning Averages:
+  b_pa: 4.401
+  b_ab: 3.865
+  b_r: 0.619
+  b_h: 1.063
+  b_doubles: 0.217
+  b_triples: 0.008
+  b_hr: 0.154
+  b_rbi: 0.591
+  b_sb: 0.069
+  b_cs: 0.026
+  b_bb: 0.442
+  b_tb: 1.758
+  b_gidp: 0.104
+  b_hbp: 0.05
+  b_sh: 0.016
+  b_sf: 0.028
+  b_ibb: 0.033
+
+NYY 2002 3-Inning Chunk Averages:
+  b_pa: 13.203
+  b_ab: 11.595
+  b_r: 1.857
+  b_h: 3.189
+  b_doubles: 0.651
+  b_triples: 0.024
+  b_hr: 0.462
+  b_rbi: 1.773
+  b_sb: 0.207
+  b_cs: 0.078
+  b_bb: 1.326
+  b_tb: 5.274
+  b_gidp: 0.312
+  b_hbp: 0.15
+  b_sh: 0.048
+  b_sf: 0.084
+  b_ibb: 0.099
+
+----------------------------------------
+
+TBD 2002 Per-Inning Averages:
+  b_pa: 4.277
+  b_ab: 3.867
+  b_r: 0.464
+  b_h: 0.979
+  b_doubles: 0.205
+  b_triples: 0.024
+  b_hr: 0.092
+  b_rbi: 0.442
+  b_sb: 0.07
+  b_cs: 0.031
+  b_bb: 0.315
+  b_tb: 1.507
+  b_gidp: 0.08
+  b_hbp: 0.04
+  b_sh: 0.03
+  b_sf: 0.025
+  b_ibb: 0.02
+
+TBD 2002 3-Inning Chunk Averages:
+  b_pa: 12.831
+  b_ab: 11.601
+  b_r: 1.392
+  b_h: 2.937
+  b_doubles: 0.615
+  b_triples: 0.072
+  b_hr: 0.276
+  b_rbi: 1.326
+  b_sb: 0.21
+  b_cs: 0.093
+  b_bb: 0.945
+  b_tb: 4.521
+  b_gidp: 0.24
+  b_hbp: 0.12
+  b_sh: 0.09
+  b_sf: 0.075
+  b_ibb: 0.06
+
+----------------------------------------
+
+ARI 2002 Per-Inning Averages:
+  b_pa: 4.333
+  b_ab: 3.778
+  b_r: 0.562
+  b_h: 1.009
+  b_doubles: 0.194
+  b_triples: 0.028
+  b_hr: 0.113
+  b_rbi: 0.537
+  b_sb: 0.063
+  b_cs: 0.032
+  b_bb: 0.441
+  b_tb: 1.599
+  b_gidp: 0.089
+  b_hbp: 0.034
+  b_sh: 0.043
+  b_sf: 0.036
+  b_ibb: 0.04
+
+ARI 2002 3-Inning Chunk Averages:
+  b_pa: 12.999
+  b_ab: 11.334
+  b_r: 1.686
+  b_h: 3.027
+  b_doubles: 0.582
+  b_triples: 0.084
+  b_hr: 0.339
+  b_rbi: 1.611
+  b_sb: 0.189
+  b_cs: 0.096
+  b_bb: 1.323
+  b_tb: 4.797
+  b_gidp: 0.267
+  b_hbp: 0.102
+  b_sh: 0.129
+  b_sf: 0.108
+  b_ibb: 0.12
+
+----------------------------------------
+
+FLA 2002 Per-Inning Averages:
+  b_pa: 4.296
+  b_ab: 3.77
+  b_r: 0.479
+  b_h: 0.983
+  b_doubles: 0.192
+  b_triples: 0.022
+  b_hr: 0.1
+  b_rbi: 0.448
+  b_sb: 0.121
+  b_cs: 0.05
+  b_bb: 0.408
+  b_tb: 1.519
+  b_gidp: 0.088
+  b_hbp: 0.042
+  b_sh: 0.04
+  b_sf: 0.034
+  b_ibb: 0.047
+
+FLA 2002 3-Inning Chunk Averages:
+  b_pa: 12.888
+  b_ab: 11.31
+  b_r: 1.437
+  b_h: 2.949
+  b_doubles: 0.576
+  b_triples: 0.066
+  b_hr: 0.3
+  b_rbi: 1.344
+  b_sb: 0.363
+  b_cs: 0.15
+  b_bb: 1.224
+  b_tb: 4.557
+  b_gidp: 0.264
+  b_hbp: 0.126
+  b_sh: 0.12
+  b_sf: 0.102
+  b_ibb: 0.141
+
+----------------------------------------
+
+SEA 2001 Per-Inning Averages:
+  b_pa: 4.44
+  b_ab: 3.896
+  b_r: 0.636
+  b_h: 1.123
+  b_doubles: 0.213
+  b_triples: 0.026
+  b_hr: 0.116
+  b_rbi: 0.604
+  b_sb: 0.119
+  b_cs: 0.029
+  b_bb: 0.421
+  b_tb: 1.735
+  b_gidp: 0.077
+  b_hbp: 0.043
+  b_sh: 0.033
+  b_sf: 0.048
+  b_ibb: 0.037
+
+SEA 2001 3-Inning Chunk Averages:
+  b_pa: 13.32
+  b_ab: 11.688
+  b_r: 1.908
+  b_h: 3.369
+  b_doubles: 0.639
+  b_triples: 0.078
+  b_hr: 0.348
+  b_rbi: 1.812
+  b_sb: 0.357
+  b_cs: 0.087
+  b_bb: 1.263
+  b_tb: 5.205
+  b_gidp: 0.231
+  b_hbp: 0.129
+  b_sh: 0.099
+  b_sf: 0.144
+  b_ibb: 0.111
+
+----------------------------------------
+
+CIN 2001 Per-Inning Averages:
+  b_pa: 4.267
+  b_ab: 3.829
+  b_r: 0.504
+  b_h: 1.004
+  b_doubles: 0.209
+  b_triples: 0.015
+  b_hr: 0.121
+  b_rbi: 0.473
+  b_sb: 0.071
+  b_cs: 0.037
+  b_bb: 0.321
+  b_tb: 1.605
+  b_gidp: 0.089
+  b_hbp: 0.045
+  b_sh: 0.045
+  b_sf: 0.027
+  b_ibb: 0.032
+
+CIN 2001 3-Inning Chunk Averages:
+  b_pa: 12.801
+  b_ab: 11.487
+  b_r: 1.512
+  b_h: 3.012
+  b_doubles: 0.627
+  b_triples: 0.045
+  b_hr: 0.363
+  b_rbi: 1.419
+  b_sb: 0.213
+  b_cs: 0.111
+  b_bb: 0.963
+  b_tb: 4.815
+  b_gidp: 0.267
+  b_hbp: 0.135
+  b_sh: 0.135
+  b_sf: 0.081
+  b_ibb: 0.096
+
+----------------------------------------
+
+OAK 2001 Per-Inning Averages:
+  b_pa: 4.379
+  b_ab: 3.822
+  b_r: 0.606
+  b_h: 1.008
+  b_doubles: 0.229
+  b_triples: 0.015
+  b_hr: 0.136
+  b_rbi: 0.573
+  b_sb: 0.047
+  b_cs: 0.02
+  b_bb: 0.439
+  b_tb: 1.676
+  b_gidp: 0.09
+  b_hbp: 0.06
+  b_sh: 0.017
+  b_sf: 0.04
+  b_ibb: 0.039
+
+OAK 2001 3-Inning Chunk Averages:
+  b_pa: 13.137
+  b_ab: 11.466
+  b_r: 1.818
+  b_h: 3.024
+  b_doubles: 0.687
+  b_triples: 0.045
+  b_hr: 0.408
+  b_rbi: 1.719
+  b_sb: 0.141
+  b_cs: 0.06
+  b_bb: 1.317
+  b_tb: 5.028
+  b_gidp: 0.27
+  b_hbp: 0.18
+  b_sh: 0.051
+  b_sf: 0.12
+  b_ibb: 0.117
+
+----------------------------------------
+
+CLE 2001 Per-Inning Averages:
+  b_pa: 4.36
+  b_ab: 3.841
+  b_r: 0.615
+  b_h: 1.069
+  b_doubles: 0.202
+  b_triples: 0.025
+  b_hr: 0.145
+  b_rbi: 0.595
+  b_sb: 0.054
+  b_cs: 0.028
+  b_bb: 0.396
+  b_tb: 1.758
+  b_gidp: 0.086
+  b_hbp: 0.047
+  b_sh: 0.034
+  b_sf: 0.043
+  b_ibb: 0.022
+
+CLE 2001 3-Inning Chunk Averages:
+  b_pa: 13.08
+  b_ab: 11.523
+  b_r: 1.845
+  b_h: 3.207
+  b_doubles: 0.606
+  b_triples: 0.075
+  b_hr: 0.435
+  b_rbi: 1.785
+  b_sb: 0.162
+  b_cs: 0.084
+  b_bb: 1.188
+  b_tb: 5.274
+  b_gidp: 0.258
+  b_hbp: 0.141
+  b_sh: 0.102
+  b_sf: 0.129
+  b_ibb: 0.066
+
+----------------------------------------
+
+ATL 2001 Per-Inning Averages:
+  b_pa: 4.219
+  b_ab: 3.771
+  b_r: 0.5
+  b_h: 0.982
+  b_doubles: 0.18
+  b_triples: 0.016
+  b_hr: 0.119
+  b_rbi: 0.477
+  b_sb: 0.058
+  b_cs: 0.032
+  b_bb: 0.338
+  b_tb: 1.553
+  b_gidp: 0.091
+  b_hbp: 0.031
+  b_sh: 0.044
+  b_sf: 0.036
+  b_ibb: 0.035
+
+ATL 2001 3-Inning Chunk Averages:
+  b_pa: 12.657
+  b_ab: 11.313
+  b_r: 1.5
+  b_h: 2.946
+  b_doubles: 0.54
+  b_triples: 0.048
+  b_hr: 0.357
+  b_rbi: 1.431
+  b_sb: 0.174
+  b_cs: 0.096
+  b_bb: 1.014
+  b_tb: 4.659
+  b_gidp: 0.273
+  b_hbp: 0.093
+  b_sh: 0.132
+  b_sf: 0.108
+  b_ibb: 0.105
+
+----------------------------------------
+
+MIN 2001 Per-Inning Averages:
+  b_pa: 4.242
+  b_ab: 3.813
+  b_r: 0.529
+  b_h: 1.038
+  b_doubles: 0.225
+  b_triples: 0.026
+  b_hr: 0.112
+  b_rbi: 0.492
+  b_sb: 0.1
+  b_cs: 0.046
+  b_bb: 0.34
+  b_tb: 1.653
+  b_gidp: 0.085
+  b_hbp: 0.044
+  b_sh: 0.017
+  b_sf: 0.026
+  b_ibb: 0.029
+
+MIN 2001 3-Inning Chunk Averages:
+  b_pa: 12.726
+  b_ab: 11.439
+  b_r: 1.587
+  b_h: 3.114
+  b_doubles: 0.675
+  b_triples: 0.078
+  b_hr: 0.336
+  b_rbi: 1.476
+  b_sb: 0.3
+  b_cs: 0.138
+  b_bb: 1.02
+  b_tb: 4.959
+  b_gidp: 0.255
+  b_hbp: 0.132
+  b_sh: 0.051
+  b_sf: 0.078
+  b_ibb: 0.087
+
+----------------------------------------
+
+NYY 2001 Per-Inning Averages:
+  b_pa: 4.302
+  b_ab: 3.849
+  b_r: 0.555
+  b_h: 1.027
+  b_doubles: 0.199
+  b_triples: 0.014
+  b_hr: 0.14
+  b_rbi: 0.534
+  b_sb: 0.111
+  b_cs: 0.037
+  b_bb: 0.358
+  b_tb: 1.674
+  b_gidp: 0.082
+  b_hbp: 0.044
+  b_sh: 0.021
+  b_sf: 0.03
+  b_ibb: 0.026
+
+NYY 2001 3-Inning Chunk Averages:
+  b_pa: 12.906
+  b_ab: 11.547
+  b_r: 1.665
+  b_h: 3.081
+  b_doubles: 0.597
+  b_triples: 0.042
+  b_hr: 0.42
+  b_rbi: 1.602
+  b_sb: 0.333
+  b_cs: 0.111
+  b_bb: 1.074
+  b_tb: 5.022
+  b_gidp: 0.246
+  b_hbp: 0.132
+  b_sh: 0.063
+  b_sf: 0.09
+  b_ibb: 0.078
+
+----------------------------------------
+
+KCR 2001 Per-Inning Averages:
+  b_pa: 4.236
+  b_ab: 3.87
+  b_r: 0.5
+  b_h: 1.031
+  b_doubles: 0.19
+  b_triples: 0.025
+  b_hr: 0.104
+  b_rbi: 0.474
+  b_sb: 0.069
+  b_cs: 0.029
+  b_bb: 0.278
+  b_tb: 1.584
+  b_gidp: 0.092
+  b_hbp: 0.03
+  b_sh: 0.025
+  b_sf: 0.032
+  b_ibb: 0.021
+
+KCR 2001 3-Inning Chunk Averages:
+  b_pa: 12.708
+  b_ab: 11.61
+  b_r: 1.5
+  b_h: 3.093
+  b_doubles: 0.57
+  b_triples: 0.075
+  b_hr: 0.312
+  b_rbi: 1.422
+  b_sb: 0.207
+  b_cs: 0.087
+  b_bb: 0.834
+  b_tb: 4.752
+  b_gidp: 0.276
+  b_hbp: 0.09
+  b_sh: 0.075
+  b_sf: 0.096
+  b_ibb: 0.063
+
+----------------------------------------
+
+TOR 2001 Per-Inning Averages:
+  b_pa: 4.31
+  b_ab: 3.884
+  b_r: 0.526
+  b_h: 1.021
+  b_doubles: 0.197
+  b_triples: 0.025
+  b_hr: 0.134
+  b_rbi: 0.499
+  b_sb: 0.107
+  b_cs: 0.038
+  b_bb: 0.322
+  b_tb: 1.669
+  b_gidp: 0.076
+  b_hbp: 0.051
+  b_sh: 0.023
+  b_sf: 0.029
+  b_ibb: 0.032
+
+TOR 2001 3-Inning Chunk Averages:
+  b_pa: 12.93
+  b_ab: 11.652
+  b_r: 1.578
+  b_h: 3.063
+  b_doubles: 0.591
+  b_triples: 0.075
+  b_hr: 0.402
+  b_rbi: 1.497
+  b_sb: 0.321
+  b_cs: 0.114
+  b_bb: 0.966
+  b_tb: 5.007
+  b_gidp: 0.228
+  b_hbp: 0.153
+  b_sh: 0.069
+  b_sf: 0.087
+  b_ibb: 0.096
+
+----------------------------------------
+
+TBD 2001 Per-Inning Averages:
+  b_pa: 4.187
+  b_ab: 3.789
+  b_r: 0.461
+  b_h: 0.978
+  b_doubles: 0.213
+  b_triples: 0.014
+  b_hr: 0.083
+  b_rbi: 0.442
+  b_sb: 0.079
+  b_cs: 0.036
+  b_bb: 0.313
+  b_tb: 1.469
+  b_gidp: 0.089
+  b_hbp: 0.037
+  b_sh: 0.031
+  b_sf: 0.017
+  b_ibb: 0.016
+
+TBD 2001 3-Inning Chunk Averages:
+  b_pa: 12.561
+  b_ab: 11.367
+  b_r: 1.383
+  b_h: 2.934
+  b_doubles: 0.639
+  b_triples: 0.042
+  b_hr: 0.249
+  b_rbi: 1.326
+  b_sb: 0.237
+  b_cs: 0.108
+  b_bb: 0.939
+  b_tb: 4.407
+  b_gidp: 0.267
+  b_hbp: 0.111
+  b_sh: 0.093
+  b_sf: 0.051
+  b_ibb: 0.048
+
+----------------------------------------
+
+TOR 2000 Per-Inning Averages:
+  b_pa: 4.339
+  b_ab: 3.894
+  b_r: 0.591
+  b_h: 1.071
+  b_doubles: 0.225
+  b_triples: 0.014
+  b_hr: 0.167
+  b_rbi: 0.567
+  b_sb: 0.061
+  b_cs: 0.023
+  b_bb: 0.361
+  b_tb: 1.827
+  b_gidp: 0.089
+  b_hbp: 0.041
+  b_sh: 0.02
+  b_sf: 0.023
+  b_ibb: 0.022
+
+TOR 2000 3-Inning Chunk Averages:
+  b_pa: 13.017
+  b_ab: 11.682
+  b_r: 1.773
+  b_h: 3.213
+  b_doubles: 0.675
+  b_triples: 0.042
+  b_hr: 0.501
+  b_rbi: 1.701
+  b_sb: 0.183
+  b_cs: 0.069
+  b_bb: 1.083
+  b_tb: 5.481
+  b_gidp: 0.267
+  b_hbp: 0.123
+  b_sh: 0.06
+  b_sf: 0.069
+  b_ibb: 0.066
+
+----------------------------------------
+
+BOS 2000 Per-Inning Averages:
+  b_pa: 4.37
+  b_ab: 3.861
+  b_r: 0.543
+  b_h: 1.031
+  b_doubles: 0.217
+  b_triples: 0.022
+  b_hr: 0.115
+  b_rbi: 0.518
+  b_sb: 0.029
+  b_cs: 0.021
+  b_bb: 0.419
+  b_tb: 1.635
+  b_gidp: 0.079
+  b_hbp: 0.029
+  b_sh: 0.027
+  b_sf: 0.033
+  b_ibb: 0.027
+
+BOS 2000 3-Inning Chunk Averages:
+  b_pa: 13.11
+  b_ab: 11.583
+  b_r: 1.629
+  b_h: 3.093
+  b_doubles: 0.651
+  b_triples: 0.066
+  b_hr: 0.345
+  b_rbi: 1.554
+  b_sb: 0.087
+  b_cs: 0.063
+  b_bb: 1.257
+  b_tb: 4.905
+  b_gidp: 0.237
+  b_hbp: 0.087
+  b_sh: 0.081
+  b_sf: 0.099
+  b_ibb: 0.081
+
+----------------------------------------
+
+CHW 2000 Per-Inning Averages:
+  b_pa: 4.396
+  b_ab: 3.872
+  b_r: 0.671
+  b_h: 1.108
+  b_doubles: 0.223
+  b_triples: 0.023
+  b_hr: 0.148
+  b_rbi: 0.635
+  b_sb: 0.082
+  b_cs: 0.029
+  b_bb: 0.405
+  b_tb: 1.82
+  b_gidp: 0.096
+  b_hbp: 0.036
+  b_sh: 0.038
+  b_sf: 0.042
+  b_ibb: 0.019
+
+CHW 2000 3-Inning Chunk Averages:
+  b_pa: 13.188
+  b_ab: 11.616
+  b_r: 2.013
+  b_h: 3.324
+  b_doubles: 0.669
+  b_triples: 0.069
+  b_hr: 0.444
+  b_rbi: 1.905
+  b_sb: 0.246
+  b_cs: 0.087
+  b_bb: 1.215
+  b_tb: 5.46
+  b_gidp: 0.288
+  b_hbp: 0.108
+  b_sh: 0.114
+  b_sf: 0.126
+  b_ibb: 0.057
+
+----------------------------------------
+
+MIL 2000 Per-Inning Averages:
+  b_pa: 4.332
+  b_ab: 3.792
+  b_r: 0.504
+  b_h: 0.931
+  b_doubles: 0.202
+  b_triples: 0.017
+  b_hr: 0.121
+  b_rbi: 0.483
+  b_sb: 0.049
+  b_cs: 0.03
+  b_bb: 0.423
+  b_tb: 1.53
+  b_gidp: 0.086
+  b_hbp: 0.042
+  b_sh: 0.042
+  b_sf: 0.033
+  b_ibb: 0.032
+
+MIL 2000 3-Inning Chunk Averages:
+  b_pa: 12.996
+  b_ab: 11.376
+  b_r: 1.512
+  b_h: 2.793
+  b_doubles: 0.606
+  b_triples: 0.051
+  b_hr: 0.363
+  b_rbi: 1.449
+  b_sb: 0.147
+  b_cs: 0.09
+  b_bb: 1.269
+  b_tb: 4.59
+  b_gidp: 0.258
+  b_hbp: 0.126
+  b_sh: 0.126
+  b_sf: 0.099
+  b_ibb: 0.096
+
+----------------------------------------
+
+DET 2000 Per-Inning Averages:
+  b_pa: 4.35
+  b_ab: 3.871
+  b_r: 0.564
+  b_h: 1.065
+  b_doubles: 0.211
+  b_triples: 0.028
+  b_hr: 0.121
+  b_rbi: 0.538
+  b_sb: 0.057
+  b_cs: 0.026
+  b_bb: 0.385
+  b_tb: 1.696
+  b_gidp: 0.097
+  b_hbp: 0.029
+  b_sh: 0.029
+  b_sf: 0.034
+  b_ibb: 0.015
+
+DET 2000 3-Inning Chunk Averages:
+  b_pa: 13.05
+  b_ab: 11.613
+  b_r: 1.692
+  b_h: 3.195
+  b_doubles: 0.633
+  b_triples: 0.084
+  b_hr: 0.363
+  b_rbi: 1.614
+  b_sb: 0.171
+  b_cs: 0.078
+  b_bb: 1.155
+  b_tb: 5.088
+  b_gidp: 0.291
+  b_hbp: 0.087
+  b_sh: 0.087
+  b_sf: 0.102
+  b_ibb: 0.045
+
+----------------------------------------
+
+SFG 2000 Per-Inning Averages:
+  b_pa: 4.402
+  b_ab: 3.785
+  b_r: 0.634
+  b_h: 1.053
+  b_doubles: 0.209
+  b_triples: 0.03
+  b_hr: 0.155
+  b_rbi: 0.61
+  b_sb: 0.054
+  b_cs: 0.027
+  b_bb: 0.486
+  b_tb: 1.787
+  b_gidp: 0.09
+  b_hbp: 0.035
+  b_sh: 0.05
+  b_sf: 0.045
+  b_ibb: 0.041
+
+SFG 2000 3-Inning Chunk Averages:
+  b_pa: 13.206
+  b_ab: 11.355
+  b_r: 1.902
+  b_h: 3.159
+  b_doubles: 0.627
+  b_triples: 0.09
+  b_hr: 0.465
+  b_rbi: 1.83
+  b_sb: 0.162
+  b_cs: 0.081
+  b_bb: 1.458
+  b_tb: 5.361
+  b_gidp: 0.27
+  b_hbp: 0.105
+  b_sh: 0.15
+  b_sf: 0.135
+  b_ibb: 0.123
+
+----------------------------------------
+
+STL 2000 Per-Inning Averages:
+  b_pa: 4.368
+  b_ab: 3.757
+  b_r: 0.608
+  b_h: 1.016
+  b_doubles: 0.178
+  b_triples: 0.017
+  b_hr: 0.161
+  b_rbi: 0.577
+  b_sb: 0.06
+  b_cs: 0.035
+  b_bb: 0.463
+  b_tb: 1.711
+  b_gidp: 0.08
+  b_hbp: 0.058
+  b_sh: 0.054
+  b_sf: 0.036
+  b_ibb: 0.023
+
+STL 2000 3-Inning Chunk Averages:
+  b_pa: 13.104
+  b_ab: 11.271
+  b_r: 1.824
+  b_h: 3.048
+  b_doubles: 0.534
+  b_triples: 0.051
+  b_hr: 0.483
+  b_rbi: 1.731
+  b_sb: 0.18
+  b_cs: 0.105
+  b_bb: 1.389
+  b_tb: 5.133
+  b_gidp: 0.24
+  b_hbp: 0.174
+  b_sh: 0.162
+  b_sf: 0.108
+  b_ibb: 0.069
+
+----------------------------------------
+
+TEX 2000 Per-Inning Averages:
+  b_pa: 4.365
+  b_ab: 3.874
+  b_r: 0.582
+  b_h: 1.098
+  b_doubles: 0.226
+  b_triples: 0.024
+  b_hr: 0.119
+  b_rbi: 0.553
+  b_sb: 0.047
+  b_cs: 0.032
+  b_bb: 0.398
+  b_tb: 1.728
+  b_gidp: 0.11
+  b_hbp: 0.027
+  b_sh: 0.033
+  b_sf: 0.033
+  b_ibb: 0.027
+
+TEX 2000 3-Inning Chunk Averages:
+  b_pa: 13.095
+  b_ab: 11.622
+  b_r: 1.746
+  b_h: 3.294
+  b_doubles: 0.678
+  b_triples: 0.072
+  b_hr: 0.357
+  b_rbi: 1.659
+  b_sb: 0.141
+  b_cs: 0.096
+  b_bb: 1.194
+  b_tb: 5.184
+  b_gidp: 0.33
+  b_hbp: 0.081
+  b_sh: 0.099
+  b_sf: 0.099
+  b_ibb: 0.081
+
+----------------------------------------
+
+MON 2000 Per-Inning Averages:
+  b_pa: 4.22
+  b_ab: 3.796
+  b_r: 0.506
+  b_h: 1.012
+  b_doubles: 0.213
+  b_triples: 0.024
+  b_hr: 0.122
+  b_rbi: 0.484
+  b_sb: 0.04
+  b_cs: 0.033
+  b_bb: 0.326
+  b_tb: 1.639
+  b_gidp: 0.076
+  b_hbp: 0.02
+  b_sh: 0.053
+  b_sf: 0.023
+  b_ibb: 0.036
+
+MON 2000 3-Inning Chunk Averages:
+  b_pa: 12.66
+  b_ab: 11.388
+  b_r: 1.518
+  b_h: 3.036
+  b_doubles: 0.639
+  b_triples: 0.072
+  b_hr: 0.366
+  b_rbi: 1.452
+  b_sb: 0.12
+  b_cs: 0.099
+  b_bb: 0.978
+  b_tb: 4.917
+  b_gidp: 0.228
+  b_hbp: 0.06
+  b_sh: 0.159
+  b_sf: 0.069
+  b_ibb: 0.108
+
+----------------------------------------
+
