@@ -1,86 +1,88 @@
 README: Late-Inning Performance After MLB Comebacks (2020–2025)
-📘 Project Description
-This project investigates whether Major League Baseball (MLB) teams that stage or allow significant comebacks—defined as overcoming a deficit of 3 or more runs—experience measurable changes in offensive performance during the later innings (7th through 9th).
+Project Description
 
-The analysis combines two approaches:
+This project examines how Major League Baseball teams perform offensively after major momentum swings. Specifically, it focuses on games where a team either completes or allows a comeback of three or more runs, and asks a simple but interesting question: does that moment change how teams hit in the later innings?
 
-T-Test Comparison:
-We compare the post-7th-inning offensive stats (RBIs, hits, walks, and home runs) of:
+Late innings are defined as the 7th through 9th. The idea is to see whether comebacks create lasting momentum, expose fatigue, or trigger adjustments—at the plate or on the bench—that show up in the data.
 
-Teams that complete comebacks
+To approach this, the analysis uses two complementary methods: direct statistical comparison and regression modeling.
 
-Teams that give up comebacks
-against their respective season averages to determine if performance changes significantly after comeback events.
+Analysis Approach
+T-Test Comparison
 
-Multiple Linear Regression (MLR):
-We model offensive performance (post-inning RBIs, hits, walks, HRs) as a function of:
+The first step compares late-inning offensive production to a team’s own season baseline. For each comeback game, post–7th inning stats are measured against season averages for the same team.
 
-allowed_vs_comeback: Indicator for whether the team gave up or completed the comeback
+This comparison is done separately for:
 
-subs_used: Number of player substitutions (excluding pitchers)
+Teams that completed a comeback
 
-pitchers_used: Number of pitchers used in the game
+Teams that gave up a comeback
 
-errors: Number of defensive errors
+The offensive metrics considered are RBIs, hits, walks, and home runs. The goal here is to see whether performance meaningfully shifts after a comeback event, rather than just fluctuating randomly.
 
-📊 Key Findings
+Multiple Linear Regression (MLR)
+
+The second approach models late-inning offensive output directly using multiple linear regression. Each offensive stat (RBIs, hits, walks, home runs after the 7th inning) is treated as a response variable.
+
+Predictors include:
+
+allowed_vs_comeback: whether the team completed or allowed the comeback
+
+subs_used: number of non-pitcher substitutions
+
+pitchers_used: total pitchers used in the game
+
+errors: defensive errors committed
+
+This helps separate strategic or situational factors from effects that might be more psychological or context-driven.
+
+Key Findings
 T-Test Results
-Comeback Teams did not show statistically significant differences in their late-inning offensive stats post-comeback. This suggests that the act of coming back is more of a temporary peak in performance than a sustained momentum shift.
 
-Giveup Teams, however, performed significantly better than their seasonal averages in terms of RBIs and walks. This implies that despite giving up the lead, they remained competitively engaged and may have adjusted their approach at the plate with increased patience and discipline.
+Teams that completed comebacks did not show statistically significant changes in late-inning offensive performance compared to their season averages. In practice, this suggests that the comeback itself is more of a short-term surge than a signal of sustained offensive momentum.
 
-Regression Analysis
-Response Variables: Post-Inning Offensive Stats
-Post Hits:
+Teams that gave up comebacks showed a different pattern. These teams performed significantly better than their season averages in RBIs and walks during the later innings. Despite losing the lead, they often remained productive at the plate, possibly by slowing the game down, becoming more selective, or responding with a more disciplined approach.
 
-🔹 Substitutions significantly predicted an increase in hits.
+Regression Results
 
-🔸 Other predictors (pitchers used, errors, team designation) had no significant effect.
+Post-7th Inning Hits
+Substitutions were a significant predictor of increased hits. Other variables—pitchers used, errors, and team designation—were not significant. This points toward lineup changes and fresh players having a modest but measurable impact.
 
-🔹 Suggests fresh legs and lineup changes may revitalize offensive focus.
+Post-7th Inning RBIs
+No predictors reached statistical significance. This reinforces how context-dependent RBIs are. Situational hitting, timing, and pressure likely matter more here than broad tactical choices.
 
-Post RBIs:
+Post-7th Inning Walks
+The number of pitchers used was a significant predictor of walks. This likely reflects fatigue, loss of command, or hitters adjusting their approach against frequent pitching changes.
 
-❌ No predictors were statistically significant.
+Post-7th Inning Home Runs
+No predictors were significant. Power outcomes appear to depend more on factors not captured in the model, such as pitch quality, timing, and confidence.
 
-🔸 Indicates that situational hitting and clutch performance—often psychological—may drive RBIs more than tactical choices.
+Psychological Interpretation
 
-Post Walks:
+Taken together, the results highlight the limits of momentum as a sustained force. Teams that complete comebacks often experience an emotional spike, but that energy doesn’t reliably carry forward into continued offensive dominance.
 
-✅ Pitchers used significantly predicted more walks.
+On the other hand, teams that give up comebacks frequently show resilience. Increased walks and continued run production suggest emotional control and adaptability rather than collapse. From a sports psychology perspective, this points to mental toughness and self-regulation playing a major role after high-stress moments.
 
-🔹 Points to possible fatigue or loss of command from pitching changes.
+Strategic decisions—like substitutions or bullpen usage—do matter, but they only explain part of the story. Late-inning offense, especially RBIs and home runs, seems heavily influenced by mindset, focus, and pressure handling.
 
-🔸 Suggests hitters display improved patience and discipline in those contexts.
+Data Sources
 
-Post HRs:
-
-❌ None of the predictors showed significance.
-
-🔸 Suggests power hitting is influenced by other factors (timing, confidence, pitch quality) not captured in the model.
-
-🧠 Psychological Implications
-These results suggest an important intersection between in-game strategy and sports psychology:
-
-Comeback Teams may experience a temporary surge in motivation and unity during a rally, but that energy doesn’t necessarily sustain offensive dominance. This aligns with theories that sports momentum is fleeting and athletes must self-regulate to maintain peak performance.
-
-Giveup Teams, contrary to expectations, often continue performing well at the plate—especially in drawing walks and driving in runs. This demonstrates resilience, emotional control, and adaptive focus under pressure—core components of mental toughness.
-
-Strategic Factors, like substitutions or increased bullpen usage, only partially explain offensive outcomes. Player mindset, confidence, and focus are likely just as influential—particularly in pressure moments like RBIs or home runs.
-
-📁 Data Sources
 Baseball-Reference
 
 FanGraphs
 
 Retrosheet
 
-🛠️ Tools & Methods
+Tools & Methods
+
 Python (BeautifulSoup, pandas, statsmodels)
 
-T-Tests using scipy.stats.ttest_rel
+Paired t-tests using scipy.stats.ttest_rel
 
-Multiple Linear Regression using statsmodels.OLS
+Multiple linear regression using statsmodels.OLS
 
-✅ Summary
-This project offers data-driven insight into how MLB teams respond—both tactically and psychologically—after significant momentum shifts in late-game scenarios. The findings suggest that coaching strategies should account not just for physical substitutions, but also for managing player psychology, especially in games with high emotional stakes.
+Summary
+
+This project provides a data-driven look at how MLB teams respond after major momentum shifts late in games. The results suggest that comebacks are emotionally powerful but not always predictive of sustained performance, while teams that lose leads often remain competitive through discipline and adjustment.
+
+From a coaching or analytical standpoint, the takeaway is simple: managing player psychology may be just as important as managing matchups, especially when games swing suddenly and emotions run high.
